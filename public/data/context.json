@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T20:56:08.721Z",
+  "generatedAt": "2026-09-06T22:35:22.824Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -108,13 +108,6 @@
         "publishedAt": "2026-09-05T21:31:00.000Z"
       },
       {
-        "title": "El turismo aportará este año un 3,7% a la economía del Perú - Expreso - Diario de viajes y turismo",
-        "summary": "El turismo aportará este año un 3,7% a la economía del Perú &nbsp;&nbsp; Expreso - Diario de viajes y turismo",
-        "source": "Expreso - Diario de viajes y turismo",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXNjTzZnVUpSYWVOdTdRQ0RhZ216bzctcDV3dlVsakN5dlQ0RzI1cGItcUczeWlvSXB6ZXV0NDdGWUI2QjBUSWdHSjB1dlRFZUU5cHlNcy0waDR2VnJBMkxhU0Uta3pKWlhzQjZaZW5NX3BFc3JQX1JqZkpoQTh5ZHR1SXprd09lZG1xQ0llaUwzYWt6cFBCeTdaMFJFNlV3WE1YWjZJWGJvblZMWjdN?oc=5",
-        "publishedAt": "2026-09-05T17:00:49.000Z"
-      },
-      {
         "title": "Perú.- Economía formal está siendo infiltrada por actividades ilícitas en América Latina - notiperú",
         "summary": "Perú.- Economía formal está siendo infiltrada por actividades ilícitas en América Latina &nbsp;&nbsp; notiperú",
         "source": "notiperú",
@@ -127,6 +120,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHUxTFdzSFpTb0hocTlWTktXa0VEenVBMTBxZ0JTcWNHSUlvVFNSVGxVRkpOanpMX2Ntd2RSSmRhOFZXb0VRVEkxVF96aG5haHJPWTg1TnhtWkJvVVRDek81dEpxRlZqcmlwTFZwdDE4RExKNU10dnQxaXRPSXExNzhrcVM3dFFVMEFHcHh5NjhfOGJtTEt3YmFELXoxc2ZNZndBMUl5MFNCUnBnVzZtR2dR0gHMAUFVX3lxTFAxZ1poODVLbkExMVpWdjh0ZWNHX3FfeUt3eUlQZ0tyU1lsLTZFLWVhNmxHOG55RzFtbHRORmxzQ09kQjRreWtHcUN4UE9uNlZCM2hCYlNoYWd5UGZZSENCX1BQLW1GallSYXRjeVdybEFWUENMbG5WYmpEaURFWGx6RmV2ODVvU2NzNGlRM0pGeVM2MW94NDNmaHpUd01paU1PckM5YV9OV3BXQl9LYUd0eGVsNU9NbkpaVjk3b2FVXzFXd2xmSDktRnJhNQ?oc=5",
         "publishedAt": "2026-09-04T20:18:00.000Z"
+      },
+      {
+        "title": "Perú: inversión minera se consolida como motor de economía y proyecta crecimiento a 2030 - Agencia Andina",
+        "summary": "Perú: inversión minera se consolida como motor de economía y proyecta crecimiento a 2030 &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkI1VktKYVFST0kxOTd1VFQ4eWVSSW9RQ3QtbUNiMU1zenVhQ0t2RldiUEJqUWwxN3VBNG9UaWRyQ2xxdW13LU9QNGVIVEM2a1VCekYxYWtjcVU2N3hsb0E4TC00R0dSZFhBalJ3MTJkUlNVSDdXODNTMVlPU0VOUXhSaEViUmktUkxMQk5HQVFRUm1rTW1UNkhiVFB1Rnk3MEk3aGpnaXlkbGt1djBGZUg0Y3MwbGsxWGRjNUk5eVd5ZUQ5bGF2ZU5XSQ?oc=5",
+        "publishedAt": "2026-09-04T17:00:00.000Z"
       }
     ],
     "sociedad": [
@@ -145,9 +145,9 @@
         "publishedAt": "2026-09-03T16:27:00.000Z"
       },
       {
-        "title": "Luis Galarreta: “El Perú no necesita un Estado más grande, necesita un Estado que funcione” - Canal N",
-        "summary": "Luis Galarreta: “El Perú no necesita un Estado más grande, necesita un Estado que funcione” &nbsp;&nbsp; Canal N",
-        "source": "Canal N",
+        "title": "Luis Galarreta: “El Perú no necesita un Estado más grande, necesita un Estado que funcione” - canaln.pe",
+        "summary": "Luis Galarreta: “El Perú no necesita un Estado más grande, necesita un Estado que funcione” &nbsp;&nbsp; canaln.pe",
+        "source": "canaln.pe",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnRrbk9ybGMzZzJYQm9wOV91Wks1cDVEZ2xVRUVIbm1Ia19FY1dNNm1VNmxVYktPVU9mbGtxWThGc2FNZlNDd1hOYkdwelk5Y3dnVkVIX3RuU3NJXzBYc0ZmdWpKeVNuRk50Mkt1MW9KamtkWG5vQjNvZ1JYU3prYUVtLXA3SkRyaWQtMkFDSTFISlJ0d2cya2NGVFNadmRzY1QxTm83emF1OWhfYWx6aDllbzRydw?oc=5",
         "publishedAt": "2026-09-03T15:45:47.000Z"
       },
@@ -238,27 +238,20 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Gan@Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "publishedAt": "2026-06-17T17:04:18.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "publishedAt": "2026-08-25T12:02:15.000Z"
-      },
-      {
-        "title": "Universitarios buscan transformar la minería peruana con proyectos de innovación - diariouno.pe",
-        "summary": "Universitarios buscan transformar la minería peruana con proyectos de innovación &nbsp;&nbsp; diariouno.pe",
-        "source": "diariouno.pe",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1lNdE5VMTdTWFRDVkZsaXdaWFNFT2kzT2FOQVhERDROc1hfQVVyek1XQllBUG93aVY4OF9aVkRMRFpXemJmLUFrNHh3Q1QxMjFNOVJYbUtFRmNpYVpZSktKekRHVmQtbUVUN1hOU0p1YW9YUGVPdmZJaXFPdERFQnFBeEM2T1ZOR05FcmNVUEs1VjNwSXRQb0JSWUtEdzZKZWhFVVN4RkF2TEJuM3Z3UEpJVQ?oc=5",
-        "publishedAt": "2026-08-20T11:30:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -275,9 +268,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
+        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -296,11 +289,18 @@
         "publishedAt": "2026-05-05T07:00:00.000Z"
       },
       {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - gestion.pe",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
+        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
         "publishedAt": "2026-05-01T07:00:00.000Z"
+      },
+      {
+        "title": "Innovación, el gran reto de las empresas para crecer y desarrollarse - Agencia Andina",
+        "summary": "Innovación, el gran reto de las empresas para crecer y desarrollarse &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTktdVEyR0NCbmxuYjhtdHJ2VElUc1VVcXRNOTJwNGM0a3ZHWmUxSTJHbGdwWkdtRm0zWWlic2FON3NYeGtHNjRYek9zbU1KblpMQVo1bk5qTHZkVUNHbGowUlhXYlJhNngwNHFaN1JGaUdRTlJNNjdjMmhLbkEyNDFodmhJb255ai1Ndm9xVnZWTHNoVnBvaTRQcjB4dEpJX0ZPeG14U0t0bEM1?oc=5",
+        "publishedAt": "2026-04-27T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -309,7 +309,7 @@
         "summary": "Emprendedores peruanos crean plataforma con IA ‘Entiendo.ai’ para personalizar el aprendizaje: ¿cómo funciona? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcVBlVjVSYXJFZERqODhUUDZEbUhFNjBiQy1Da2g2RW4xME5WY0RhWVl5aTQ3Y0ZZd3BRR2FiSVN0YWhyLTkwR05WalJmN0ktRmVIdHNOSTFvYWdRZExLT2N4Wk5RZXBJaldRTTR0MXY2cFR3YzlwSGNRa0lJRUNtTXJ1aXpPSHBxeXdJSXVJcWk3ZW5IbVl5Z0F4ZEtqU0dPM0FaRDVkZXFVWWdfN0dWSF8zX3kxSDhOMkhiNmc4bnZCMnNOS0MxbmpwbjlqeE1VRVRBRFBMclh2ZnUwT2fSAfgBQVVfeXFMTzBJQ1J4NnJaRU9pMFhRMmJQOU50amlhNUpZV01LY0lzTXBIcF9ZXy0zWERMUzNrdUpYaUpQZkZGNUdMNWlNQUt5OEJMMWNhVHlQTnNiNm50RFB3eXlZcEEwNzg2ZnF6VGVXa1JQdkozUFRESmtTMGp2RlZ4RG5wTERmNkJicUtMRkdNbTNBaV9wM0tsemx1ZGFKLThkNDUyUGJTcmo4LUtkemVWLVJ4cUJPRk1aSnhfQzNmSXVacUJ3ZVVEZEg1MXoweUlBZnRGUVlxZnJlMnFxR3pZbHRQU2tocm5nY2tBUTFpTXB5Z2M0MG1VYmNYYWU?oc=5",
-        "publishedAt": "2026-09-06T20:48:47.000Z"
+        "publishedAt": "2026-09-06T21:15:39.000Z"
       },
       {
         "title": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready - El Ecosistema Startup",
@@ -456,9 +456,9 @@
         "publishedAt": "2026-07-12T07:00:00.000Z"
       },
       {
-        "title": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú - Radio Onda Cero",
-        "summary": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú &nbsp;&nbsp; Radio Onda Cero",
-        "source": "Radio Onda Cero",
+        "title": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú - ondacero.com.pe",
+        "summary": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú &nbsp;&nbsp; ondacero.com.pe",
+        "source": "ondacero.com.pe",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDRrWHZhNEtYVHphRGlZQzBPYlh5azE5b0l2R0Fqc0tJRGxnMTR0dFpCQ1A2Qi1xenRzNjd3anRiQ2RZaV9kQ29HQmxwekJXamltNkhvM1ZaS01XZnJrZmZ0bGtSWi1JSFVRd3RMT1ZSWUJDOEthaEliSGg5eE9RV1BEa1R1NzliT3FfTkgzdWw4ejFqWGFJcGRIRDN3Q0NMc1EwQ21EN3R4LU4xSDJLZFJFcEt5Zw?oc=5",
         "publishedAt": "2026-07-03T07:00:00.000Z"
       },
