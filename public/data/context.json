@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T05:30:04.270Z",
+  "generatedAt": "2026-09-09T10:18:53.517Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,6 +73,13 @@
     ],
     "economia": [
       {
+        "title": "Uber, Rappi y otras apps de movilidad y reparto: usuarios crecen sin freno. ¿cómo impactan? - Gestión",
+        "summary": "Uber, Rappi y otras apps de movilidad y reparto: usuarios crecen sin freno. ¿cómo impactan? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjRVRXdwRWdfU0RoNGRidmNsRENUQjA2STRzYVplT21DMTQzVVA3LU1nUUdUbnNaWDVKaUlSWm1acmRXeTVQRm15cm5UT0hSWmZBN0ZpTF9iZFpWamFXd2VCNGhtcndoa19SZVFySzZqUkNiWFEycnRGSV9vbHRwalZYdXZxdjNLQkN2VDJsQWJSYVJzREFORndlUmJraV8xQi0zU1V4V1VvOFlITll4NUpIb0VlaDYxaUhPWG5ia3hpc2g5SThB?oc=5",
+        "publishedAt": "2026-09-09T04:37:47.000Z"
+      },
+      {
         "title": "Tu prisa es mi progreso: plataformas de movilidad y reparto generaron más de S/10.700 millones en 2025 - Infobae",
         "summary": "Tu prisa es mi progreso: plataformas de movilidad y reparto generaron más de S/10.700 millones en 2025 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -120,13 +127,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR19iSHU2SFZOa205dnQ5TENYUVNWWDBOMy1qT1VYU2NHWk9hdnpPNVdsU183NFFFZzdLOUY1ZFZ3el95cEx4VDZhM2JBUWpQd1RfSWJ4eE54cFZGdDZFM29NMFBFZXNwdFpNeXN3dVh1Y3NJa05ua2hhQ3BXQW9YQjBQZjVsOS1JQWpKcGRPN3NOdTlQMmVIMTRRUEVBRTc0eHBhRDVCdGs4Sm5GaFpBNkJyQ2xsMTdMbDl3Rzc2MVZEM1p6a3VsS2p0Tm1vWDdfWlBIYjhUSdIB8gFBVV95cUxOcVU2TUFQVmY0YXZQeVYtLW5tZlE4eXZocGdjeGw4UkZJYjZybXkwNkprdlhGQmJTQ05LMGlQWTNmRmhkQXVZV3dHUXhCQmtuUzdVY1dDNHdndURHd2Jybzd4M3UtSTFjNVozLWFLTXdzVC15dWlTZVVEdWUyZzQwQy1ST0hCVWpuN0NJOWhVQ2xDWDNfbnRnbXhDdWxlbUhrbFBCdmtfbmVZZjA3TDEzeWFhZEp5YnFjb0sydGFjQjZfVGQtLU5iaEN2c2V4VkVSdllLUzNVQjMtWkZSMkY2cjQ5eFhlVlB3cnAxNGkzSklNdw?oc=5",
         "publishedAt": "2026-09-08T15:46:42.000Z"
-      },
-      {
-        "title": "Este es el peor lugar para estacionar en Lima: peruanos pueden perder hasta S/4.410 al año buscando cochera - Infobae",
-        "summary": "Este es el peor lugar para estacionar en Lima: peruanos pueden perder hasta S/4.410 al año buscando cochera &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDRKeTY0cVluM1N2dVlOcm9oMXdTOGlpZFM2ckZ1ZGpuWk5JTEJIVmtra0YzYzB5d0NRcWxPV3BKOVhGUzgxbW5PVnlJTXZLWGJDcWVQaFd6RUdMcm9YcXFaV0NNaWtZc0dnSExHQmlpbDhsSnpjNDVjQjIwRHlscFVpdWFXRDdIdmFCZ0VQUmNCVkVxbzU1V3VTOGV3MEV6MTJCWXdHSC1NYnpPczRrSjZJLWhQUkc2Qzk3aG9KU2pkeElOT2tEZFNiY1R6eGRQQ0luRTY3U01UbjkySVHSAfgBQVVfeXFMTW93WFRJRnltUmZSLWQ1NHRxbkJuT0FNR1V5em1jYlFyQnUtS1RueHQyLTJ5eERLRDN6Zm5aOUhMSmtQYzE4MDUya3BFNVNHdmNTU1NoOHpKYTd1ZjAwajdiS1l0RTEtZnViMmtmcGtLdHVkdGRsVUs5WmE0YVY1RXo3VWJ3WkI3V1pBQWV5c01YNlhLZmlWUldtb3RqcGFqVWFhWGNhVS0yME01VnI4UjV1LWU3Y3hpOEVpQy01a0MxVlRVaDdudVMxdnVTYlUtY3lxb21vUk9teElWR0l6SVFRNGswNmFrRUQ4MWZ5bTBOM0FMUW5oNzA?oc=5",
-        "publishedAt": "2026-09-08T13:31:00.000Z"
       }
     ],
     "sociedad": [
@@ -159,20 +159,6 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
-        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
-        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
         "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
         "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
@@ -185,13 +171,27 @@
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
+        "title": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3RGDvDY - facebook.com",
+        "summary": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3RGDvDY &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXdfdE5JZEEzaktKWS1MYVBVdVRqSW92cWRXQlU1RTR3SjI5YXRvd2QzRUdFRXBZTG1uMlNMZTkzMzVkWXZ0QXVFZG96TGVmZ01vS3lwUDRMRklyZzB6RHBpYVA4cC1fRWg3V053bEp6RFgxbnUzZWg1R1NEdC1JaDJmQUVidGhGUl9icXFNM0w5VTJITDdhUGNzMkNqNXNqZ1hjTnhFcEEzdjQ5Xzl3ZWVzYmpWYVM1SXN1UDhHRUFuRktyXzZZQ1U4ZDRpQlBES0dXZS1hLUlpRU5yVDE4Y3FpWno?oc=5",
+        "publishedAt": "2026-06-06T07:00:00.000Z"
+      },
+      {
+        "title": "Así fue el debate presidencial entre Keiko... - Panamericana TV",
+        "summary": "Así fue el debate presidencial entre Keiko... &nbsp;&nbsp; Panamericana TV",
+        "source": "Panamericana TV",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDQxbVY3WEU1XzFWR0trRW9QOWV5ZDFkQm1jN2Rmd1pMNEN6dk1XTFFhUW5FZm5KTUlyS0RDR0daMy16d092ZWxIVEVQTG5aUndwbGhOVTdKaHRsUS1mSVY2UEZQVjRsX3BqMjViaHJDNHR6NFMya2VqZ3J5Ymo0YzBIZHRmOVFpbjdmRnR4UHg2ZXgzZDNVYzVPS2l5WUtPTzdRNmZ0Q1BJRUwwWWoyanN6a3JVUmI4UFltUmgzVmdQUldocXgxV1JWajNKVGVvSG51WE1qRExWd9IB3wFBVV95cUxQMGFMTzZBZDdLRURHM0wyU3NWUlhqY2s1bEVvU3RibFdGajkxLTYxWGpuTjROTngwLWVtNG1Kc1UtbUxFWWJ6V1p3SDV5MUpBdVQwYjFMX2Rkc1VpZnhXZHZUelc4bDkweGRoVDhLd2ZmZVgzdnpjN1I3SUNLWVZjLUNuc1pkSDBLSkxNdWNaRW1aRUZqZ2k2ZW1fMXh4Q3h5VkJFVlZzeFZ1dWhNcFJ2bnRzbjR1MmpMUTM0eERIdDY0QlpDMnJ0UGthLUhhWGVoM21rTUNkak9RRXVZM1ow?oc=5",
+        "publishedAt": "2026-05-31T07:00:00.000Z"
       }
     ],
     "negocios": [
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       },
@@ -203,16 +203,16 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
@@ -238,9 +238,9 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - businessempresarial.com.pe",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
         "publishedAt": "2026-05-27T07:00:00.000Z"
       }
@@ -282,9 +282,9 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
       },
@@ -312,11 +312,11 @@
         "publishedAt": "2026-09-09T02:51:42.000Z"
       },
       {
-        "title": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO - Perú 21",
-        "summary": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1V3QnM4Rkcwa3BpVHBsaGxCdV9lajFkdjNCNVdrS0xxbi1fQVpYSTFPSDFuQk1rdFp3VlpkeFJEMlU1UjV6U2Y2OE00a0h4a0I1NXlBSXMzaXJzZHBGTkFVTlN5ZTVkTkVJYzl2OHZKQmJKNXdSM2tsTlpIODJrcHkwNWpmX1FrYmFLcXVjOU95eEU5dTNXRG9hWTQwN2MtZTdtazdFcks5Sl9FTVZkOHQ2aGE?oc=5",
-        "publishedAt": "2026-09-09T00:43:24.000Z"
+        "title": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO - peru21.pe",
+        "summary": "Embajador Bernie Navarro: \"Perú ha sido un líder en regulación de IA en el mundo\" VIDEO &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUdhcGgwdEtTTS10ZXl5cnF1WFRVR1NycFNSbGszUU1tRE5jRk5oRHFNa1IxV3p5WFRaSWVwQXp5VDBtWjdxWkxvQ05ESW5pNVFXT1lwUTQ3dDlOX2Zza1Z3SklJSlZWX1U2YU5JYVFOUExOb0xjOVN5THdyZGJRT2dmbjdMNW1jaURGSVJ4ZkIzeHdJT19WSjRzY2JRVURTSExHVV9OdndacE9QNWNNLXp2NVVNelVIS3c?oc=5",
+        "publishedAt": "2026-09-09T00:37:55.000Z"
       },
       {
         "title": "Estados Unidos y Perú acuerdan cooperación en IA: ¿qué áreas busca desarrollar el convenio? - Gestión",
@@ -363,11 +363,11 @@
     ],
     "tendencias": [
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: así puedes transformar tu foto con IA usando ChatGPT - La República",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: así puedes transformar tu foto con IA usando ChatGPT &nbsp;&nbsp; La República",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
-        "publishedAt": "2026-09-08T10:25:00.000Z"
+        "publishedAt": "2026-09-09T05:06:41.000Z"
       },
       {
         "title": "🔴🔵 Una heladera y una emolientera se unieron al viral dle momento en las redes sociales y protagonizaron una batalla de 'farmear aura' causando furor con comentarios y reacciones",
@@ -483,20 +483,13 @@
         "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYXF1LXQtc1VqT1hYLU1JWFJwTVRUZ09RbjhPdHoyRTBxMVptUFMxMC1vNTlYelBDUFdwaldxX091ckNfeFJueUJkdVBDOGZ1VENfX3NwaXhjTnNiLVJabkdpQ0VOUWtBcGdsUldYTXpxazNEWmp2TWhmMFkxVExXM2xiRHg5RDBQdFlNQk1hZmtwWWNrY09GZkFlMExpQ0Q2cGdkcVJENDBPQXhBWHJ3Vzc2RW1pZmVBLUJSa2xLRUY3cFAxVkxsVHZrLWIwamdESEJ4Mm5GS3Bnbk4yQUhKTzNQSVRaYUp0WnBEb1lnemF4ZExEY1FuOTdBQUpWQ3Bl0gGbAkFVX3lxTE5hOHV3dU1TbmlvMUl6cWJpVmdGRXVPWmVJMnR5VUtTNjNfSnkxSC1pTTktaVVid2c5TUo0NEQ0aS1GTFpwOUxvRUswcmtVQUZwY0dEaEtBMmlpYkhsaHZYWUtleVlTenVyWGVQSTVJQ3F2NVZPVUw4emxQRU9wSUY1cTQxTkZtVDlScnpwcXJhTTVlejZSak4ySVY2MHQ0MkhnMHR3N21wNTA2Q2owd2hqcWlRWVYtQVU1QVl1VnJRaXpOS2NMVE95b1pFZmdFX0NZRk9RSE9obUN4UHhrYXUyR3pEYXBncnpJbEwxYWhqSmRkVUlOUmlSOUFkOGkwWG9CWDFGM3hXUUdpQ2xOalFmdld6OWF5LWpRNFk?oc=5",
-        "publishedAt": "2026-08-27T07:00:00.000Z"
+        "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos - Infobae",
-        "summary": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
@@ -514,16 +507,16 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
-        "source": "Ticketmaster Peru Blog",
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - blog.ticketmaster.pe",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; blog.ticketmaster.pe",
+        "source": "blog.ticketmaster.pe",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "publishedAt": "2026-08-08T07:00:00.000Z"
       },
       {
-        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - Agencia Andina",
-        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - andina.pe",
+        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXB6VFBlM1RPTWI4dlVYbG9uMHFmSm8teUlmek51TVhua2dpZTFJWTg4bUdkOXp0TkFnWnJfeTRWYUVXN01tblcxOWhLc1RyX3l0THI0dUdSdVJEb1dfLTVOY3o1YXlNXzk0SFhLTFRFejdrVGlOdmpiWmREcXB3cTVIMVBHd3FJLUJrNGcwUENqbUpyelNqbjhIZDhVNGlZYUthVHFfMHg4WERlSVlXZ0l0RHZTcnVMc1RiYjAtOA?oc=5",
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
@@ -533,6 +526,13 @@
         "source": "Caretas",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0h5WTF4MXVHQjVWY3VYd3VZUWVIWnE5c1VfYTRHbXNMWEhRcUFESUlXYXpmWncyZ1pPNWtjdmN5N3dBOTQzak1mMWswYUUzSTF5aWxUTmFjdnpndmNjenV6dEJORHFRRUFmWG1lU2lDeVNNWENGY1pFYkYtV202QmVUb1djZ2JTS3RYTlNDQVZrM1U5YXBPamlrU2hyT0lzYzk0aA?oc=5",
         "publishedAt": "2026-08-05T17:35:26.000Z"
+      },
+      {
+        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - Willax",
+        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; Willax",
+        "source": "Willax",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3hwa3FscUt6SXJuc294R2I4czZUM0xIaEtrN3dIWnFzdnFhczhDSTlVSzJEa0t6Z2txT2taanQtTEV2anpjWV9xZVpSakdDc1BzY01ISEFpbkppMnZRRnNuWEZ1dEY5MDJMLTRsbnV4d2ZXTDExa3E3alRWaUxEcDRlaFpYUWdGS3Y2T1c4NFlHdlBhQmh5SjN3dVZ1WThqdHpfcjVyYkZ5dW5ZTGUza2R3cEFxb0tod01ZMFBJc1FFZl9PaUlJX19n?oc=5",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ]
   },
