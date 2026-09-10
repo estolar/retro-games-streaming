@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T21:17:27.053Z",
+  "generatedAt": "2026-09-10T23:32:05.212Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,6 +73,20 @@
     ],
     "economia": [
       {
+        "title": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía - Exitosa Noticias",
+        "summary": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía &nbsp;&nbsp; Exitosa Noticias",
+        "source": "Exitosa Noticias",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHBWTkNaNjBfN1VDZnFrRUlOOW1WMzNrSjFDR3E1NDdwMUNQQUZoWlZ0NVAwaFEtMzloUjNodUc4eGx1QTlyWjNNTUVXQ09DM0x2bFI1Z014WUlVQTI3Mk93ZVh1bWowMTlfcjNHaFZQVTNlWjFNZVlHVklpRXNaNkN6Zmd2aW10aUQ4RVB2VWt0NmtGZnJZcFFkOUw5ZUxQdWppX0RhMzRQLTFiQmdUelJFQXJxdjk0SVFmZWRVcw?oc=5",
+        "publishedAt": "2026-09-10T23:11:10.000Z"
+      },
+      {
+        "title": "BCP: Perú podría crecer 6% anual tras El Niño - Revista Economía",
+        "summary": "BCP: Perú podría crecer 6% anual tras El Niño &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzh2Q096Z25kbUVHaFRHYzlMcmltZDFyU0tNazlBdE5iMVZmdEVwWGRIS0pFclJlaVNrVjQ0R0xUVXctYlVVeHVFd25WeENXNHVPd2RES0w5SGFicW1pOTVBQ0hmdVpuTGs2LW1NT1o0d2lUWnpzNm5YY3lOVWFKWkFn?oc=5",
+        "publishedAt": "2026-09-10T21:50:43.000Z"
+      },
+      {
         "title": "Perú a un paso de tener conexión aérea con una de las economías más poderosas de Medio Oriente - Infobae",
         "summary": "Perú a un paso de tener conexión aérea con una de las economías más poderosas de Medio Oriente &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -87,9 +101,9 @@
         "publishedAt": "2026-09-10T14:29:19.000Z"
       },
       {
-        "title": "Embajador de EE. UU.: Perú es un país clave para el comercio y la economía - andina.pe",
-        "summary": "Embajador de EE. UU.: Perú es un país clave para el comercio y la economía &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Embajador de EE. UU.: Perú es un país clave para el comercio y la economía - Agencia Andina",
+        "summary": "Embajador de EE. UU.: Perú es un país clave para el comercio y la economía &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeS1MdURxRzBCeTlYQVFpUHJmV0JTbnI0REdUUlJfTnlmZ1BSYUI1VnY4TDJEZlNzdzlBS2FLZnMwSk1TOGtQcUtIbDAzY2p3RWxSZ1BOREpVVEpGS05vUTM5NDhmcWJjSzlRV2Jyd05PY181QURWZ0lrQWlqeWhHeTdUOWJITjFxNzkycF9UeDBiSWxpelBGcnJ2bl9mU3REaG1ReGZxZ1Btanl0Q1E?oc=5",
         "publishedAt": "2026-09-10T03:48:44.000Z"
       },
@@ -108,25 +122,11 @@
         "publishedAt": "2026-09-09T20:26:00.000Z"
       },
       {
-        "title": "¿El café gratis ya no alcanza? El 75% de oficinistas en Perú afirma que sus beneficios ya no cubren sus necesidades - Infobae",
-        "summary": "¿El café gratis ya no alcanza? El 75% de oficinistas en Perú afirma que sus beneficios ya no cubren sus necesidades &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXduZnJnUXFBRlY1ZENVSm9wOWhuQmJrV2g3YnVNOFk0VjBZOGZzZ09KcC1QS0RVeGhxdklRR0hWVXhEUFQ5VzB4d1dXcjhkeFBqUEl4aWRKem1PNHo4TDJFZW5aUkdZWU9fOTJ3eDFha0VZSGZCWGMycVZjVzg2dFloa3MzSU1pQnl1ZUZqQlRRTzMzSXl0RVFlU1pyRklKRG85U3dYNjhoMGdJT0JzcUJ2M250RkRPeGZEYVowTGJYUWJWdUdncUdncG02SzBoSmpYNUl3YmVkYUxTVjh0SmV2dHJpRlh00gGDAkFVX3lxTFBDbWZiNUl5VXV3ekU0LU11Ykx5QjVzTVBzNWR2NnA2NjVMSHk2bWVPUzU1TVVwSkswVWtzVlNJT291WG01VXY3TkxRTDBacG00Nll1bHF0aHY0LVVBVVllV3ZmZmlpS05zMjBmVExHTWltMGJwd3VQTmR0UVpaaGZsdFdiV1VuOUtwZjFWOTBuMHpBcERicFlqakRtaW5KTDRUR2dib0stWFZ0bGU5UEhYamlVQ08wTWhrUXp5MTZLTnlVOFB1VjhiWEdKUHlaRktmVE56M1A2b0dudEVRY1RmdDhXX2E0eWJXRkdsRlVpOVRZX3VNLWFFN0d5cW0yX1hBTEU?oc=5",
-        "publishedAt": "2026-09-09T19:05:18.000Z"
-      },
-      {
         "title": "Economía peruana ‘golpea’ a mascotas: Ahora se gasta menos en perros y gatos - Infobae",
         "summary": "Economía peruana ‘golpea’ a mascotas: Ahora se gasta menos en perros y gatos &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXpvUjFGSlBRbm9tdUxCSW5uNHJHbmx6bUx4Y0dtNFBoSEg5SzhFRHFsTmZObzR2U2xkbTZTbjh6NXdJNnFzMVZlUXB1VGNpeTNyMVplVHItektZcG9DdmZIcUVMcXd2Z1ZrLUJEUzRVRjR3TXczeVBwZVllajlYUkhLWWJWaFVSVEtuekx0ZVhKQ3otdVZLdGJYM3g4VkoweFczYUpaaDA3eUNiZy1ONUIwX0bSAc8BQVVfeXFMTy16dnVveVJJNk9HdkljelpXYU1md1dGUzdFVG4zYmhYUHNIMUE1RjQ4OUFqUUYyd1ZwM0tEdU4wNXRrNEhrTWtSX01tNGRqZlNmTWx6aE42NHNKSWNuSm9hQTlDZDRxX0tPMk0yWUNIRms1R2Q1bUFqa0dWUElPRVl4c2ZfeDc3RWtGbHNnaTA0UjItQnc5b0RiY3UyTE5WUk5DSnpxcFZQNzFxeHdrLXlVcXN1NmlUMFZzb1pjYlBINDVxY2FHYmVxb1ducWFr?oc=5",
         "publishedAt": "2026-09-09T12:40:00.000Z"
-      },
-      {
-        "title": "Uber, Rappi y otras apps de movilidad y reparto: usuarios crecen sin freno. ¿cómo impactan? - Gestión",
-        "summary": "Uber, Rappi y otras apps de movilidad y reparto: usuarios crecen sin freno. ¿cómo impactan? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjRVRXdwRWdfU0RoNGRidmNsRENUQjA2STRzYVplT21DMTQzVVA3LU1nUUdUbnNaWDVKaUlSWm1acmRXeTVQRm15cm5UT0hSWmZBN0ZpTF9iZFpWamFXd2VCNGhtcndoa19SZVFySzZqUkNiWFEycnRGSV9vbHRwalZYdXZxdjNLQkN2VDJsQWJSYVJzREFORndlUmJraV8xQi0zU1V4V1VvOFlITll4NUpIb0VlaDYxaUhPWG5ia3hpc2g5SThB?oc=5",
-        "publishedAt": "2026-09-09T11:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -159,6 +159,13 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
+        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
+        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
+        "source": "Al Poniente",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
+      },
+      {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
         "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -177,13 +184,6 @@
         "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
@@ -224,6 +224,13 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Gan@Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
+        "publishedAt": "2026-06-17T17:04:18.000Z"
+      },
+      {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
         "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -236,13 +243,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -282,9 +282,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
+        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -296,27 +296,27 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
       }
     ],
     "ia": [
       {
+        "title": "La IA creada por un peruano que busca acabar con las reuniones interminables y convertir acuerdos en tareas - TVPerú",
+        "summary": "La IA creada por un peruano que busca acabar con las reuniones interminables y convertir acuerdos en tareas &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEhzOFlyU2NmNGIzYVY5ejlBNGZpelJDT0RhWE9Bc1NEV0RFMFBYRUNEUWFkbzd6OWtWczk0eGFuSDNLZ1R2WTFQcDRVRERQQ241M3Q3UkxoWXZiY0dwVjBvSlExQ1dCX3FnNE1nLVFYQXNsTWNyNnBEd3k2YlZxQ1NBME11V3VHQjFuRkFRN2NaT2hfWFdvbGVpTmdzUGROQ1JnU2U0SEhxblpaOE1fRmYwaWVxQ3J3WjYyV2tTMFBQVGp2OHBsQmxxcnBmenF4c1diYWo0WjJJcy1mbnM4VHh1Y2htVWVp?oc=5",
+        "publishedAt": "2026-09-10T20:55:45.000Z"
+      },
+      {
         "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial - diarioelnoticiero.com",
         "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial &nbsp;&nbsp; diarioelnoticiero.com",
         "source": "diarioelnoticiero.com",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORmpMZ1FhengyVHRvbkhjSE1YU1lHZzh3VTRmQVdoTWNpWk92bDVIUmJZTW9VWVk2RF9kbHJ4alkzWWRINUVFcHJaR055TzNXTXdVRXFtdklpQVVSeDJDcFpaUXFUWUM1Rmd6R3RnczVSOVZwOXJ3YTJFdktJbnJRSUhMQnF1cHludmpUY3NBZktEYlVyVU9FVmI3eDlBZ25BbDhqamdKT3pYMVh4R0lYMUpycHY3aldlRVhoTkdBWlViaG51ZWxHMlpQT0o3NEFtTXM5OFJ6U0M3SGpldEp5akY1Vm5hQ2gxWHBRQ0ctelc3QlBzSkhVMG1zYw?oc=5",
         "publishedAt": "2026-09-10T20:09:56.000Z"
-      },
-      {
-        "title": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado - Eloriente.com",
-        "summary": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado &nbsp;&nbsp; Eloriente.com",
-        "source": "Eloriente.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTl2NkoxbHVvZGtBLWkyQTRzY25KWll1MnM0d3FKZEc3U2o1SUlPQmVJb092bVlLa2tUWnNKTEt5b21lU0lFN1RGUEppc013dVF2VC1yTEpoQzJiQWlaNXJEaTJWOTZYT3ZfOWp4U1pVb1d1ZGc1d0d4UHMyQlZMSW40Yk5hT3JVUmlGaGVLQ3dmQWlkUTUwb3R4QXRFQm9IYWFEMEcxR3llbnQ4TEhfRw?oc=5",
-        "publishedAt": "2026-09-10T12:03:08.000Z"
       },
       {
         "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
@@ -405,18 +405,18 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
-        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
-        "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
         "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
         "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
         "publishedAt": "2026-07-07T07:00:00.000Z"
+      },
+      {
+        "title": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales - Infobae",
+        "summary": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
+        "publishedAt": "2026-05-21T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -493,9 +493,9 @@
         "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
@@ -521,9 +521,9 @@
         "publishedAt": "2026-08-08T07:00:00.000Z"
       },
       {
-        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - andina.pe",
-        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - Agencia Andina",
+        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXB6VFBlM1RPTWI4dlVYbG9uMHFmSm8teUlmek51TVhua2dpZTFJWTg4bUdkOXp0TkFnWnJfeTRWYUVXN01tblcxOWhLc1RyX3l0THI0dUdSdVJEb1dfLTVOY3o1YXlNXzk0SFhLTFRFejdrVGlOdmpiWmREcXB3cTVIMVBHd3FJLUJrNGcwUENqbUpyelNqbjhIZDhVNGlZYUthVHFfMHg4WERlSVlXZ0l0RHZTcnVMc1RiYjAtOA?oc=5",
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
