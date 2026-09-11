@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T23:32:05.212Z",
+  "generatedAt": "2026-09-11T01:54:53.118Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,11 +73,18 @@
     ],
     "economia": [
       {
+        "title": "Precio del euro hoy en Perú: cotización de cierre del 10 de septiembre - Infobae",
+        "summary": "Precio del euro hoy en Perú: cotización de cierre del 10 de septiembre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnRxVjBWajU5NjhoLVVsTDhvUE1ZMjZWbXVJXzZ6enAyRWRhZ0hXeklnOU1Rcm1PcF9PWWpwRXVIRWdqdkdvV3dhLWxlMnNHUkgyTnVLWVRoU09tcGlOdG5ZME54UWZhREZZQnR3OWpDZENxRnFLSzZkRW1oT3ZpLUxFc3ZacjE4WEZEOWlzbG45QzVpUEJ4emg3YlI4RlZDM3NfYXpJVDFwVDVEVnhv0gHKAUFVX3lxTE5NWTlWWnU3VTgyS3BXdHg4cmFsSHRobzRCWTNlVlNNcS1vV0RzNEdaSnVXeFp3QWZsLUdmalcyeE9zeGhsdnB2SzBjLUVONHJ6RlBCV2VEMU1pbDQtM29kemJHY0trVWJyR1QyRGVucEY2VDJmTWowOTFobS1iUElzeXZCWVktRUdwTVRYcjJUUTY3Q0c2c2hoN1QxLUE5WmFkSWxVTFB4Y0tlSmlMN3ZLVC1FZmZUckthY3Bpa19GMEZ4UFExR1ItLXc?oc=5",
+        "publishedAt": "2026-09-10T23:47:07.000Z"
+      },
+      {
         "title": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía - Exitosa Noticias",
         "summary": "Marco Rubio en Perú: EE. UU. fortalece cooperación en seguridad, tecnología y economía &nbsp;&nbsp; Exitosa Noticias",
         "source": "Exitosa Noticias",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHBWTkNaNjBfN1VDZnFrRUlOOW1WMzNrSjFDR3E1NDdwMUNQQUZoWlZ0NVAwaFEtMzloUjNodUc4eGx1QTlyWjNNTUVXQ09DM0x2bFI1Z014WUlVQTI3Mk93ZVh1bWowMTlfcjNHaFZQVTNlWjFNZVlHVklpRXNaNkN6Zmd2aW10aUQ4RVB2VWt0NmtGZnJZcFFkOUw5ZUxQdWppX0RhMzRQLTFiQmdUelJFQXJxdjk0SVFmZWRVcw?oc=5",
-        "publishedAt": "2026-09-10T23:11:10.000Z"
+        "publishedAt": "2026-09-10T22:00:00.000Z"
       },
       {
         "title": "BCP: Perú podría crecer 6% anual tras El Niño - Revista Economía",
@@ -91,7 +98,7 @@
         "summary": "Perú a un paso de tener conexión aérea con una de las economías más poderosas de Medio Oriente &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2h6a01VTjBseTNveEI4UUJfcEU3MVhUNzNzcFlQMl9vdW9Lek56R0VYamk1RTNYUjNUbUxuQ3dsYUhQT3ppeVlKVTBKRm9Jc2tHVjVxZnBFLUhIbUhfOGlxZjM3ejMtdHRzeElITG11UXVId09XWkpzZXJyOE1MR1ZRMko2UXBOZHY4R2wtdGt1aUx2MTJ2X3lSQlFqNUdjdkhsdlFuaWwzWXU2Z3hzUVNTQW9Dazl5UTZlVHZ0YVJSUEJtR1FSVTlrQW90R2Ri0gHrAUFVX3lxTE5ub2tDSnZxTTc0NEhyWEJFMjJlNXAwTU1NRUUxdHhOMXU2VENnbURYOHBJWklSSm4xN3RCeTBUckV6VkQ1WkhjbTdwdEhjZ3A0Y09qNlNYNVlGU0xHVXQwODgtMGs2VUtUVlVNeTk2UWFEUFVFN2dnejNfQ0tkY0p3Vng4Vi1LelVPYk1EWlhWSV9ueEtlRDFFd0sxbWg1SzI4WS1pREp6bV8zdG9mSGtLRmZGU18xYjhRdXNvRm5fMzBjUlVlYWxwYlIxOFR6UlpfUVlFbThCWV9JZFFEUElud09xcjFiWGFMejg?oc=5",
-        "publishedAt": "2026-09-10T16:07:44.000Z"
+        "publishedAt": "2026-09-10T17:04:00.000Z"
       },
       {
         "title": "¿Puede Perú mantener el ritmo de la revolución digital empresarial? - Revista Economía",
@@ -120,20 +127,13 @@
         "source": "El Universo",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUllzbnViZFk3YmJod0tpdFlodEVLRHNTQ3dfdGFSTWpjRU54U1lMRmlMcnBhY083Y1lrZkpkQkwzc1JpdnZaTGVRR0RxN3VYQWxxSUtpQzE2bXJwMjVoNWZlOGxhTHo2czVxQXcxMUd0Y1BFUEZnX29XV041VTIwWjZnWEFoOXRLYnMwZjFuX2luNFNyTnhRQTBWemN0T1ctYm05aHBSYlotLVZmZmJEQTlqM0tXNktnSkdWUHhJNVFVTGs?oc=5",
         "publishedAt": "2026-09-09T20:26:00.000Z"
-      },
-      {
-        "title": "Economía peruana ‘golpea’ a mascotas: Ahora se gasta menos en perros y gatos - Infobae",
-        "summary": "Economía peruana ‘golpea’ a mascotas: Ahora se gasta menos en perros y gatos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXpvUjFGSlBRbm9tdUxCSW5uNHJHbmx6bUx4Y0dtNFBoSEg5SzhFRHFsTmZObzR2U2xkbTZTbjh6NXdJNnFzMVZlUXB1VGNpeTNyMVplVHItektZcG9DdmZIcUVMcXd2Z1ZrLUJEUzRVRjR3TXczeVBwZVllajlYUkhLWWJWaFVSVEtuekx0ZVhKQ3otdVZLdGJYM3g4VkoweFczYUpaaDA3eUNiZy1ONUIwX0bSAc8BQVVfeXFMTy16dnVveVJJNk9HdkljelpXYU1md1dGUzdFVG4zYmhYUHNIMUE1RjQ4OUFqUUYyd1ZwM0tEdU4wNXRrNEhrTWtSX01tNGRqZlNmTWx6aE42NHNKSWNuSm9hQTlDZDRxX0tPMk0yWUNIRms1R2Q1bUFqa0dWUElPRVl4c2ZfeDc3RWtGbHNnaTA0UjItQnc5b0RiY3UyTE5WUk5DSnpxcFZQNzFxeHdrLXlVcXN1NmlUMFZzb1pjYlBINDVxY2FHYmVxb1ducWFr?oc=5",
-        "publishedAt": "2026-09-09T12:40:00.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad - Norte Sostenible",
-        "summary": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad &nbsp;&nbsp; Norte Sostenible",
-        "source": "Norte Sostenible",
+        "title": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad - nortesostenible.com",
+        "summary": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad &nbsp;&nbsp; nortesostenible.com",
+        "source": "nortesostenible.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kMkgyOFQ3UzgzQUo2RmJmVnl3TGpOTE45eFFOWVYySkF1NFJKcXptcWtEdXRMdlBPUkNpMFdzT29TUDlpTTdfWFk2Q2lweEowLWFPVE9oS0xuLXZmRjRVT3IyM2RaQ19qOWh6VTRTX3dTNURIOHQwY1Bpb1dmUQ?oc=5",
         "publishedAt": "2026-09-10T14:46:52.000Z"
       },
@@ -224,13 +224,6 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Gan@Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
-        "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
         "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -243,6 +236,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -370,9 +370,9 @@
         "publishedAt": "2026-09-10T10:19:00.000Z"
       },
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2c?oc=5",
         "publishedAt": "2026-09-09T19:48:09.000Z"
       },
@@ -490,7 +490,7 @@
         "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYXF1LXQtc1VqT1hYLU1JWFJwTVRUZ09RbjhPdHoyRTBxMVptUFMxMC1vNTlYelBDUFdwaldxX091ckNfeFJueUJkdVBDOGZ1VENfX3NwaXhjTnNiLVJabkdpQ0VOUWtBcGdsUldYTXpxazNEWmp2TWhmMFkxVExXM2xiRHg5RDBQdFlNQk1hZmtwWWNrY09GZkFlMExpQ0Q2cGdkcVJENDBPQXhBWHJ3Vzc2RW1pZmVBLUJSa2xLRUY3cFAxVkxsVHZrLWIwamdESEJ4Mm5GS3Bnbk4yQUhKTzNQSVRaYUp0WnBEb1lnemF4ZExEY1FuOTdBQUpWQ3Bl0gGbAkFVX3lxTE5hOHV3dU1TbmlvMUl6cWJpVmdGRXVPWmVJMnR5VUtTNjNfSnkxSC1pTTktaVVid2c5TUo0NEQ0aS1GTFpwOUxvRUswcmtVQUZwY0dEaEtBMmlpYkhsaHZYWUtleVlTenVyWGVQSTVJQ3F2NVZPVUw4emxQRU9wSUY1cTQxTkZtVDlScnpwcXJhTTVlejZSak4ySVY2MHQ0MkhnMHR3N21wNTA2Q2owd2hqcWlRWVYtQVU1QVl1VnJRaXpOS2NMVE95b1pFZmdFX0NZRk9RSE9obUN4UHhrYXUyR3pEYXBncnpJbEwxYWhqSmRkVUlOUmlSOUFkOGkwWG9CWDFGM3hXUUdpQ2xOalFmdld6OWF5LWpRNFk?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
+        "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
         "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
