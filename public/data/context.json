@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T17:30:58.460Z",
+  "generatedAt": "2026-09-12T19:49:29.465Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -14,6 +14,13 @@
   ],
   "topics": {
     "politica": [
+      {
+        "title": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso - Infobae",
+        "summary": "El nuevo gobierno de Keiko Fujimori en Perú: un comienzo accidentado en un viaje peligroso &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHhlZV9iZ1lHSE01dEJyTlJIVEtva3NsVEpYYlBscDRYZzhXOGY1a1lJZHVWM3pvZ3pDMHdvQkVDdlpQOHl5Q1JYUFFJbFJpWWhmYVYtZDBDMm9XLVl0T2tEcDl1QnlYbkY5Y19NZUVyNUhaYzNXRzF4RTkwQzN2c0kwV2pVN3paR0Y3bVI1dDhvalVIWHRudl9vSGJ5OXh2Q0daNXFHSDBEdzVPRGZMRG9TQ3FJV0tkZW1fcU84dkdtOGkxRHVGRDZn0gHkAUFVX3lxTE5sZ3gyYUswNkFqR3Zra1JxLUxEcUtiYmxpSnByNVV3NElzeXdFTmFSY3NhbWpLS2drV3ZQd0tMeEp3cWoyZUVyMVZtbFdzZnhuVjNzMUxwSmhmZFlmTkJ0MExibmhTX21kYzc5N2Ixd0huR1hfRW9uWWtqRTBXVTBJOWRPNFhUcU9TM2Rkb3ZpdlhMLU9FYkFiekpTczNOWkZ6S0JxR3BmWno5b2k1RHRlUUowczBZUWtGTHJ2TDFkRGw1dFBwQzBHcU9wZHE2YjBuOFRjQ2N0Q2JLOEZzTHVacjczQg?oc=5",
+        "publishedAt": "2026-09-12T08:20:00.000Z"
+      },
       {
         "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
         "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
@@ -62,13 +69,6 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVQ0cTVuRWh5TjdZYUk3QnpIbnh5M3FyZGJNTmxBZ1p3Rm92Q1ZtM1Fia0owWmI1Ujl4ZE03X3NVNFR5Tjl2VnR5VVpBdDU5MTVCX1k1b2VhUUh1M0sySDZHb2Z6d1lxekxHTTd6YVItQ05jNjhtaktqYW4wZmhqeXh4YXV5NUNDMHNUdlpXQzhucFZ5a2NIQjFEUW5nOVNTcldLOVpRYXR3NXM4V0pGMElDVy0xdzBkZHl3Nlp6aEZ3RXZMM01IOGEwZHpXT0FnS3BzT2RNZkFYNWF0YktELWN6MnM?oc=5",
         "publishedAt": "2026-08-28T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirm",
-        "summary": "🔴🔵La presidenta Keiko Fujimori descartó que el pedido de facultades legislativas presentado por su Gobierno incluya la fusión de ministerios. \"Eso no se está contemplando\", afirmó al ser consultada por Exitosa sobre una eventual reorganización del Ejecuti &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXZabHY0NEZkQ1lxOFpuSDBMRFhrTW1WYW5LTHJrZkZDelRacVh1ejJWbzlCSXIySl9vb0paZFc3VHlZbzVId1ROZ2h5bDhvbEZFdW5tU3RKeWJucHVhUGxSMWdRTnc3aFgtcllENWRtTy1xSWcySUFXM2V2Wm5tdlZyZlVMcWkzOHhfRjdCaEZtWkdGSGVMQWtqQ0VtVGtibkRaN1Bvc2lJY2ZFbDJQZ2NOQXBZa0h0Ulg1UGFsT09qSEE3dWNwaml3Q3pmMEZPSUVZalFyZjhBMmt2V2k0QzZtQnY?oc=5",
-        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -101,9 +101,9 @@
         "publishedAt": "2026-09-11T16:11:00.000Z"
       },
       {
-        "title": "Marco Rubio refuerza alianza con Perú con nuevos acuerdos en seguridad, economía y tecnología - canalb.pe",
-        "summary": "Marco Rubio refuerza alianza con Perú con nuevos acuerdos en seguridad, economía y tecnología &nbsp;&nbsp; canalb.pe",
-        "source": "canalb.pe",
+        "title": "Marco Rubio refuerza alianza con Perú con nuevos acuerdos en seguridad, economía y tecnología - CanalB.pe",
+        "summary": "Marco Rubio refuerza alianza con Perú con nuevos acuerdos en seguridad, economía y tecnología &nbsp;&nbsp; CanalB.pe",
+        "source": "CanalB.pe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUC04NDVYSEdhQUZKaDg5NldhOEVkNGwyOWJxQUpjMlp2MVZ1dnBNTFRoS1ZIb0p4N1RPSUJ3Mlp1QnFTYnZOUTMxdlhHVkFzRDNZMGJaMGEzVVpRMXZJYmJGcEh3MHEyMkllWUZfaVh5Y044V1VmVjMtU0JCU3kwTzAybTJfY0hsVWZJWTNVWmRnTl9PRjFTdE15Ym1jNXAxSWh1OUlvUXhmSHpELXRzalVEOEhFTC1maFFtVWJNTlVidVBzblZj?oc=5",
         "publishedAt": "2026-09-11T14:09:35.000Z"
       },
@@ -145,16 +145,16 @@
         "publishedAt": "2026-09-10T00:10:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - elperuano.pe",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
@@ -180,10 +180,10 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - diariocorreo.pe",
-        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
@@ -231,9 +231,9 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "publishedAt": "2026-06-17T17:04:18.000Z"
       },
@@ -246,6 +246,13 @@
       }
     ],
     "ideas": [
+      {
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
+        "publishedAt": "2026-08-25T12:02:15.000Z"
+      },
       {
         "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
         "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
@@ -275,9 +282,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
@@ -294,29 +301,15 @@
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
       {
-        "title": "Empresas peruanas: 43,75% ya usa IA pero faltan talentos - ecosistemastartup.com",
-        "summary": "Empresas peruanas: 43,75% ya usa IA pero faltan talentos &nbsp;&nbsp; ecosistemastartup.com",
-        "source": "ecosistemastartup.com",
+        "title": "Empresas peruanas: 43,75% ya usa IA pero faltan talentos - El Ecosistema Startup",
+        "summary": "Empresas peruanas: 43,75% ya usa IA pero faltan talentos &nbsp;&nbsp; El Ecosistema Startup",
+        "source": "El Ecosistema Startup",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGZ6enktUUtzSmZvcFVpZVlUNktURmZab3NYWkQ2S2RJUG1PQW1BU1VLTmhyRm1lOW9uek9NSUpnN2ZpX1lsb1YtaGh2NG80THFRalpsSXZGNVNXSGhmeEpNTTRwci15bGdOWDA2eFQzaE0tXzNfcXVlYmRla09ic1BRcm9rbUJVWDQyWg?oc=5",
         "publishedAt": "2026-09-11T18:18:28.000Z"
-      },
-      {
-        "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial - diarioelnoticiero.com",
-        "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial &nbsp;&nbsp; diarioelnoticiero.com",
-        "source": "diarioelnoticiero.com",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORmpMZ1FhengyVHRvbkhjSE1YU1lHZzh3VTRmQVdoTWNpWk92bDVIUmJZTW9VWVk2RF9kbHJ4alkzWWRINUVFcHJaR055TzNXTXdVRXFtdklpQVVSeDJDcFpaUXFUWUM1Rmd6R3RnczVSOVZwOXJ3YTJFdktJbnJRSUhMQnF1cHludmpUY3NBZktEYlVyVU9FVmI3eDlBZ25BbDhqamdKT3pYMVh4R0lYMUpycHY3aldlRVhoTkdBWlViaG51ZWxHMlpQT0o3NEFtTXM5OFJ6U0M3SGpldEp5akY1Vm5hQ2gxWHBRQ0ctelc3QlBzSkhVMG1zYw?oc=5",
-        "publishedAt": "2026-09-10T20:55:35.000Z"
       },
       {
         "title": "Minería, logística y agroindustria concentran las mayores barreras para adoptar inteligencia artificial en Perú - Infobae",
@@ -324,6 +317,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlZRNVdVcHE2LTBjOE9sbkhDMmlGMm5Zd3BzbGFQWDQwTG01XzQwZjloNEw4UjVySHdBSHdtQnBTNFRLX2JaRmFpMXJlWk96OHNwZkFuUG1XR3p6VzBFZDJQT3NUM2hxRlg1eE1CZmctck9laHcxUkExMVU2MDhNOS1ObHlOSG9uNnY4X3dBTkluQ2c4cDZMWG5UT0NiYW5yRm5FN2Q2V2Q3azljX1dQRTVycnJnR0piR3dRWlBnbzVWVzViSllrRW5GWmF1UVBSUnk1bVFrbEphNnR4SEJmenM0MGZKZ9IBgAJBVV95cUxOZmw3c3luSS1IeU1rVUlhMWdBM1BfYi1UUVk2Z1RjR1V2dERLLVZPbFVkRTJ3VEo3VjZWaW1Vd0pUOVRvMHVGVnh0MlVHbW5tcXp6cF9QUGNOaHJyWGFWbTVoVmdwcEw3OU5hRzhpSnVDaDVKcmVzUW04TDBZTWtoUllEUEd1MzdZdkhKWS1JSmswYllRcXdsSm9xakN5UXNwejJha3hZLTh4N29pcmlBMEFjbURraVowdTJ4a3hNbzc1MWF1NXlTUld2OFpaaWl3RnlLbTVSMUhUMzFsa3hoSDR6XzdxR0V1ZUZ5cDBMa240cTRaN2RMOEl0REFFaF9I?oc=5",
         "publishedAt": "2026-09-10T19:42:00.000Z"
+      },
+      {
+        "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e IA - lacamara.pe",
+        "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e IA &nbsp;&nbsp; lacamara.pe",
+        "source": "lacamara.pe",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR21hSVdibXN6STU3cm1fSWNJamhORzBnYnB6cElPMFlwWE4tY0JnOWhTZXdNZm8wYWw2c2lGNzdvVlJ4OFFHbUJMOE1MRC10RWhsSV9MREhWRkx5SW9IM2hwcDhtZGpNZ05tVFRUc0JwalhwUnI0bWh0UU5oUnpsQ0xsNG1NTF9iQTJNSWhMdzgySGVmQllQblpEdms1TjJNSkZNejZfUzFFVHp4ajVSbExvUUtwYjRYODNhUDBpellGOVRMd0NHdThSaHdTLUlMUk1zblBrQ3MydkFoYUViSzVPdDg?oc=5",
+        "publishedAt": "2026-09-10T17:05:19.000Z"
       },
       {
         "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
@@ -354,9 +354,9 @@
         "publishedAt": "2026-09-09T16:37:00.000Z"
       },
       {
-        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
-        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
-        "source": "El Universo",
+        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - eluniverso.com",
+        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; eluniverso.com",
+        "source": "eluniverso.com",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
         "publishedAt": "2026-09-09T14:00:00.000Z"
       }
@@ -421,13 +421,6 @@
     ],
     "farandula": [
       {
-        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
-        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "publishedAt": "2026-09-10T03:12:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -442,9 +435,9 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -475,6 +468,13 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
+        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
+        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
+        "publishedAt": "2026-07-12T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -528,9 +528,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
-        "source": "Ticketmaster Peru Blog",
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - blog.ticketmaster.pe",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; blog.ticketmaster.pe",
+        "source": "blog.ticketmaster.pe",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "publishedAt": "2026-08-08T07:00:00.000Z"
       }
