@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T19:04:09.710Z",
+  "generatedAt": "2026-09-13T21:53:51.737Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,16 +22,9 @@
         "publishedAt": "2026-09-12T08:20:00.000Z"
       },
       {
-        "title": "🔴🔵La presidenta Keiko Fujimori pidió al Congreso de la República acelerar el debate y eventual aprobación de las facultades legislativas solicitadas por su gobierno, al considera",
-        "summary": "🔴🔵La presidenta Keiko Fujimori pidió al Congreso de la República acelerar el debate y eventual aprobación de las facultades legislativas solicitadas por su gobierno, al considerar que existen asuntos urgentes que no pueden esperar, principalmente la luch &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZmRIWXpNbUEwNVVzMkV4MU1rMV9ndUNSaXJqdzVhLXN6UnhqbFNXb293QWVkdGd6Ty1zTS12RXZNZ1k0b2xCa05IS3Q4VFVicGxNejNOOEJIbnluV25QSjlXRXlWb0k1cjJtSlk4WGJuMVl1VkY0a2x4azRxWlN5ZC1OT2ZoeWtWbkpoQUp2dm1vZnItSkEzSVE5LVFzYl9QYkNuWDlLVHJDWVFFUnc5RmVtNzBSMlVKNG9OQnZqR1pxVkFKd19oSGdpNTVYMUVqS2xSaEV4N2FGNG10T0JQS0VtcHRERFpXcVdJ?oc=5",
-        "publishedAt": "2026-09-12T04:38:19.000Z"
-      },
-      {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - exitosanoticias.pe",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; exitosanoticias.pe",
-        "source": "exitosanoticias.pe",
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
+        "source": "Exitosa Noticias",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
         "publishedAt": "2026-09-11T20:17:00.000Z"
       },
@@ -48,6 +41,13 @@
         "source": "Perú 21",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnV3Ulo1aXZPYlMwS1Jtcm5Kc0tRazlRVkRPc3ZVa01FQzc2NUpQV0tRMXh3WXJ6YTRsQzlZOU5XWmNLWVRyUzFFYXRrZGVvaHFpVmc3NlVIYzR2bDU3Nk9sRnlidks3SlhaVWpWeXFuYmZvSXR3ODJic3A5WFJIelVKQkwwTzhvYUJ3MUJfc3FReUVrelBlaw?oc=5",
         "publishedAt": "2026-09-11T16:59:36.000Z"
+      },
+      {
+        "title": "🔴🔵La presidenta Keiko Fujimori pidió al Congreso de la República acelerar el debate y eventual aprobación de las facultades legislativas solicitadas por su gobierno, al considera",
+        "summary": "🔴🔵La presidenta Keiko Fujimori pidió al Congreso de la República acelerar el debate y eventual aprobación de las facultades legislativas solicitadas por su gobierno, al considerar que existen asuntos urgentes que no pueden esperar, principalmente la luch &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZmRIWXpNbUEwNVVzMkV4MU1rMV9ndUNSaXJqdzVhLXN6UnhqbFNXb293QWVkdGd6Ty1zTS12RXZNZ1k0b2xCa05IS3Q4VFVicGxNejNOOEJIbnluV25QSjlXRXlWb0k1cjJtSlk4WGJuMVl1VkY0a2x4azRxWlN5ZC1OT2ZoeWtWbkpoQUp2dm1vZnItSkEzSVE5LVFzYl9QYkNuWDlLVHJDWVFFUnc5RmVtNzBSMlVKNG9OQnZqR1pxVkFKd19oSGdpNTVYMUVqS2xSaEV4N2FGNG10T0JQS0VtcHRERFpXcVdJ?oc=5",
+        "publishedAt": "2026-09-11T16:38:31.000Z"
       },
       {
         "title": "Gobierno plantea usar hangares militares para albergar temporalmente a criminales de baja peligrosidad - Infobae",
@@ -87,13 +87,6 @@
         "publishedAt": "2026-09-13T01:15:00.000Z"
       },
       {
-        "title": "Prepárese para el FEN: La lista de alimentos que subirían de precio y escasearían, prevé el BCRP - Infobae",
-        "summary": "Prepárese para el FEN: La lista de alimentos que subirían de precio y escasearían, prevé el BCRP &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbzc2bHFQOXkxQTJOeTdEQVZUbHpFeHVWaTBOUzFaUEwwUWwzWVd2UHJqZjJCS0kwdFJ0Yi1mSTg5bWdXaloyck9ScE53VFdBYjEwbmdOVUdBbFNBeDhtM1FDNTRhSG15S0FLa3hhZWhjV0xMdURhMzBkcG11eFFVaXBJNU9sV0hBWDhQWUIwOGNaMm5ZYUZYdUo2UVZoc1MteE9MU3R4cnJ6S1ZZVFFJVW5PY3hrVXRCYmJwQmNDMkp6dkZvSTIwMnBTMVlOam1i0gHrAUFVX3lxTE5PRHhvTVJsc3BVb1ByQ1JEY2tiM0s0WWdtX0h6aG5TSEsyRG01ZklqSjA5N0k2TFNtX19RTmVOYVVubmxjbVpKbkZyM3d1Yk1sUm5mYnRaT1ozRWR1VnZ6YjNEN0VfbTd1Y3FRd0lRTTFadVZqcy1Zbmt1cTZob2lLbXBXZll4dFU2eVZwQklBSWhNTmg0c3B0MDR6WkVPS1FBd2xjNzZWQnVsek5LbkVvcExHT2dnYld3aFhDcWhXQmRHY29tbDEtOFdqaWZMeC14WHdUQnViWE5aRmNhZndOR1lLT0tDaDJ6NVE?oc=5",
-        "publishedAt": "2026-09-12T19:54:00.000Z"
-      },
-      {
         "title": "Julio Velarde sobre el fenómeno El Niño y la inflación: “El escenario no es bueno, pero es temporal” - Infobae",
         "summary": "Julio Velarde sobre el fenómeno El Niño y la inflación: “El escenario no es bueno, pero es temporal” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -127,6 +120,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWQ1aFNVZmR3Y1ZReS16VllSSlBHNlhNSVN0VmM1aGNPTUdidUI0TGUySi1ielU2aFVnXzhUYndMbm5xczFGRVN1Rzc2Q1g2cFNPN0p6ZlV1WEhtTHNXeWhNRm51MzUwQXp2VmVUTDVrWFFKWkdfZV9wZ2VvTDd4LUo5SmRYQVZWcGJHQS11bV9nNjF4LVVCNEhFRnFISmMyakhQbmNyb0JqMG40M01rSUV3UGN6dDFPcDNB0gHWAUFVX3lxTE1uTkhYUXlxbUhxcHcyRTd3eU40LUl4TjFuMzdNdXZ5WENVbzVqckxMY2MyNk1XRTMydF9ScFNzMXRRTkp0TG5CSG5zNWIyMmI2b0NXTDFqWnFaTHdCcVdGcXBWaVpXQV9JaGpzNVFfSDVYVEE5cWJUNkZBclN6eHN2UktFaXYtTVBvZ2JlWG9MZ2Fodm56STFUdFpXOVFaQ1JLZ3hZeVg5bXdyLTNxRHZoZVlSU1o5WlFxUm1IN0FLM0dtN25ZYUEtWWVmRlpvRXcxUTFaeEE?oc=5",
         "publishedAt": "2026-09-12T12:57:00.000Z"
+      },
+      {
+        "title": "Julio Velarde advierte fuerte impacto de El Niño en Perú - Revista Economía",
+        "summary": "Julio Velarde advierte fuerte impacto de El Niño en Perú &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUx6aHFfNWVsamw0UGF0ME04M2x4aE5ZWE5taTN0UDRCYzZkTWotYWJQX0F6b2pjZ0FYdWZqZUZwTWFZWHl0eE44UFAzZzVqdFRUUGFyalkwWTF2RUxoVktlRWlKZl9fbThEYngta3lHOGxaVVJ5TkZhNUo5X2ZEVmlnRXJxR0xyS0xsZzRtaWRMVWs?oc=5",
+        "publishedAt": "2026-09-11T20:45:16.000Z"
       }
     ],
     "sociedad": [
@@ -217,6 +217,13 @@
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
+        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
+        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
+        "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
         "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
         "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
@@ -236,13 +243,6 @@
         "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -254,9 +254,9 @@
         "publishedAt": "2026-08-25T12:02:15.000Z"
       },
       {
-        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - cosas.pe",
-        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; cosas.pe",
-        "source": "cosas.pe",
+        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
+        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
+        "source": "Revista COSAS Perú",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VkdVhtZ2g2YXZjR1hyZHZFMmMySExGRENzOFFLNU5MeF9uT0h3MHdSb0VyRGg3ZVNpeVQ2MnhUczRoMHptZlVmVDd3ODk3QVpvb192d2RQOF9nYjZscEF2TkRDNUMyXzE1SnFSTV96NVAtekI5MS1HQWJGYjV5ZmtFTGpEV3d2eU45OWk4ZXY0ZXJQd28tY3NQSnAyMVpURVk5WGNtZEstRE0zc2V0Y1BsdTM4aG9vOG1lTWFxUTFPem4tUWVWcERTejdMcktVX1EzM3hiLTZSZEtvR2VOalh30gHnAUFVX3lxTFAtN1VPcm1jMWhMWVp4UG9CRmNCZTkxODFteEZ2UmNvUTJXdnRkNXpxX0JyaE1UR3hhQ0pLZGxEcGtUd2xHTzRTTlBRMnVHMnQteHpnODJ6VGdwY2I2aXprS05XMm1lSWRoVWJyVkdfRVViM0JiN0hQQUJ2Um8zaTNpVlM1bDkwbnNPTHJ6dFlQbGltdW85M3V1d0RjMFhFbDBON2tBcE5qeF9MWUplZzQ5VXhmTm9YOUFsbkpUeFlmQXBtdUVNcHhXUXhhRjV0dmJSNXAzX1pTVlhLeVc3bzNiZFBhY3lVbw?oc=5",
         "publishedAt": "2026-08-20T07:00:00.000Z"
       },
@@ -456,9 +456,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -483,7 +483,7 @@
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnBsekZxUkhLV3VkTVl6S1dxLUlJaXZPZjF1TE9GMFJnTUJRQWtGLVlPQTlFNVZabVdSeGRscGFTbmRJRThMdW5zRXhRaXA2dU5tNk5nTVl0ZmFadjJPeW9yTzJtY3FwUUFYVFBUTlkySzNXdm56dTZQa1p6V0ZtRS0xeHdWSmotTjM4TFpXOEZsODRRTnI3UHFxVWdqNlJuRVRRV3NyU0dnZ0trX3NtbHRzaHAyYk5RTmlHTkctR1A2cXNuQlJnUzFTUG1BcE0tSGdtc3JZUXJYdnQ2VS1jR3kzajBkOEUwZGx0elB2dTN5Q0pjaG1tV3NoR3HSAZcCQVVfeXFMTWMydDVBdFhCMXdLbXVsZXBsZWZYeklCZnNsbjVFUTFJVGtzUjRIWTFfQ2VRTGMweG0zZDdKMkR0blVLS0JTMkxOZk0wcmxWNzVsYTdpT3lFNEVhTDRzOTZ4MFd3LVotS0tMc2QyNTZfS1dFTEJnRFBmQlhmRUVFRjNUMVNuYnpyWDVoakVIb21NMXZ6aHFLSHpiM2FTTTdweS1UalhYY2w1WVFXLWtCaUxOdlZPemVfTnRldWx1VV9KSHpSaENIUDQxQWRzeE1Cc0pyTi1WbTVQUER3STZsRm5SNUFzZ3E5N3U4N3lFclZ1UExrQkU2R2dTZnh6M1pUdzNjQzVTVmlWaElwQ1c0WWlLR1NFTmNR?oc=5",
-        "publishedAt": "2026-09-13T18:28:58.000Z"
+        "publishedAt": "2026-09-13T19:07:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
