@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T13:53:46.028Z",
+  "generatedAt": "2026-09-17T17:49:31.600Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,9 +29,9 @@
         "publishedAt": "2026-09-11T22:00:54.000Z"
       },
       {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - exitosanoticias.pe",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; exitosanoticias.pe",
+        "source": "exitosanoticias.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
         "publishedAt": "2026-09-11T20:17:00.000Z"
       },
@@ -73,6 +73,27 @@
     ],
     "economia": [
       {
+        "title": "Tres centros comerciales abrirán para fin de este 2026 en Perú, y tres más hacia 2028 - Infobae",
+        "summary": "Tres centros comerciales abrirán para fin de este 2026 en Perú, y tres más hacia 2028 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXJrNGd4S1d6Q1h6QmJTYm1fM1N2ZnBaWnZZRERUYVRFRzVIOVQyVFNfN2hiSTdlSWVTcEhFZFJBUnk3SklTNGNVWDBvZkRVVzlLSGJfRUNQMDdFZjVja2ZEcUE2akxkcjd6bFNvRWxMSHdMUTBkMWk0YVh1LVNxT0wwM3BKWFNvdDdXTjVsQ1Q4cWk1Z1JXLXR4TkFMQnhKY2J4NHBRcXFuc09hRHFsVDV2MUhYUG1kRHpvdVNlLUZWUkHSAd4BQVVfeXFMTnUwaHZJVDhIaVBRM1hkSTNrUnprc1Fya3puZEFWRURXNU9MYkRUYTkwX2Ffd1NyR2RpMVNYZXVWNUx4T1VtNEhqMFpGQnpwc2tXczBtYU96VFk0UnBKUmRRUWgxbmt3VE00OS1yc1RCbFlpUXluX1k2eDFmaFI4Mm5lTkdIcWxHT1RjOXliTHBmZ3Y4djFhb1dZUHQ1UUdHdmQzSkU5ZUdMMXBYY3RpWlI3dDcxOVExMGZzZExKSUs3QURZQXNMN3Bfem5zZ2RCMGh5T0JTQWFieGlvY2dn?oc=5",
+        "publishedAt": "2026-09-17T15:04:00.000Z"
+      },
+      {
+        "title": "Fenómeno El Niño: el despacho de Rafael Rey recibe S/205 millones ante riesgo de colapso en puentes y carreteras de Perú - Infobae",
+        "summary": "Fenómeno El Niño: el despacho de Rafael Rey recibe S/205 millones ante riesgo de colapso en puentes y carreteras de Perú &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMnRwaVBUMnl1THNHcG9qTkc1Sk9paGhvRTUxU2xzbXo4UnZoQTVfMTdlNmJwZ0REMy11T1FIY20xYjlxR3lSQkotUm5LTkRlTlo4VlYxUExjUlBPQXZ4VUdCRE1Kclo5QkdoamtWSGE5TXVsQ2owcmpfU2RnMTRKbUt1ZFo4eEVjVU1KTDdYbWVLT0luM053MEZPbGdYTzZsRTFZNkw5VUhtcWZnSVlyeDgtdjBvTWVJejE5TDlpeGpsVzY3ck4zUDZpTy02V0stVmNXZkI5R09sbmJ5Q1ZhR19aUlhuNzhnejRKNkZtYXjSAYsCQVVfeXFMUGZpT2JWS25XX25WdFAzU1NiQVQ3TERpTDZBN0w5YlpLZi1FVHZkckxVZDhTaF93Nm92c0FTMzBjNkhaRHpvOW44TzZOdzhtRmxISlltMGxZbURQUkMxY3RTN2NkbzQtT2swczBzRW9DY0xnOHdnUkJjR3k4R0NMWW96X2lPOFpVV21aREFWYWpheURrX1gzTjdWcXotNTFpaEFvMEVCekRYQm92ZzY2YzNwc2g0bUZ2MmQ0NnNEb1RXd2p2NG4xZnRzdlFhMXh2cE4wUjNWdFJ2VnY5NldSSHpYWVlNQ19DdjM1LU9kMWRQQkt5UUFCTGZBQW9JUXhkQzVZQjktV3BwT0pB?oc=5",
+        "publishedAt": "2026-09-17T14:59:00.000Z"
+      },
+      {
+        "title": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años - Infobae",
+        "summary": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMml1TkNLV0o5TnBJVElyaDQxdHgwUEtrajkyTW1RNU8xU1h3WHN1TU9fNTRNVkR4Yk5jMThrQTlIRFZZZmRSSFlqTkFTVWd2YTBlQVdESllyTnhxNVJIdVhEdXhfR1FpNlNZLXljOUUzTVZpRzRhQVJweHgzY3VOdDQ0SFEydVdzYmdMQUwwb1YzSFhVb1NFMUo1OEdKRi1hUVE1bmlOblk3RDE5VmRKTllLZUhIRWpPLVdMeXdqYUVlb0ZNeWZPTmZhVzlXeFR6XzFDcWlFVnN0MGprTmlMV0FR0gH8AUFVX3lxTE9fS2ZyOVdsMkRuckxfZ2hXWkM5dVRHVXh6QzVnTTc5a0JPZE5vWHFBVW1fbHNEWWcyak40bFRxRzRuTDRkUXcxNU45dzVNWXhQRU41SktRTWJGQU5kbWdOVk1zcGdnWlZ4U0dKaXdqOG1rVTl1S2R2bU03T0FVa3VaaktYbWVsZjY2bjBCVHdOendjSVkwWlVLX2tQM2hwN2hiVUVmUDFncDJnSDc5UEctMFdDOTQzMFhVQzg4ajFHdVRHOGhGNUFVdkdGR09wY1BrWHQ4LW5TVUxaS0pZdEpJXzNWa196Y2E0U3BWR05NNWdCQ0cwTE1NUk1BLQ?oc=5",
+        "publishedAt": "2026-09-17T12:25:00.000Z"
+      },
+      {
         "title": "Precio del dólar cayó en Perú, pese a subida de tasa de la FED: Así se cotiza, hoy 17 de septiembre - Infobae",
         "summary": "Precio del dólar cayó en Perú, pese a subida de tasa de la FED: Así se cotiza, hoy 17 de septiembre &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -80,11 +101,18 @@
         "publishedAt": "2026-09-17T12:21:31.000Z"
       },
       {
-        "title": "Economía peruana crece 3.56% en julio, pese a “El Niño” - El Economista",
-        "summary": "Economía peruana crece 3.56% en julio, pese a “El Niño” &nbsp;&nbsp; El Economista",
-        "source": "El Economista",
+        "title": "Economía peruana crece 3.56% en julio, pese a “El Niño” - eleconomista.com.mx",
+        "summary": "Economía peruana crece 3.56% en julio, pese a “El Niño” &nbsp;&nbsp; eleconomista.com.mx",
+        "source": "eleconomista.com.mx",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWpwZm1IV3JUbVZ3VHhLN2xiaHNJVDI0X0xvNFhSUmdtS2JWUWJKcmM2MUEwVnlnSklWTHh4MkhPWlFIQnNURWdpc0ppOGZEQXA3MmhlMVI2ZW1QTDJkVk14TldCemV5QzF5UUtSc01uSTZwWmV0N09PWk5fdU9MNlp6R3U4bFVUVm9KVkJwSVFEMjBxaTU1Z25Gdnc4dUZJOTlpTUx2eW7SAa4BQVVfeXFMTm43aTNhRnBqSEZZVW1RaUVtdkxaNEwxa2wwZ3lwY0FhQmluV2lRQWtxUVQ1UEN5aE1GODRITEpQd1VOOHlROW5QZjVHMG5OU25xaVNZbDZaUUJkYktKTmNzRGtJMldVaDhkQUtIVzh4aWdXTnMyWEVuUTBNaUJVM3RCeUd2ZEoyZXpYVmVIUkhORUNNOVh5OGNyTC1YbUxKSlRtdnBTVTRxWmJrQmJ3?oc=5",
         "publishedAt": "2026-09-17T05:23:42.000Z"
+      },
+      {
+        "title": "MEF: Comisionados de Alto Nivel plantearán reformas para enfrentar desafíos estructurales de la economía peruana - RPP Noticias",
+        "summary": "MEF: Comisionados de Alto Nivel plantearán reformas para enfrentar desafíos estructurales de la economía peruana &nbsp;&nbsp; RPP Noticias",
+        "source": "RPP Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdWpVcDZ0UDl3UWoxQnJ3ZXdvd2ZmdE05ZEg4RW05RVlKeUJGVjlBdERjTXR3dUluT0swLTVmckFSWVRBenEyZ2s0LTRRRWxQTG15TTJoRXNZRy1fb0F4NjlWejY1YWZqNEpKS2VUdzNaSHhhcVIwbUo0Ul9mek1ZQ1F2Y0d1S3lpZU1HTUE2RDlmbEpBWUpFb0RncHB6U2k5OHlfRTVra0J1QUdJS0tjenlpZWlaQVVVd1BsaTh6dVpYczVoVTlPNXNqRDBkeTdnbTJtNUFReklRbmFWMjc1em1TWDREZ3U3WHZXekw3SzVRQQ?oc=5",
+        "publishedAt": "2026-09-17T05:19:05.000Z"
       },
       {
         "title": "Fed sube su tasa: ¿cómo impacta al dólar y al Perú? | ECONOMÍA PARA TODOS - apnoticias.pe",
@@ -99,41 +127,13 @@
         "source": "Canal N",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0RFa1NHNGw3bDBwczlWT3hDcjNpbldPbDZvUjNZV2lDNkJKMkR4cHNPN1J2dVZoWVd6MTVWRmVzd0FLUjJ5dGgzZGE5aGF3ZzgwNHBETkRXWHplcXFGYTJyRVVuX2gyM2lIVDl5eEpWMm1yMVhRMVNycEo0Mjh4M1hkTnBDZDN6Vmc?oc=5",
         "publishedAt": "2026-09-16T23:48:29.000Z"
-      },
-      {
-        "title": "MEF: economía del Perú creció 3,6 % en julio de 2026 - América TV",
-        "summary": "MEF: economía del Perú creció 3,6 % en julio de 2026 &nbsp;&nbsp; América TV",
-        "source": "América TV",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmJqSkx3R0g1eWlnVlhBYVRZVXJJZ2JqUG5fTHNpdWd2RFRmMlpMSjI5R0l2aG5HU2d3bFdSNGF6bUtGOVdwUmZ4Wk5BNU5aeWtQUEtacHZ4NTRZdmFjbGVFek9NLUp6TExHbUtTZk8ycGtVR0Z0V05sbE0wYXpOa0VWWi01WTRzZ2U0eFg1OW1ySDVfMTlJYS1mb9IBoAFBVV95cUxQaF8xQ25KX1hQQ2pTT21vM2JHRWRUNnZuTjg2LTZRVTAyTWd1U0d1QWlzejVIOW5wNHpjOUdwcUE4NkVDY1hreThuRVJEYUFCMWVhbjRuek1IRzFVWm9lbjNSemlLWDA1YlcxV00tYk1PUGRoU0h2eGJ4azU2cG1HTVV0UzdEbW0zUFFVbDRrcHhidGttcmRnSHNkSV9XcVda?oc=5",
-        "publishedAt": "2026-09-16T23:23:01.000Z"
-      },
-      {
-        "title": "Perú busca apoyo de Estados Unidos para mejorar la empleabilidad y reducir la informalidad laboral - Infobae",
-        "summary": "Perú busca apoyo de Estados Unidos para mejorar la empleabilidad y reducir la informalidad laboral &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTlRVbUNjaVJWSUtQR3JzajZYWlFFWmJOM0U3b3FpMmc5dFlyblVpSHE5WU1QYmNPdXpITEw0dkxCeE82RGEyRWhieG5scC1POXNZS29SSnY4d3BzeVI5djRIeVlMVVkyVG83Q2d5QUxhR0lBM2hVQkNYMkh3WHVjbC1aTC1nZmtJQVpZM3VKazZLQ1M5VmNzN0I2aEpBTVJmUHFKU1A4d1g3TUgwdHZSOEhVNk15Rjlpc2hlbVhIajluR3pKOElDbzVMY0hsblFXd25oYjhR0gHwAUFVX3lxTE9reDZRcTdRUW5xRHBycXZRZVJVams1WDJFdnZCbS1kUi1QQmFiMUpzTjRYSmVMeGI1S1F1RTNpdnVUVHM2UjRVUHJlUjVzX2U1RVFfbTVVeTJob0hQcmlwVGJDRlByNlJ1LUREN1FGU0RfdVRLZ09PcjgyTDRNYmcwaGtyZWpiaU83MmVIUEdaRU5nNVVPdHRyOVZfYzBycms4ajR5aWVfRjlLVGttVmtQblNuT0FvcWo0RzEwbFdOS0doMTVpc24wMVRmQmF2UEpTWjR6VU12NS15ako3Xzl6RkRmOERjRVlKTDJFMW5CZA?oc=5",
-        "publishedAt": "2026-09-16T22:26:27.000Z"
-      },
-      {
-        "title": "Perú tiene 179 mil mypes formales menos que antes de la pandemia: negocios en negro llegan al 86,5% - Infobae",
-        "summary": "Perú tiene 179 mil mypes formales menos que antes de la pandemia: negocios en negro llegan al 86,5% &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlRBWVdCektFUVJmdTRBNlBBZzFfV3lndEtNQ25rdGl0LW9sNDFwcjNZR2FuUG8zNlR5ek1MdjhNSnEtamNmUXc2dGotRkJvUGNOZUpxLVhuT3ZFNEttd3pjSXkzRFotX1NYQUh4TDRzU0ZuaE9BZjdEdWd6dk9TU2g3MXlVZXlwNFU5Vkt4RDNBWGtuS1p0YVZaUlhEX1lVel9idmZQS09EWElkN3hDV24yNThLNHhKYmlMM3JDMklQNmRDaG9sRDNGc0lnSzRQYm5V0gHuAUFVX3lxTE1tN1YyamFnak9YZzhEcjdVTTdnR29Sel9NMFlVb3FsNmJ0V0R4QmZJWWJHNjE5Mm4xd3BrREd0R1hWdE05ZG9FMDg4ZlA4ZHVWeV9XUkRtUmRPanpETWdXSThyd0FVbl9kRWJGZndCSE16MnZQNzFnNThSZ3RDd2VTajNsc011b1J0bzVuaFpNMHFXU3NFdnp6eU15RTVCR0RGYi1fellxdjNQcV9oREV0ckd3QkVERHVTd3BMM1ZldTVJVEFzeW1LVGpGOXd2SjE4eVBXQWZjc09ZWFZ5R1NFa29oLURISzNwSmtXclE?oc=5",
-        "publishedAt": "2026-09-16T21:10:49.000Z"
-      },
-      {
-        "title": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años - Infobae",
-        "summary": "Dólar sería presionado al alza en Perú: La FED decidió subir la tasa de interés por primera vez en tres años &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMml1TkNLV0o5TnBJVElyaDQxdHgwUEtrajkyTW1RNU8xU1h3WHN1TU9fNTRNVkR4Yk5jMThrQTlIRFZZZmRSSFlqTkFTVWd2YTBlQVdESllyTnhxNVJIdVhEdXhfR1FpNlNZLXljOUUzTVZpRzRhQVJweHgzY3VOdDQ0SFEydVdzYmdMQUwwb1YzSFhVb1NFMUo1OEdKRi1hUVE1bmlOblk3RDE5VmRKTllLZUhIRWpPLVdMeXdqYUVlb0ZNeWZPTmZhVzlXeFR6XzFDcWlFVnN0MGprTmlMV0FR0gH8AUFVX3lxTE9fS2ZyOVdsMkRuckxfZ2hXWkM5dVRHVXh6QzVnTTc5a0JPZE5vWHFBVW1fbHNEWWcyak40bFRxRzRuTDRkUXcxNU45dzVNWXhQRU41SktRTWJGQU5kbWdOVk1zcGdnWlZ4U0dKaXdqOG1rVTl1S2R2bU03T0FVa3VaaktYbWVsZjY2bjBCVHdOendjSVkwWlVLX2tQM2hwN2hiVUVmUDFncDJnSDc5UEctMFdDOTQzMFhVQzg4ajFHdVRHOGhGNUFVdkdGR09wY1BrWHQ4LW5TVUxaS0pZdEpJXzNWa196Y2E0U3BWR05NNWdCQ0cwTE1NUk1BLQ?oc=5",
-        "publishedAt": "2026-09-16T19:46:00.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque - larepublica.pe",
-        "summary": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque - La República",
+        "summary": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jd9IB5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jdw?oc=5",
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
@@ -145,16 +145,16 @@
         "publishedAt": "2026-09-14T12:17:20.000Z"
       },
       {
-        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - ahora.com.pe",
-        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
+        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
         "publishedAt": "2026-09-13T07:51:33.000Z"
       },
       {
-        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - larepublica.pe",
-        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - La República",
+        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "publishedAt": "2026-09-12T20:26:13.000Z"
       },
@@ -166,9 +166,9 @@
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - larepublica.pe",
-        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
+        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
@@ -180,9 +180,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral - larepublica.pe",
-        "summary": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral - La República",
+        "summary": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzJZczBTYjF1aF9LOTZYZEEwVkp3YkhvcEduRkFlcFhPSXdMUkQ1MHhzM3NJazZXa3Q3YzVROGZlald2dkltLUc2VVNYQWhlQTFiT291U1lsQk1JYmVpcEphcjVIWjVMUUxsZmpYUlFwaTc4Q2lpOTJ4M19kdEduWG1SM29UOUNEUVdURVFFVklXdlJWN0wwdUdDbEN4R0R0V1JEV1FEZ3VzOG1TY0ZrdEJ5SWdJM25YYVdCWjlsZEJBS19HNXBCMDBUV0pLWUhfei1EZm1CaDE4TVVsUzhMalg3Q3lhQ2R60gHuAUFVX3lxTE9mSlNrVE16X0ZHdFZZckYybFFkSVkxWWxaVXlmS1hqdWJ6WUYxUHU5NE1XVWQ0UE0xRWt5eVU3bnpWMWI3YnMweUlmMlNrMDhGRGxBS2VGMXh2ZkZKQXdoWW1tNWgzbEdiOEJTaXVuUlpoRGt6M293RXpnUUltM2pRWXhCZk9JYVhnZ0djb0NwTHhlS3U1bTVjRGJiQXVlQjFlRWU4dVZWcERzYzUyVnVMT1Ewcl9jb1NzZG9DQ3RidDRQNWlQQ0dJSjJDWFRZN2NMdGxTc2IxMHFZS1RYd1FibjZTWlZ2aVNObTZGeHc?oc=5",
         "publishedAt": "2026-08-01T07:00:00.000Z"
       }
@@ -247,9 +247,9 @@
     ],
     "ideas": [
       {
-        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - elcomercio.pe",
-        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "publishedAt": "2026-08-25T07:00:00.000Z"
       },
@@ -305,11 +305,18 @@
     ],
     "ia": [
       {
+        "title": "Daniel Noboa anuncia sistema de control fronterizo con IA de Emiratos Árabes Unidos - El Comercio",
+        "summary": "Daniel Noboa anuncia sistema de control fronterizo con IA de Emiratos Árabes Unidos &nbsp;&nbsp; El Comercio",
+        "source": "El Comercio",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUg4dEVnNE00R0hFRVFNY2dta1RxbGlrMlpDUWFpdVF5Qlo5NEFvRG1xdncyUFU1V3I3ZC1qLS1KekpWdUJNUURMZlFKZ3ZOV0N1VVJYQ1dxM1h0WWFPQUlfT1F6MDZnSkdLOXpLTmNWRVBzUHpKcTEtUjNsWnRyX0YxcDA2NjdpUEhidGZ6ZmFSTEpadVB0Qk1TUkt2TldsbEdjV3hNZzk3NGxBamxYV0dxZlZpaGlXVHVUQnVuUQ?oc=5",
+        "publishedAt": "2026-09-17T15:57:48.000Z"
+      },
+      {
         "title": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento - Infobae",
         "summary": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG42UWI5NzRXRUVGRXhWanlwYUlPTDBVUV9kLTZqT1A3Y2tsRFJpcFByMUZ1aVJOS25iY3FMSzRwVnptejZHak1EdW9veE52ZzZSalhDUU9qMF9ZRk9NX0VONklqc3I3V0x4UnNjaGNBR3lSbFp3NEM5eGdKX0NyZGxSRl9QS3JBRnhXYnludGFzMnYxelg4M2U2QVhtQUJ6bmFINUNZTGpWeS1LUHBpaF8xSXZCdDItTDVRQtIB1wFBVV95cUxPM3cxcDFPWDZacVg0SFlsUGM2Z0p1VnB0eWpxc3gtOUVvTUc1UEpMVzU5SG45X255V1FLa3RRQ1JSUHBjcG1OX042TmpYc0FoSzdYdDRQNFdJcDFUZGdZYkc0amd5ZmlMRU1vdXVKQy1tNENXdUdJMWNFVE9UaGF3ZDhxaFNjS3NiZjN0UjZ4NVpuM2steGRvTUxtajUxNEUxQXVjSk05emdTUnVEYnd5bHpKVlhOX3VuRi1Pc285eDZNUENDa2RndkhiYlhhV0toY1cwSU85bw?oc=5",
-        "publishedAt": "2026-09-16T22:41:13.000Z"
+        "publishedAt": "2026-09-16T23:37:00.000Z"
       },
       {
         "title": "Fraude e inteligencia artificial: el 88 % de los peruanos quiere aprender a reconocer engaños creados con IA - diarioelnoticiero.com",
@@ -352,34 +359,27 @@
         "source": "Willax",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDFoTTNwdzlwZ2Y5NnZuYk1Dd2FXNng0dG9VWEIyMzRYZllEdEJWZ2hOMHpPWEVJcnhwRHRSbDdrSkt6eDloT3NzN1NTel9fb3kzUHhEbFZZMk9LZFBwVXR0XzVOendEZEdtYVRVNzZuQUNZYkhXX2xWQVBCZXQzQ2lkV2JGaDBRYUNqMmdR?oc=5",
         "publishedAt": "2026-09-15T01:51:58.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - ahora.com.pe",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "publishedAt": "2026-09-14T17:07:55.000Z"
       }
     ],
     "tendencias": [
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
         "publishedAt": "2026-09-12T23:13:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "publishedAt": "2026-09-10T10:19:00.000Z"
       },
       {
-        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - larepublica.pe",
-        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - La República",
+        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2dmYTRjTlBGN0h5SzJPZ0hqUkdCLV92ZWZvMTdySXQtSlRCVUM4SVBoV3BIT3hkUUNBZkJRODNfRThTODRDRXlrbGttdHQ4OXlzNXMwTzBZTG5qVHNqM1NwTlJFNjdZM0xGa0RuZ3diT3lreUhnMS13Sy0yVVJmMExRS0VnTjhUc3E0Nl9xVjJIbVM0MzdYdlgtVmVnd1RMOTNfRW16NnFOUTlBS3M0Ym9DamRYSGZSRk95R2o5MWFFalN1N0RzQ0lHMkR5Q3Zia0VSRjNrZUJaNGJIbF9FTlI5UzFpMWVDeUlBQ3R0VUTSAfYBQVVfeXFMUDdRM0RTay1hNWNtdlFxLXJMR2llUTF3UVRMSjU0UTctVTBWVjN2Z3ZBWV9QWkhZeG1pRDNXRk5vd0RGTzloRHZtSHVaU3FQU0tFcVNrWG1jaU1yR21mUEhRQ2gzSkJQNFdQZ21iM2ZVREZVYWc0VHZYQVg3WEZYaTl4X1NfckJzcFFya2pKLXpaaEpUdE9NdTlkTl94VnFtSnNHLUktU0g4MTFUdHJFazJLV2JvT29UQ0tnQkthdVlpQ1NaRnFTRTR6TU5OTzJwM0hvRlhhZW1VUE9yQmdUTFpncXJabVRLSHQ4OW1BTWxmTDNFdU9n?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
@@ -425,7 +425,7 @@
         "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "publishedAt": "2026-09-10T03:12:00.000Z"
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
@@ -470,18 +470,18 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - larepublica.pe",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "cultura": [
       {
-        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - larepublica.pe",
-        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
         "publishedAt": "2026-09-13T23:10:47.000Z"
       },
