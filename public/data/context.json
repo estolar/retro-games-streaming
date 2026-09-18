@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T02:00:56.294Z",
+  "generatedAt": "2026-09-18T07:41:50.302Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -14,13 +14,6 @@
   ],
   "topics": {
     "politica": [
-      {
-        "title": "Ministro Juan Sheput culpa a Roberto Sánchez ante falta de respaldo en pedido de facultades: \"Está picón\" - La República",
-        "summary": "Ministro Juan Sheput culpa a Roberto Sánchez ante falta de respaldo en pedido de facultades: \"Está picón\" &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaFVjNXNrSFB1T25WS25lRVNMNDAtcVY4S0luZnNZWGhfa0wwZ3pHa0xwZkttOTc5dGJ2QTkxT3dDbUxNZmp5eGhCSkpucGpYMWpqWVpnQzJlYk5hRTFzQTNscHlxUGlwLTBRX2N6QXdzYkZUakhzRG5aV3V6SkNxb21Ga0RTU1hJZXBEQV81MWNWR2hmZW5RRHktRFhGVjNudTJKNFdEQ0JaY0VVaC0tX2c3MnRpM3hXYnd3cDdZWnJEclA0OTdWY3JUSnVSNFhCaWNKZXN1RWNmYjN6aEhabHdjcVlVZTVWNmZXZzZuNNIB9AFBVV95cUxNQWdlSXVGSXVXdDd3TERhRGNPd3dxaGJTSTlrdG9WaUE1aVF6QVBpOC00OWZHSVRKUHBZTGVhUnJSSV9fM1BRbVJXdkdibmhqZmg1RENkbW8zeXdNREVzZmZPbVlNYm1RRFg2WkpzajV0WUVpb0pSY1RSZ2ZneHBQMXMwOW5iY0NiWFZJcC13ekVXZzZqMDlCZWw5YXQ3WGkwS0NIQlhBTm94VTRvX19FRHJRVURTQ2NpcnZnZXozaXFMYW5lWnFqbXdDN2xQT2NmU3NSdmhxdi1ZWlNfdWMzZ09PNzh4WXV0SFhha2tpaVFwM2l0?oc=5",
-        "publishedAt": "2026-09-16T16:17:38.000Z"
-      },
       {
         "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
         "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
@@ -43,11 +36,11 @@
         "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
-        "title": "Gobierno manejó doble discurso en Puno para evitar protestas contra Keiko Fujimori - La República",
-        "summary": "Gobierno manejó doble discurso en Puno para evitar protestas contra Keiko Fujimori &nbsp;&nbsp; La República",
+        "title": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen - La República",
+        "summary": "Keiko Fujimori pide poderes al Congreso por 120 días: proyecto de facultades omite derogación de leyes procrimen &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkVna2ZpWUtDZkgyRDdqRUtGRWpIcTBZMnVLZzl2TzR5R0h3dmdIRW9peTcwWGxoWHlKZlRHZU05Q2JKYjVDX2lNLVJ1dnRzZkxZeU91dnJpWVdpandnSGsxM1NueWNpcmNHTWF4TWJPbEdjM1NNamluUEtXd2NfZms4LXpjUHhJeGNlRERfM0tJb0E4dnB3M1RybDdaMFhxWEI5NHRSZmJhaXdsWG1Nc3otdHR6ckgxVkJEUHM0aU5kNmRHdU9oNTRCZ0NCSTFiME5sanVn0gHbAUFVX3lxTE1QRkVrLTFUeUo5djczR0k2MVAtMlgzTFlYeVM2RDlYUzVVUmhZM2lmdE1nMTFlWThvc0dzeDlXTVRlNWZNa3BFMEpXNDd6dUxoT1hVZkVLQ0tKM19mMHdwdDMyXzM4UXJ1aHh0dDFPaUlLcEdoaWNObHI5XzNORVFqZVpCQzV2T1d0TVpnYUp1dF83ejdjVzg5ZGE3YnpHTl9vWUhwVnhCcVBkc0N2ZE90SWhmOEVaRE12R252N0k1azJDbTc5LV96WGdtY0hkckJ6YV8tb281LTFpZw?oc=5",
-        "publishedAt": "2026-08-30T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXJGRzRyNy1fM0h1a2hYZFNTVW5wZDJqcGg2dy1qU0llYTRGeUVGNXdHYVZlZWZyMlFvVmZ1bElRZnp5QllnaVpsbUZiX2l0cVVtVFRWdVo4NGdOQzZ5Q3FJWWF2cmVkdG9JYlZ6emFLT01tcGp0VjN6c2JkYk93UkZMREx5UFVwcVVkZ2NQY242ZnlGR1J3cFlBb0lTYWU5ZW5yS3lab3BfcXBUdzgwVk9qY0RfWHFYQVk2dzkyY3hQZkg1OV9FbTdncXp4eHFYY3pIRU1EVlhTS2dKNDIwZTRuUDdqWGZRblc2V3lUTG44eDhKNktZTk1R0gH_AUFVX3lxTE9PcXNVNkFVT0dpLVE5S2NCVjAtNTdNczVEMXNJLWljVktQUklzQ3MxNUotd3VZXzZzVVhWMHlQVk9WbWJwM0VDeGo3ODR1SHRLcF9LU056R1hBOS04Ql8xd3d6UEZjSE5lUW9DZlh3RnNIdFRlVVhwTzRRcWw5NUpFTmtrOVpLN3BOWmhkTHY0V3R2SVpGUk5LVHp2Vlh5TzcxdmhXY0JYNUtKSHdVMmJDM0Y4MUZLcUJlNzltdDg0U0hQcGEyOHZLRTdYaWpYclJnekdBcXM1ZDlZRTlSd0xGdDhpdDlESUNQYXBXc0RRdE4xODVpNXZVWi02Um5RMA?oc=5",
+        "publishedAt": "2026-08-29T07:00:00.000Z"
       },
       {
         "title": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2",
@@ -64,6 +57,13 @@
         "publishedAt": "2026-08-28T07:00:00.000Z"
       },
       {
+        "title": "PCM evaluará este jueves 27 de agosto el pedido de facultades legislativas ante el Congreso - La República",
+        "summary": "PCM evaluará este jueves 27 de agosto el pedido de facultades legislativas ante el Congreso &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzdvaTh4VUZnX0Y3ZldhbjVSaV8wcms5Q09zWkdka3NvRGswclpGbF9jZGxmYUNqWXA4MnpTbGZjWHBKbjV0ejdMRmZ3ajU3VHA5RzNtZWhMLU02cmhBX1pCcWpiWUdfamxlRThBVHBnemw4Rmp6Mm1mRVZFTmhqS1h0TVZ3UUk3SG5vV3lzYjYwNHBMVElSaXdDUjJqanJjc3o3X2ZsTnl3b0NqYnZ0MGNOQVJWb25HWk1YN1dHWmgtSnd3ckk0N3ZDZExkdGxtYXllLVp3TlhFcUVhVVhyZjFn0gHnAUFVX3lxTE1BeHNvTEZZU0RuZkd2UWUwQU8tcnI0ejM3aXJfTUozY0pLa3Q5R181TW9GRmpkbDFGUGNhYUtmZzRhZ09zZmlsNU5XelhXeS1kOGQzRk1td1g5R1NjS1R4MXFWYzNwV3ZoYWRQajRoLTFlR2hoLVZDNUhKbnAyZy0waWlNYWltTzhILTlwemYtTGZtR3FxZ20yNUliU1V0S0w3OF9ncG1RcGlXMElUanRSdnBHMGJsejBRZDdscnlSUFFrQ2Y0Mk01NGFUdElLSEpXSnFnTGNMdTBMOUtxMzg0aS1keXJuTQ?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
+      },
+      {
         "title": "Gobierno de Keiko Fujimori presentó 66 solicitudes de facultades legislativas ante la Cámara de Diputados: ¿en qué consiste? - Infobae",
         "summary": "Gobierno de Keiko Fujimori presentó 66 solicitudes de facultades legislativas ante la Cámara de Diputados: ¿en qué consiste? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -72,6 +72,27 @@
       }
     ],
     "economia": [
+      {
+        "title": "Por primera vez Perú exportará más oro ilegal que formal: hasta USD 18 mil millones en 2026 - ahora.com.pe",
+        "summary": "Por primera vez Perú exportará más oro ilegal que formal: hasta USD 18 mil millones en 2026 &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3FuQThQWVdpcUxQQ3RxdldmWHU0T01BMklTS21LOUJpT3NHaE5pOVVWQmFkbE5xQTJQUlpSWm8tdkxaN01yaGhzdmVZTnRUTzZ5TFFkMGVpeXN2blVaMEVZZ3VwZm5XSmNybWpJNHZXdmhTczFfR3E2My01YTJHVQ?oc=5",
+        "publishedAt": "2026-09-18T05:19:02.000Z"
+      },
+      {
+        "title": "Inversiones en fondos mutuos en Perú superan los S/58 mil millones y muestran por qué diversificar es clave - altavoz.pe",
+        "summary": "Inversiones en fondos mutuos en Perú superan los S/58 mil millones y muestran por qué diversificar es clave &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNENvSzFERVZ3TWpuOEhtT2NhTXJmeGNxci1lNHo4SUExZ3A4NE9IcnBRdFJnN2RMZmVOYTNpdTA0SWlrWDJYWmJHRzFOOGp2VVRnZ0Zadkx1UElyNU9qSl9oQWNvYmpjZ3c3RTFnQmxxczRNaDNfcmVxOGs5WVZaWW1aZFhRaEJUemI2V2l1WERrVm9LUUc4RVA1Ykp3UldPUEd6RXZvN3R5VVNZNHNYN3dGMTB3RlFYTktYa1VXNjFqLTdCam9ZOWV3RDFCWmtWcWc?oc=5",
+        "publishedAt": "2026-09-18T02:49:15.000Z"
+      },
+      {
+        "title": "Perú reúne a 23 países para impulsar la calidad y la economía circular - andina.pe",
+        "summary": "Perú reúne a 23 países para impulsar la calidad y la economía circular &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUYwZEJURHNHbTlqeGNJV0tneHhhNC1NUXBILU0xdDVqMmZBSTNlaTdoWHlYUERCMGVCNUVINWs0dDNOM2ZNakl2X0V3eEF6V29JdDQ5Z1ZoYS1iLXNjdUpLRW8zX2MxN1dQZk1vSThzODdVWW4xVnlud3pCaWgydkc5WFVLMUY3dnFrVzhiZzExSkM5cnJHOHBtYlZZT1hfdnp5N0gtb1hpamRLNzYyeg?oc=5",
+        "publishedAt": "2026-09-18T02:08:00.000Z"
+      },
       {
         "title": "¿Piensas invertir? Cuatro claves para evaluar una oportunidad antes de poner tu dinero - Infobae",
         "summary": "¿Piensas invertir? Cuatro claves para evaluar una oportunidad antes de poner tu dinero &nbsp;&nbsp; Infobae",
@@ -98,7 +119,7 @@
         "summary": "Por primera vez, Perú exportará al mundo más oro ilegal que formal, alerta el IPE: más de USD 18 mil millones en 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa3g2Vm1YenNxdm9sTHNZNzRGT2xRU2JWa2RqUC1lNUY4M0lqVmRaQTBVSUpnbjhwWDZWdE9NTFQ2Yl9XME1PaHlyRTZMVHowRFBXN2htUUlLVk9OWG5KT2Q4dGdmczczVjRZaG9Ybk9RWHJKWElVYy1LU3EzS0k0UENBaDRBdXc2X1JyZWpkTFRQVi1ackhsWk5mbHMzbXB5WXdJdGRJa01ZZzdRaUZiZkpXZjU3d1JOWXMtMjg0NDdXaGhkZHJMY2ZxVlRjQThybnlrOXhxOWhZNmpUbzgwM3dOcl80ekJMMVVr0gGGAkFVX3lxTE1tLTExZF85d1FEZWFfOHZFV2NWbmxSdGZNVUZhSE1oLW5TNk1VbXp4LVZ4RmpIc0pNTHBUSkloRVZlLThHeU9YUFZ6dVZhNmZWY3M5ZUtiMGhvRjdsYUJKUVAwSUsyXy0wRWdLYi1ubjhPNW9qVHVia0ptZDlPc05hSlU2TVhjM0x3NkRKX1lmWVFQNmZFZXB6VTJJdnNSdGE1ZTB1XzMxR1FFVUZvQzM5bVBfWDdoOWJOVXNaOVRUQXFHNmFTTVJKNGhlMzJxSHJRSVJCR2h3WjJMY0h1TFNBa2N5eGhsZUtvUUItWV9oZlJJQVJlb0kxN054QUsxQmQ4OHJ5Z1E?oc=5",
-        "publishedAt": "2026-09-17T19:09:22.000Z"
+        "publishedAt": "2026-09-17T19:05:03.000Z"
       },
       {
         "title": "Alerta sanitaria: Perú ordena el retiro de dos conocidas marcas de agua embotellada tras detectar bacteria patógena - Infobae",
@@ -106,27 +127,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWERmOTFXcWs3Zy0xakFicUdaTWRvNUhJWGVRMEFYWTd3cXFKajE3WEpSX0FLSTlzT3VZUF9XZ0xyVTdCM2Y3Z21QemhvZGRTSGFFejRVaGRWN1pHVDZKMXZLVTNJUDAyVUdWdllnMHoxNU9CSWdIWVNDS19fekJTc1hpNnh0RU5xVlJTX1V2LWFLYjZJdEhPcENSUFZhODl2TnZvYjNkSXdFSEM5WG1YbV9fM3dGMkNtZGFNcU5KRkZLN0NNX3FjZ3RBVmJrRkE3YnNDYXRndlMxT2VfS01HRExmU1YwZGRBOEFZ0gGGAkFVX3lxTE1ZRGxfTFhVWG1RSE55aU5FSnQyTUhIbm96UEI2LTgtZXZsU0JwYktqLVVCUC1RMzFnb2tPUFlGb1g5a1Fxalh4TGRQbmh2bEg2d0FvRXA5NTRQcExEcmhkR2xSNHJBeWE1SVNFaXNlTmx6dDN0VXNZMXNZQ3RydFZpb1NqR29pdlNBb3pTSlVjMFUySjNSMExURGIyNGZrWXV4Q01ZVmR1bU5oRldDX3BWei1pVmlTRnEtMmR4SklvdTJzcFlIRk0wRDlRZjhmX1lEU190VjAyX2h2WTBCTlFFMTVCNEhfY0ltM2dlY0NhQWhxQkt0UElCMTBKenJtSkRKTlVpbUE?oc=5",
         "publishedAt": "2026-09-17T18:15:00.000Z"
-      },
-      {
-        "title": "Perú.- Minem busca destrabar proyectos mineros para impulsar crecimiento de economía al 6% - notiperú",
-        "summary": "Perú.- Minem busca destrabar proyectos mineros para impulsar crecimiento de economía al 6% &nbsp;&nbsp; notiperú",
-        "source": "notiperú",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMGxzUFFXWXNielRVeHZuLVZBaW9KVnFIZkQ1VnRWUmh4eWxWbi1GSU9FcjEwaUhJOFUyOGJpR1UwUDRyX09YQzEwV2NXbnNFcU9oU01XeF90MDJRLXpYek94TXpTRzUweFpqYl9BazY0cXhwQ19saVpMWmRyOTE2dzFVRWNQcnl2ZDFpRGNBRjNuY1F0VFR5RU5IdW15VUhNNHR6bldxb2ZFV2VEdXlFWXFFNjlTQkU0ZC0yY0V1QVRlT0I0aVJVV19XQTl5RXR5TmVyQ29n?oc=5",
-        "publishedAt": "2026-09-17T17:58:09.000Z"
-      },
-      {
-        "title": "Fenómeno El Niño: el despacho de Rafael Rey recibe S/205 millones ante riesgo de colapso en puentes y carreteras de Perú - Infobae",
-        "summary": "Fenómeno El Niño: el despacho de Rafael Rey recibe S/205 millones ante riesgo de colapso en puentes y carreteras de Perú &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMnRwaVBUMnl1THNHcG9qTkc1Sk9paGhvRTUxU2xzbXo4UnZoQTVfMTdlNmJwZ0REMy11T1FIY20xYjlxR3lSQkotUm5LTkRlTlo4VlYxUExjUlBPQXZ4VUdCRE1Kclo5QkdoamtWSGE5TXVsQ2owcmpfU2RnMTRKbUt1ZFo4eEVjVU1KTDdYbWVLT0luM053MEZPbGdYTzZsRTFZNkw5VUhtcWZnSVlyeDgtdjBvTWVJejE5TDlpeGpsVzY3ck4zUDZpTy02V0stVmNXZkI5R09sbmJ5Q1ZhR19aUlhuNzhnejRKNkZtYXjSAYsCQVVfeXFMUGZpT2JWS25XX25WdFAzU1NiQVQ3TERpTDZBN0w5YlpLZi1FVHZkckxVZDhTaF93Nm92c0FTMzBjNkhaRHpvOW44TzZOdzhtRmxISlltMGxZbURQUkMxY3RTN2NkbzQtT2swczBzRW9DY0xnOHdnUkJjR3k4R0NMWW96X2lPOFpVV21aREFWYWpheURrX1gzTjdWcXotNTFpaEFvMEVCekRYQm92ZzY2YzNwc2g0bUZ2MmQ0NnNEb1RXd2p2NG4xZnRzdlFhMXh2cE4wUjNWdFJ2VnY5NldSSHpYWVlNQ19DdjM1LU9kMWRQQkt5UUFCTGZBQW9JUXhkQzVZQjktV3BwT0pB?oc=5",
-        "publishedAt": "2026-09-17T14:59:00.000Z"
-      },
-      {
-        "title": "Tres centros comerciales abrirán para fin de este 2026 en Perú, y tres más hacia 2028 - Infobae",
-        "summary": "Tres centros comerciales abrirán para fin de este 2026 en Perú, y tres más hacia 2028 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXJrNGd4S1d6Q1h6QmJTYm1fM1N2ZnBaWnZZRERUYVRFRzVIOVQyVFNfN2hiSTdlSWVTcEhFZFJBUnk3SklTNGNVWDBvZkRVVzlLSGJfRUNQMDdFZjVja2ZEcUE2akxkcjd6bFNvRWxMSHdMUTBkMWk0YVh1LVNxT0wwM3BKWFNvdDdXTjVsQ1Q4cWk1Z1JXLXR4TkFMQnhKY2J4NHBRcXFuc09hRHFsVDV2MUhYUG1kRHpvdVNlLUZWUkHSAd4BQVVfeXFMTnUwaHZJVDhIaVBRM1hkSTNrUnprc1Fya3puZEFWRURXNU9MYkRUYTkwX2Ffd1NyR2RpMVNYZXVWNUx4T1VtNEhqMFpGQnpwc2tXczBtYU96VFk0UnBKUmRRUWgxbmt3VE00OS1yc1RCbFlpUXluX1k2eDFmaFI4Mm5lTkdIcWxHT1RjOXliTHBmZ3Y4djFhb1dZUHQ1UUdHdmQzSkU5ZUdMMXBYY3RpWlI3dDcxOVExMGZzZExKSUs3QURZQXNMN3Bfem5zZ2RCMGh5T0JTQWFieGlvY2dn?oc=5",
-        "publishedAt": "2026-09-17T14:08:58.000Z"
       }
     ],
     "sociedad": [
@@ -138,9 +138,9 @@
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
       {
-        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
-        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
+        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - ahora.com.pe",
+        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
         "publishedAt": "2026-09-13T07:51:33.000Z"
       },
@@ -159,20 +159,6 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
-        "publishedAt": "2026-09-07T22:31:00.000Z"
-      },
-      {
-        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
-        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
         "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
         "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
@@ -180,11 +166,25 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral - La República",
-        "summary": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzJZczBTYjF1aF9LOTZYZEEwVkp3YkhvcEduRkFlcFhPSXdMUkQ1MHhzM3NJazZXa3Q3YzVROGZlald2dkltLUc2VVNYQWhlQTFiT291U1lsQk1JYmVpcEphcjVIWjVMUUxsZmpYUlFwaTc4Q2lpOTJ4M19kdEduWG1SM29UOUNEUVdURVFFVklXdlJWN0wwdUdDbEN4R0R0V1JEV1FEZ3VzOG1TY0ZrdEJ5SWdJM25YYVdCWjlsZEJBS19HNXBCMDBUV0pLWUhfei1EZm1CaDE4TVVsUzhMalg3Q3lhQ2R60gHuAUFVX3lxTE9mSlNrVE16X0ZHdFZZckYybFFkSVkxWWxaVXlmS1hqdWJ6WUYxUHU5NE1XVWQ0UE0xRWt5eVU3bnpWMWI3YnMweUlmMlNrMDhGRGxBS2VGMXh2ZkZKQXdoWW1tNWgzbEdiOEJTaXVuUlpoRGt6M293RXpnUUltM2pRWXhCZk9JYVhnZ0djb0NwTHhlS3U1bTVjRGJiQXVlQjFlRWU4dVZWcERzYzUyVnVMT1Ewcl9jb1NzZG9DQ3RidDRQNWlQQ0dJSjJDWFRZN2NMdGxTc2IxMHFZS1RYd1FibjZTWlZ2aVNObTZGeHc?oc=5",
-        "publishedAt": "2026-08-01T07:00:00.000Z"
+        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - La Tercera",
+        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; La Tercera",
+        "source": "La Tercera",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
+        "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
+        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - ahora.com.pe",
+        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
+        "publishedAt": "2026-07-15T15:44:23.000Z"
       }
     ],
     "negocios": [
@@ -231,18 +231,18 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
+        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
+        "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -289,9 +289,9 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "publishedAt": "2026-05-29T07:00:00.000Z"
       },
@@ -305,18 +305,18 @@
     ],
     "ia": [
       {
+        "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
+        "summary": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORndYbVJQZDI0MXN5SzY1WWZxMTUzNnVIMC1Pc3dPQVZ3bllZVDI0enJRRldrM2VCdHhieUtJUzg4aUxJNDNDNDZXajhYc3VDQ2tudmFqNGtnSWh5eG1yLURUcWQ5MC11NG1oR3FOa09odjk5cnR5WFA2T1Q1cUxWWldXd01pWDN2bkxYWUowUW0tQlUybHZNQzMwUl9LeDFMUElsSXFxZ21MbTJ6YjVOcnlEVEIta09kUHF6bms4SW8wOVN3MFV1MFQ3S1ZDVHE0bk5KNkxOOXNVWlFUcDc0TlJxanBKazQtNlhvbFBQVjcwNmtqY3ptTkdWMkpLUdIBmAJBVV95cUxQaDNXOXdPQzNRM2R5YkMtZ1pXVU5NcGJUWEZMaVFBQTNkNXdPNVhtVlYyZ3gycGhxODlmMkw0QU1vT0dEVkdHZ3JqT2RDbTFfWVdHczVLSFJJbzFkYTdSeTVFdDBXUkxsUmhIeHhPdW5KZ1Nyb2h2dmJqQk9BV0hBbElDVzZJUngtTHl1TFlobzliamRCUzIxcWp1RDl5M3dVcm1wUkVvSEM2TzZ1QjBCbHhFZDFCQnNOclh3Z1ZvSFRRR0V6SWw4NmFwT1FRVlFEN2FRMGI4RFVZYmZZeXp6NHRJWjNMYjkycVpIeGVqMllib2M2em51Wi0yNmlEUUdURTdDNkxINV80N1h4cTNZQl9RMk5FTjBK?oc=5",
+        "publishedAt": "2026-09-18T02:30:00.000Z"
+      },
+      {
         "title": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce - La República",
         "summary": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ21LV0pNOTBINWx0V0trc0JUaEhUSzdBY1VXbnpNYkprTFItR1h4SDdkT0lIb3licFV4TzV3aDRQSkluTWlIcE1sX21iemV1NHFVNXRlZkJlc3NXYWxxX1VYSUlBTXAyZ3NCS0l5cGt6ZmJiQVpNQ0pQV2JZVERTeGlkX0c3MXJPZEltRUgtY0tabXdOMFdfMTNKUjlBdmw5RHdXd0hRdDB1VTdSRVZmb2ZDSlZFX2ZHYm12WXRYX0dCaG52LVNuWHdRTUNDMXF2d2E3R2Q0cjVET2dMX2lFWDRUMEo?oc=5",
         "publishedAt": "2026-09-17T23:56:02.000Z"
-      },
-      {
-        "title": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú - Canal N",
-        "summary": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú &nbsp;&nbsp; Canal N",
-        "source": "Canal N",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3R4aVpVc2FLT2w2c2Q0Qlk5Z2gwRzFBWDJBMktVeU1ScV9Pb1RyNHJBbDJ2VjQ3OF9waUU2T3lNZU5NLTJvYVR2enpiQTlfVGtSQVlVRGpHaVI2V1FVaTdEeU1tTGtjaUNMTmc1Q2VBakxTTzJ3Tkw2VXJBMlUtWktlMUhoclhnYWVKdFJVQ2RHNGRReHFJYk9VT2pQZjlraDNOWEVDZXV0ekFsX3ZzS2dZVUJ3WkRVU2dvRzVMZ2xkRmZmOUFqU21B?oc=5",
-        "publishedAt": "2026-09-17T19:36:45.000Z"
       },
       {
         "title": "Daniel Noboa anuncia sistema de control fronterizo con IA de Emiratos Árabes Unidos - El Comercio",
@@ -442,6 +442,13 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
+        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
+        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
@@ -467,13 +474,6 @@
         "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
@@ -507,9 +507,9 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
