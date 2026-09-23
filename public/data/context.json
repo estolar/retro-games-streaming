@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T20:47:49.299Z",
+  "generatedAt": "2026-09-23T23:17:41.005Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -36,9 +36,9 @@
         "publishedAt": "2026-09-11T07:00:00.000Z"
       },
       {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
+        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - exitosanoticias.pe",
+        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; exitosanoticias.pe",
+        "source": "exitosanoticias.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
         "publishedAt": "2026-09-11T07:00:00.000Z"
       },
@@ -73,11 +73,18 @@
     ],
     "economia": [
       {
-        "title": "Nuevo retiro de AFP podría dejar sin pensión mínima de S/600 a un grupo de afiliados - Infobae",
-        "summary": "Nuevo retiro de AFP podría dejar sin pensión mínima de S/600 a un grupo de afiliados &nbsp;&nbsp; Infobae",
+        "title": "Puerto del Callao y PortMiami firman hermandad: lo que implica y lo dicho por el embajador de Estados Unidos en Perú - Infobae",
+        "summary": "Puerto del Callao y PortMiami firman hermandad: lo que implica y lo dicho por el embajador de Estados Unidos en Perú &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2pqbmM0ZjNXVUdXTGpwa1kyR3BEc1h6YWtKcHBiTWZ4SGdJeE5JWXF3WEhJRUV0UTJKeTB1dW9xRjY5Qk1qTGhibWRaRy10OWNSOUxYTFJJTTNYbTVsWmJpd0NVQzdzaVV6el9ScEc3NVlDcFFldXpzOUxoR2MxY0JSc1BpWFVZTFNYTjJmZ1FBem1EeWdPWjV2dUF0UDgtdjhlMDhXTHlQTmRFVUhGeGYtVm9vUzNYT04tNE9IUEFnd9IB3AFBVV95cUxNZEhQaEZMZkZUX0RWR3JETUM1eXY3RERZcnpCQXBPbmZidXpSNkR4bWhBLXFMNjFkUktKYUloX1NvdzdNVTE1aGNENmp1OWd6WGFpMkg3Si13eE1VV2FDM2pneE5XbVJCTUVXZDJuSE0wQkVjZEhYTVNCZzBhUlhjUmxzWURXdGtGLW1fa1VvNTh0SWp4UVhCejU4YTlINU5YcHd1YkZrSm1QWlNBc3lFZTB1T2tFU3JPaEYtLUR2T0ZUeDJRRkpzN01pSFBLOWhKWHNZX0tOT2RZeVRV?oc=5",
-        "publishedAt": "2026-09-23T18:35:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObFE3UmQ3emZGWGcycmRVWXJocXJ1YlloMnpKLXdKZEk2RWZiNHlOMnlKeWdCajd4OUczVVo5eXNkSWJKS2NUXy1ib0VhRFFTVkRuVWtnVHd5MjJZY0Y5ODlmRnJEX19kRzhPeklEd0lRcFpNcDdhYUpwdVg5am44dXQzdDN0cFJLRndFdkM1QzI4MWg1Wl9OU2p2QmxjRndPQUhrc2l5N2dxX2pBOW5hUVJzcU1waVdYYV9aazhLUk85NHBFZFBKYThEVmZGRWRYQ1ZTSVV5ZGpRemI5MC1fTERhQTc2QWZzQzhSUNIBhwJBVV95cUxNQXFMZmMwY0JqRlIydzNuOG5QcDZ4ZWtQOThYMVRoM0JnWDhOUm5vZUotbWlkcXlKQmFjRWtnZzRQcHpSRVU2T0lTRktLXy1tX2E1blVFUVk2UkRETndITFZmLW5tTWRIeGJya296X3ZPTjNqRGxIdmFNaGJqS0wteklGYVZOaUVkaGcxRzRpQmhSbHNZTFBsUFJMR2pKREhvU253cjNTY3hTazhaMzBvQ2lJUmt0V0RuemlJdElWVkllUGo2MEwzX0VGbndhcnZKYlFBczFibnA1bF8zYkdKanQtRGFLZGlaVm44WDFocjRlc3lYamtPWE5QcVNsMlF2dzVyZUtxWQ?oc=5",
+        "publishedAt": "2026-09-23T21:13:06.000Z"
+      },
+      {
+        "title": "Gobierno pide que retiro de AFP se evalúe con ‘estudios actualizados’ y se analicen los impactos - Infobae",
+        "summary": "Gobierno pide que retiro de AFP se evalúe con ‘estudios actualizados’ y se analicen los impactos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeG1Td1h4TWtiMlh0R2VhVk9aTXJ5amc3ampWNEd2dW5NQlNQaTlBZi1HY0prczc2LVFUT21fQ1JqcXg2eHpnN3drckJwZHR6a0Nua3RaWVJHMTVuaTVJdWctbkJtSEtmWHc2TFVpQmpXVDc3Z0dpd2J0d2lOR21lZVd2OUFoNTJ6RGRVV0ZVMkJCVy1JaGwtOFlrZ0hWQWd0X2w0MV80Mm5uV0ljUHdQc0o1YmIzUExCYTFQbm5nOGFMVUs2b0d1OWlMNEI4RDZW0gHrAUFVX3lxTFBqMHFsU2dTNS16bGpkOEhDcDY3NkYxbDA3bDB3Qm1uR0NWOER3Ri11cG5ralhBQ0swTkpTb2tRZGZObFhRXzZDUkZBblRVUWt2aHFBZC1EM1VGUmtpOGJrcmNQWEhWbGUyVFAwNW5sNzNLSDdySkNXRDd0QW5JNGJiWUNya1FGamFRMmlZSWwxbXU2MXlFMk45VVJ1WEotcU53RmRfODdKMjN5VllPVVkweFhyclB0dEE2ZjN2bHU0U1hJU1ZYa09kZldSSl93cDd0LTVvaHpfOW9oM05WNXlfU2NTSUpCdlhvMzQ?oc=5",
+        "publishedAt": "2026-09-23T16:47:45.000Z"
       },
       {
         "title": "Julio Velarde recibirá grado de Doctor Honoris Causa por la Universidad Nacional de Ingeniería - Infobae",
@@ -92,13 +99,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZU5GLWRES0t1LTc1MEdXZ2hFQ3Nid0lQaUxnRTZob215V21sMEMzT1pkMmt2S2dQV0NzS3dEanF6TjNTS3I2dVZpV1B2ZldKV2pkbUcyUWdjX0ZDYWs3OU5xdEduY1FXbmRvU3UzWUxZY3YydTRzZXhqLUdJd3ZGZmdGUkQ4bVhzSHVYSExaV1VGMGpWU3VKczhnUjBHV0pHNFFmLVBqelNkbmlvOTRLeTFDLXI4amNTVi1ZOFpDRGRwbFhKOERWNDk4RWrSAecBQVVfeXFMTTJzY3M4UXJiVjFYNFNxam9fVzJCcV9JcTc5cU9SVmpJOFdHaXpYRi01Q1g1UHpBWXRHWDdhZ29ZRVhBak5kd3VrWjAwcXNxN3I5eWt0SW1ObzJISWNNQkNteC12MmdIZEZqYVdrRDljakUyWE5UU1dIeWd3OGxIbkpKOG1rdUYtdkhCN3hyRGJ5SjJLOHl1Y2g5US1XbThiakgzNV83bWdDaVZoTGhfODVmOVJ2WHhDOEJoQmlKNkpFZ0xMc1JDRWw3Z0hqVkhneS10MWRnS1NwTElGcHBZVk9mTG93SWFJ?oc=5",
         "publishedAt": "2026-09-23T13:45:00.000Z"
-      },
-      {
-        "title": "¿Cuándo subirá el sueldo mínimo en Perú? Los tramos y montos ante la inminente aprobación - Infobae",
-        "summary": "¿Cuándo subirá el sueldo mínimo en Perú? Los tramos y montos ante la inminente aprobación &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFVpeVdqV2RBdGtzSWhqRUVmTGlUZkJmT0RJTklkeWFWVVBjVklkQjRfeGg1NGVzSnNCNWpWWEZ5S3Q1amU5cWg1cnJHODVQQ3Z1TVlsSTA4cnhKYXV3Z0FlUTA0M1pBODJzWHNybUpma0hheHRkZVRyVmVXNkpNd3NDckhocEhVVjJBZW5iMUpNSzhNaHkzLXp1WG5CUjRacTlrQTlISy1IYUNOdFM2NC0zRmNXV0MtNHRmZy12bFZlaWFTUWNj0gHiAUFVX3lxTFA4QVR3OVl3RkNBT3ZoSzk3SW9FUGFwTjVhdkZjeGtIQ24wMTlUSlR5cTNXbXNyQ20zLWstblhCeVRYek5HZjdZSXVpbkxUR1RhQ0RWUEJGdENDRUZnMExLanVWUUhCcXhDbEFjVTFRWFFZdzc3UFJXQ3BGSTZFNWtRdW13ai00bmhzcEdNc2lwVG1xN0RGS0s0MFhLYlMwLUVEb0NrWEszblVJa0pnSjdFSEJyeTVDamdTYTNjWkxzMjR4VHRDRUc5WmVCOXowRnBmZWlCTG9GWW1OWXliTkNjc3c?oc=5",
-        "publishedAt": "2026-09-23T12:34:00.000Z"
       },
       {
         "title": "Perú Tech Week 2026 suma nuevos actores y prevé más de 100 actividades en Lima - altavoz.pe",
@@ -122,9 +122,9 @@
         "publishedAt": "2026-09-22T18:48:00.000Z"
       },
       {
-        "title": "Economía peruana viene creciendo a dos velocidades, indicó Scotiabank - elcomercio.pe",
-        "summary": "Economía peruana viene creciendo a dos velocidades, indicó Scotiabank &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Economía peruana viene creciendo a dos velocidades, indicó Scotiabank - El Comercio Perú",
+        "summary": "Economía peruana viene creciendo a dos velocidades, indicó Scotiabank &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzBuZE05OExrR2IzeXdfakkyVUFqalU4Y1htbzJfeFAzNXYyTHZsdUdtaTNCZHlfb1RLdi1iZTBlSE5sbWhDM0JBWF90N0tuWlJvdmdyQmdhbDB1YkFnR1p0b3F3dTRUVklNU1FfdEZCZnJEUV9oVk5mMHVrY251azRFaDEyYkZyelpoamtTWDRWRjBGVzVSRHpRQ1VSWGZycHlYT0FUc1FPRnN3TGhlX3RyQzlkZzJoU2lhWUpoRmlReTlHcERHSGlNLXNhSGJWY2JGMdIB1AFBVV95cUxPVzBuZE05OExrR2IzeXdfakkyVUFqalU4Y1htbzJfeFAzNXYyTHZsdUdtaTNCZHlfb1RLdi1iZTBlSE5sbWhDM0JBWF90N0tuWlJvdmdyQmdhbDB1YkFnR1p0b3F3dTRUVklNU1FfdEZCZnJEUV9oVk5mMHVrY251azRFaDEyYkZyelpoamtTWDRWRjBGVzVSRHpRQ1VSWGZycHlYT0FUc1FPRnN3TGhlX3RyQzlkZzJoU2lhWUpoRmlReTlHcERHSGlNLXNhSGJWY2JGMQ?oc=5",
         "publishedAt": "2026-09-22T14:59:53.000Z"
       }
@@ -141,8 +141,8 @@
         "title": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan - Infobae",
         "summary": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhONIB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
-        "publishedAt": "2026-09-21T03:33:52.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "publishedAt": "2026-09-21T04:24:00.000Z"
       },
       {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
@@ -173,16 +173,16 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Plan de Seguridad de Ecuador cambia de enfoque: educación, empleo y desarrollo social entran en la estrategia contra el crimen - eluniverso.com",
-        "summary": "Plan de Seguridad de Ecuador cambia de enfoque: educación, empleo y desarrollo social entran en la estrategia contra el crimen &nbsp;&nbsp; eluniverso.com",
-        "source": "eluniverso.com",
+        "title": "Plan de Seguridad de Ecuador cambia de enfoque: educación, empleo y desarrollo social entran en la estrategia contra el crimen - El Universo",
+        "summary": "Plan de Seguridad de Ecuador cambia de enfoque: educación, empleo y desarrollo social entran en la estrategia contra el crimen &nbsp;&nbsp; El Universo",
+        "source": "El Universo",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObm51MFlSc3pmUlN1VmF6aGQya2x3WUNTMG1jX1c1RHdWNjE4WHlTaTN6RU5xcng3WEM2TzQ3TGp4ampXLWhtYkhtS0dWUzg4N0Y5b2VKZm1BektQcFNFTWFUOXNjSjFFQlpQMTFaM1ZfSjZJaHpVMzZtS3UzQ3JnWS1iVjlXVWNpMFlFQThLY192VXdzYkl5ZU02NV9fZzJ3ZUI0MmhpQTZNVVVDOUdUVGFoTERsZjg4Z1hTcFo4TVNjNV9OT01xMzdsM3g0dEkzMzV4by1yY01CdXRBY2d5UXc1cUgwUVdOa2hhWEFzcmtrUktKXzY4Z3hiNUVVYnVkT1hCVFFR?oc=5",
         "publishedAt": "2026-07-17T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
+        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - ahora.com.pe",
+        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "publishedAt": "2026-07-15T15:44:23.000Z"
       }
@@ -261,9 +261,9 @@
         "publishedAt": "2026-08-25T12:02:15.000Z"
       },
       {
-        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - elcomercio.pe",
-        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "publishedAt": "2026-08-25T07:00:00.000Z"
       },
@@ -296,11 +296,11 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro - Infobae",
-        "summary": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
+        "publishedAt": "2026-05-29T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -326,16 +326,16 @@
         "publishedAt": "2026-09-22T16:08:50.000Z"
       },
       {
-        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - gestion.pe",
-        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
+        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTjR3bnR3MGZ1UEJkTk1hLXdWSEY4aXFhNGE5YkxWT2VoS0dIWkdnRV85dTdjbEhWQmRfd2ZGY3daOGhBdTFRaEV5UmtlWEl0LWczSF83NmtPZXFQREN4T1ltdmQ2UUhtWWRKa21xY3NNMHJNSWZsckllWWU4RUpWaWtNMUZJYk9xNjlyWHE1Z0F4LVVIYjVwY1IyNVNRcFhOdC12eHc3b0VaR0xvTURWRlFvZkczWC1XejBKamFpbEhMWVVOT0VHS1NYNTlZRnlaSWl0ZHZ4R2R6WmR2RjA0bkV5VlZYWDZSSUFKZEdlTW0tUC1jZGZ3Snp6TQ?oc=5",
         "publishedAt": "2026-09-21T16:27:25.000Z"
       },
       {
-        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - gestion.pe",
-        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - Gestión",
+        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
@@ -363,9 +363,9 @@
     ],
     "tendencias": [
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
@@ -470,9 +470,9 @@
         "publishedAt": "2026-07-12T07:00:00.000Z"
       },
       {
-        "title": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú - ondacero.com.pe",
-        "summary": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú &nbsp;&nbsp; ondacero.com.pe",
-        "source": "ondacero.com.pe",
+        "title": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú - Radio Onda Cero",
+        "summary": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú &nbsp;&nbsp; Radio Onda Cero",
+        "source": "Radio Onda Cero",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDRrWHZhNEtYVHphRGlZQzBPYlh5azE5b0l2R0Fqc0tJRGxnMTR0dFpCQ1A2Qi1xenRzNjd3anRiQ2RZaV9kQ29HQmxwekJXamltNkhvM1ZaS01XZnJrZmZ0bGtSWi1JSFVRd3RMT1ZSWUJDOEthaEliSGg5eE9RV1BEa1R1NzliT3FfTkgzdWw4ejFqWGFJcGRIRDN3Q0NMc1EwQ21EN3R4LU4xSDJLZFJFcEt5Zw?oc=5",
         "publishedAt": "2026-07-03T07:00:00.000Z"
       }
