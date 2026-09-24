@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T12:59:29.552Z",
+  "generatedAt": "2026-09-24T17:45:57.218Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -80,13 +80,6 @@
         "publishedAt": "2026-09-24T09:06:41.000Z"
       },
       {
-        "title": "Perú y Finlandia refuerzan cooperación bilateral en educación, economía circular y transformación digital - El Peruano",
-        "summary": "Perú y Finlandia refuerzan cooperación bilateral en educación, economía circular y transformación digital &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWhRcXd3dTlqMlBPUjFnVXVKT1R3bmV3NFh6cHhOSmVIdVdPY2FRa3lFYld0ejJrX3oyVnFHTURwV0IwYmlXVmdtQndsLV9OLVJGbWdGTWw5WlNMeURwVjZhYUJKTDVaTVNpb3BYMVlqQ1l1SlhfNy1UR29OdGxzbkwzVDFiaXJ1bDh3a0dBZTlBSzBkR1hfYmg4SFpxdHNvQTROdFlGb2lVenUzS3I0WWJwTEZKMlljNjd4MERMZG13SXp5Wm1lOEh6UzJyZGFLZ3U1WHltUQ?oc=5",
-        "publishedAt": "2026-09-24T02:10:00.000Z"
-      },
-      {
         "title": "PERÚ Y FINLANDIA ACUERDAN FORTALECER COOPERACIÓN EN EDUCACIÓN, ECONOMÍA CIRCULAR Y TRANSFORMACIÓN DIGITAL - apnoticias.pe",
         "summary": "PERÚ Y FINLANDIA ACUERDAN FORTALECER COOPERACIÓN EN EDUCACIÓN, ECONOMÍA CIRCULAR Y TRANSFORMACIÓN DIGITAL &nbsp;&nbsp; apnoticias.pe",
         "source": "apnoticias.pe",
@@ -101,11 +94,18 @@
         "publishedAt": "2026-09-24T00:42:00.000Z"
       },
       {
-        "title": "Puerto del Callao y PortMiami firman hermandad: lo que implica y lo dicho por el embajador de Estados Unidos en Perú - Infobae",
-        "summary": "Puerto del Callao y PortMiami firman hermandad: lo que implica y lo dicho por el embajador de Estados Unidos en Perú &nbsp;&nbsp; Infobae",
+        "title": "Dólar se disparó en Perú: Sol peruano sufre presión luego de subida de tasa de la FED - Infobae",
+        "summary": "Dólar se disparó en Perú: Sol peruano sufre presión luego de subida de tasa de la FED &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObFE3UmQ3emZGWGcycmRVWXJocXJ1YlloMnpKLXdKZEk2RWZiNHlOMnlKeWdCajd4OUczVVo5eXNkSWJKS2NUXy1ib0VhRFFTVkRuVWtnVHd5MjJZY0Y5ODlmRnJEX19kRzhPeklEd0lRcFpNcDdhYUpwdVg5am44dXQzdDN0cFJLRndFdkM1QzI4MWg1Wl9OU2p2QmxjRndPQUhrc2l5N2dxX2pBOW5hUVJzcU1waVdYYV9aazhLUk85NHBFZFBKYThEVmZGRWRYQ1ZTSVV5ZGpRemI5MC1fTERhQTc2QWZzQzhSUNIBhwJBVV95cUxNQXFMZmMwY0JqRlIydzNuOG5QcDZ4ZWtQOThYMVRoM0JnWDhOUm5vZUotbWlkcXlKQmFjRWtnZzRQcHpSRVU2T0lTRktLXy1tX2E1blVFUVk2UkRETndITFZmLW5tTWRIeGJya296X3ZPTjNqRGxIdmFNaGJqS0wteklGYVZOaUVkaGcxRzRpQmhSbHNZTFBsUFJMR2pKREhvU253cjNTY3hTazhaMzBvQ2lJUmt0V0RuemlJdElWVkllUGo2MEwzX0VGbndhcnZKYlFBczFibnA1bF8zYkdKanQtRGFLZGlaVm44WDFocjRlc3lYamtPWE5QcVNsMlF2dzVyZUtxWQ?oc=5",
-        "publishedAt": "2026-09-23T21:45:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnRaR2RGRTlLQ2c3ZUo4M0xtSC1Rd1VFczVnb0dzVkVKSEVSOE1oMmxYQ0xQNWQ4VnlBSENEVTVPNHdfUmlobGVqQnJBVkVkTmdZTjY3enBsRVQtcGV4QW5ZbUQzbktHeFhxUWQ5Uklyd3lvbUcwWUhtbWxIMk5BVW4yTmh3WkNmVzFCYUxaM0h0RXJHOHl2Qk94YVFfN3hGNXJId0tiRmtrSUttQkZJd3VuQjAyU1A2cU9mSWQ0LXBwOVdN0gHfAUFVX3lxTE5pUU53cjBHNW9pd1U5bUhySGFfYXhZV3NGNE93ajZtT1BYeEVQZDktd2ZmekF1TTBfbllSWlpXMjExZWRsYi04dzBfbkdGRTZxVzBVQmFpNWRPbHFpREtXZDZmVjI2MVFjbmdNMTJRUDZIQzNtTmswTFFxSi1lVDVyWTM1RUdNeVdqODNsemRHR3Y4eEt5R2RnTlNJVkhnQ1VuQjFLYzNZNVp0M1RmOHRIMDhJcGN4bVQ3LUJPb2VhbUY5OW42TmtWX1RuRGRybHhJVjBRUU1Wb1JDMHdkQzQ?oc=5",
+        "publishedAt": "2026-09-23T20:05:00.000Z"
+      },
+      {
+        "title": "Nuevo retiro de AFP podría dejar sin pensión mínima de S/600 a un grupo de afiliados - Infobae",
+        "summary": "Nuevo retiro de AFP podría dejar sin pensión mínima de S/600 a un grupo de afiliados &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2pqbmM0ZjNXVUdXTGpwa1kyR3BEc1h6YWtKcHBiTWZ4SGdJeE5JWXF3WEhJRUV0UTJKeTB1dW9xRjY5Qk1qTGhibWRaRy10OWNSOUxYTFJJTTNYbTVsWmJpd0NVQzdzaVV6el9ScEc3NVlDcFFldXpzOUxoR2MxY0JSc1BpWFVZTFNYTjJmZ1FBem1EeWdPWjV2dUF0UDgtdjhlMDhXTHlQTmRFVUhGeGYtVm9vUzNYT04tNE9IUEFnd9IB3AFBVV95cUxNZEhQaEZMZkZUX0RWR3JETUM1eXY3RERZcnpCQXBPbmZidXpSNkR4bWhBLXFMNjFkUktKYUloX1NvdzdNVTE1aGNENmp1OWd6WGFpMkg3Si13eE1VV2FDM2pneE5XbVJCTUVXZDJuSE0wQkVjZEhYTVNCZzBhUlhjUmxzWURXdGtGLW1fa1VvNTh0SWp4UVhCejU4YTlINU5YcHd1YkZrSm1QWlNBc3lFZTB1T2tFU3JPaEYtLUR2T0ZUeDJRRkpzN01pSFBLOWhKWHNZX0tOT2RZeVRV?oc=5",
+        "publishedAt": "2026-09-23T18:35:00.000Z"
       },
       {
         "title": "Economía.- Perú tendrá el apoyo del BID para reformar el Estado, infraestructuras, educación y dar respuesta a 'El Niño' - Notimérica",
@@ -145,9 +145,9 @@
         "publishedAt": "2026-09-21T04:24:00.000Z"
       },
       {
-        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - larepublica.pe",
-        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
+        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
@@ -180,10 +180,10 @@
         "publishedAt": "2026-06-17T02:03:59.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
@@ -363,6 +363,13 @@
     ],
     "tendencias": [
       {
+        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
+        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
+        "publishedAt": "2026-09-24T16:20:24.000Z"
+      },
+      {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
         "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -370,16 +377,16 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - larepublica.pe",
-        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - La República",
+        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2dmYTRjTlBGN0h5SzJPZ0hqUkdCLV92ZWZvMTdySXQtSlRCVUM4SVBoV3BIT3hkUUNBZkJRODNfRThTODRDRXlrbGttdHQ4OXlzNXMwTzBZTG5qVHNqM1NwTlJFNjdZM0xGa0RuZ3diT3lreUhnMS13Sy0yVVJmMExRS0VnTjhUc3E0Nl9xVjJIbVM0MzdYdlgtVmVnd1RMOTNfRW16NnFOUTlBS3M0Ym9DamRYSGZSRk95R2o5MWFFalN1N0RzQ0lHMkR5Q3Zia0VSRjNrZUJaNGJIbF9FTlI5UzFpMWVDeUlBQ3R0VUTSAfYBQVVfeXFMUDdRM0RTay1hNWNtdlFxLXJMR2llUTF3UVRMSjU0UTctVTBWVjN2Z3ZBWV9QWkhZeG1pRDNXRk5vd0RGTzloRHZtSHVaU3FQU0tFcVNrWG1jaU1yR21mUEhRQ2gzSkJQNFdQZ21iM2ZVREZVYWc0VHZYQVg3WEZYaTl4X1NfckJzcFFya2pKLXpaaEpUdE9NdTlkTl94VnFtSnNHLUktU0g4MTFUdHJFazJLV2JvT29UQ0tnQkthdVlpQ1NaRnFTRTR6TU5OTzJwM0hvRlhhZW1VUE9yQmdUTFpncXJabVRLSHQ4OW1BTWxmTDNFdU9n?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
@@ -410,13 +417,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
-        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
-        "publishedAt": "2026-07-08T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -449,9 +449,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -479,9 +479,9 @@
     ],
     "cultura": [
       {
-        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - larepublica.pe",
-        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
         "publishedAt": "2026-09-18T03:33:37.000Z"
       },
