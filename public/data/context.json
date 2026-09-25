@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T14:16:31.181Z",
+  "generatedAt": "2026-09-25T19:00:34.990Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,18 +73,32 @@
     ],
     "economia": [
       {
+        "title": "Algunas regiones podrían caer en recesión por el fenómeno El Niño, reconoce el MEF - Infobae",
+        "summary": "Algunas regiones podrían caer en recesión por el fenómeno El Niño, reconoce el MEF &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSV9kTzBpUEM1bzRPUzVvdVk3SWdtTXZTZV9PTWJOMlNRT1lMZks0VUt3aXBtN0pkTWJITlNMVHBaMWhTQm1vc0ZPbG81b2xmV1RPSldid1liVWlaUXE4bjB6WjE3VTNpeHlCVDkwcGFBejc1Q2c0aHlVeXdDTDFTMk4zOGt4YUFBaUQzT2xkMWJ5YzFVZ294cHJ6bzZTV0VEdXRZVjhyN0xIemZHV1YtMWVOYlRHMlZidzRGX0h0RdIB2gFBVV95cUxQRHpjVktJYVN5eFQ0aTlQZFFGQnpRbVZyX09tNzl4aTlRQmdOOEV4NXhKOXNLYkZzMmw5VDRjRE5HMTdxSkxHQVlKMHhYV1Exc015V0xJUzE0b3o1enFLbi02dkxDaUJXWnZQRlBldWtRXzEzVHgxbm5VYmNMc3liYlFCbHVGeUpJcWdxUmZfNDRMeE9MZEdlZFN6RkJTZWxCRUVicnpGWklUNGZnR2FTbzlDdzdLcEVnT1c1ajNaV3BwZ1lNRk5yTXFkUnI1eFBMMlQ2dmMxeDdIUQ?oc=5",
+        "publishedAt": "2026-09-25T17:14:00.000Z"
+      },
+      {
+        "title": "Precio del dólar supera los S/3,40 en Perú: Así abrió el tipo de cambio hoy 25 de septiembre - Infobae",
+        "summary": "Precio del dólar supera los S/3,40 en Perú: Así abrió el tipo de cambio hoy 25 de septiembre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGJPaWRwMS1taXQ1SDBSU09LVWZ0aURNbmh0a1BRcHBJNW1YTG15N2NfdVhLVjRqRlo4YkFVTTZIYlBTSWR6dlZuSEx5bVFFamQ3dzRCNnZkeWwxZExpTEVaTmpvUy04TWVRNUtuQ0dWbnAwODA5NmlmNVN5NWtKOE45Ti1nOEt2Q3RoV0E0bG1VVS1aX3ExWXBtb2Q2MHdfeFc5NFRoX2k2VEZYRjBHeHI0TXNxT0JLZlpaVWwxRFpjZmJHTmY2enN30gHkAUFVX3lxTE8ydWlCUmtnS3BDOS1aSFk2YW1nOFVfbzE4S0NGTlNCaDBPdDVyT0M5dktGTmZ1aVFyMWEyeW5aRWNCdWxZb3NpM1luMjBoQVAzVmVrbElzQTVZOHUwV2kxMnBabG1pZVh4eU9rTGp6STN2OGpQMmlHa3lZZFV5VkRWQi12bDdXc3FNTUJlZHpYeEpHY0FndnVwWm1LREQwbEpDYUhtRlNJcm4xUnJ1WUFzWXdQM3ZubTNWb3p6VXJoTXI1ZWZnQ25jQlgzYV9uNUdieGpSMl9WT0hucFNMM3dIaUtoWg?oc=5",
+        "publishedAt": "2026-09-25T15:16:00.000Z"
+      },
+      {
+        "title": "Dólar se disparó: Sol peruano sufre presión luego de subida de tasa de la FED - Infobae",
+        "summary": "Dólar se disparó: Sol peruano sufre presión luego de subida de tasa de la FED &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnRaR2RGRTlLQ2c3ZUo4M0xtSC1Rd1VFczVnb0dzVkVKSEVSOE1oMmxYQ0xQNWQ4VnlBSENEVTVPNHdfUmlobGVqQnJBVkVkTmdZTjY3enBsRVQtcGV4QW5ZbUQzbktHeFhxUWQ5Uklyd3lvbUcwWUhtbWxIMk5BVW4yTmh3WkNmVzFCYUxaM0h0RXJHOHl2Qk94YVFfN3hGNXJId0tiRmtrSUttQkZJd3VuQjAyU1A2cU9mSWQ0LXBwOVdN0gHfAUFVX3lxTE5pUU53cjBHNW9pd1U5bUhySGFfYXhZV3NGNE93ajZtT1BYeEVQZDktd2ZmekF1TTBfbllSWlpXMjExZWRsYi04dzBfbkdGRTZxVzBVQmFpNWRPbHFpREtXZDZmVjI2MVFjbmdNMTJRUDZIQzNtTmswTFFxSi1lVDVyWTM1RUdNeVdqODNsemRHR3Y4eEt5R2RnTlNJVkhnQ1VuQjFLYzNZNVp0M1RmOHRIMDhJcGN4bVQ3LUJPb2VhbUY5OW42TmtWX1RuRGRybHhJVjBRUU1Wb1JDMHdkQzQ?oc=5",
+        "publishedAt": "2026-09-25T13:01:00.000Z"
+      },
+      {
         "title": "Ministerio de Economía y Finanzas de Perú evalúa bonos para familias afectadas por El Niño - LaRepublica.co",
         "summary": "Ministerio de Economía y Finanzas de Perú evalúa bonos para familias afectadas por El Niño &nbsp;&nbsp; LaRepublica.co",
         "source": "LaRepublica.co",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObVR5QUYteXoyQ3dvQ21zTGw3UFQtRkY3Z0VTZ3JPb3pock9sUlVSc0lvWjFTbWJUM0h0d3luSnVUdnAteTNWUnFGMVRCTlZieEdBMnh3TDNXTG5JT0pEYWQyX3FfR2tySWRzNzU4aDZxV0wza2UyLWYzQkJpWXcwLXdRSzFhTHM0MFlFVzZsaUJvTVhlSnlnS3ZfNU94T01oU0lnNE5lQ3UtMlJmRkpHanBYV1pYejdoN1ZYUDhieUVsU3Y0U0p3Y2txUEIxeTdqcGcwTzN3?oc=5",
         "publishedAt": "2026-09-25T11:57:10.000Z"
-      },
-      {
-        "title": "Dólar se dispara: Sol peruano sufre presión luego de subida de tasa de la FED - Infobae",
-        "summary": "Dólar se dispara: Sol peruano sufre presión luego de subida de tasa de la FED &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnRaR2RGRTlLQ2c3ZUo4M0xtSC1Rd1VFczVnb0dzVkVKSEVSOE1oMmxYQ0xQNWQ4VnlBSENEVTVPNHdfUmlobGVqQnJBVkVkTmdZTjY3enBsRVQtcGV4QW5ZbUQzbktHeFhxUWQ5Uklyd3lvbUcwWUhtbWxIMk5BVW4yTmh3WkNmVzFCYUxaM0h0RXJHOHl2Qk94YVFfN3hGNXJId0tiRmtrSUttQkZJd3VuQjAyU1A2cU9mSWQ0LXBwOVdN0gHfAUFVX3lxTE5pUU53cjBHNW9pd1U5bUhySGFfYXhZV3NGNE93ajZtT1BYeEVQZDktd2ZmekF1TTBfbllSWlpXMjExZWRsYi04dzBfbkdGRTZxVzBVQmFpNWRPbHFpREtXZDZmVjI2MVFjbmdNMTJRUDZIQzNtTmswTFFxSi1lVDVyWTM1RUdNeVdqODNsemRHR3Y4eEt5R2RnTlNJVkhnQ1VuQjFLYzNZNVp0M1RmOHRIMDhJcGN4bVQ3LUJPb2VhbUY5OW42TmtWX1RuRGRybHhJVjBRUU1Wb1JDMHdkQzQ?oc=5",
-        "publishedAt": "2026-09-24T13:26:00.000Z"
       },
       {
         "title": "Perú y Finlandia refuerzan cooperación bilateral en educación, economía circular y transformación digital - El Peruano",
@@ -113,29 +127,15 @@
         "source": "Notimérica",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSmtfUXNyWENhN2toSGdvbEJ3d0hVVFlPZ1RvZTRRTkpidE1lbmZJVk5KNTN3aDgyeGVJcDl2SUZvaGlnQk1fbUZZUURJQWY5RXozdE5ObmpXb0JHZUxTNjVtelpvUTJYMlNJaUZUYXlFYXF1TnEyaThrTHZEaDAxaThRa0NISm0xS3Vra2JGbW14REdlejQ0bmZJR3BzSmNXOVBENFBPa1NyUldKNEU5dUFNWnp4bVZVTThiUXVpM2lyaFFLbDZsc0tvTG5tQzR2SGtVUWhNa2VKbUhnbnpTcEk1bXMwWUYyRmI4MA?oc=5",
         "publishedAt": "2026-09-23T18:21:51.000Z"
-      },
-      {
-        "title": "Gobierno pide que retiro de AFP se evalúe con ‘estudios actualizados’ y se analicen los impactos - Infobae",
-        "summary": "Gobierno pide que retiro de AFP se evalúe con ‘estudios actualizados’ y se analicen los impactos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeG1Td1h4TWtiMlh0R2VhVk9aTXJ5amc3ampWNEd2dW5NQlNQaTlBZi1HY0prczc2LVFUT21fQ1JqcXg2eHpnN3drckJwZHR6a0Nua3RaWVJHMTVuaTVJdWctbkJtSEtmWHc2TFVpQmpXVDc3Z0dpd2J0d2lOR21lZVd2OUFoNTJ6RGRVV0ZVMkJCVy1JaGwtOFlrZ0hWQWd0X2w0MV80Mm5uV0ljUHdQc0o1YmIzUExCYTFQbm5nOGFMVUs2b0d1OWlMNEI4RDZW0gHrAUFVX3lxTFBqMHFsU2dTNS16bGpkOEhDcDY3NkYxbDA3bDB3Qm1uR0NWOER3Ri11cG5ralhBQ0swTkpTb2tRZGZObFhRXzZDUkZBblRVUWt2aHFBZC1EM1VGUmtpOGJrcmNQWEhWbGUyVFAwNW5sNzNLSDdySkNXRDd0QW5JNGJiWUNya1FGamFRMmlZSWwxbXU2MXlFMk45VVJ1WEotcU53RmRfODdKMjN5VllPVVkweFhyclB0dEE2ZjN2bHU0U1hJU1ZYa09kZldSSl93cDd0LTVvaHpfOW9oM05WNXlfU2NTSUpCdlhvMzQ?oc=5",
-        "publishedAt": "2026-09-23T17:42:00.000Z"
-      },
-      {
-        "title": "Julio Velarde recibirá grado de Doctor Honoris Causa por la Universidad Nacional de Ingeniería - Infobae",
-        "summary": "Julio Velarde recibirá grado de Doctor Honoris Causa por la Universidad Nacional de Ingeniería &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE9HSWFnZUdkWjFfX1lLZHFOOGR5TlZ5UHNIQVU1aldEa1kzbkh2LWN3SHhYT2oxeEVzTEFYRHFXZXBZVDd0YTJfQ2o4NS1EMm1IRWdfcXktV0dsNUZzREQyNUhSSE1mVVpIQ2NjUElKM3FUWEZuTGNFRktJQTNJOU9YZlgzZGJIZ2tGOElsY19oSERuTEd2R1NLbVRPd3VXSUt5eS1fNDRQcWs4WkZkaF9ZTGlfVC0wUjFTaEd3bVFRWkJMYVRuMVZ2aXlTYlBS0gHrAUFVX3lxTE1pLVZGMEN6Yk5fanhyZUcwNnAxZUtDa0hidjEtMXFGRU80dE4ycGJEYXI0aF9UZHlSOW1yWmtWbVRLbnZlZTNJODhRTlpzR0lYVlVZYWprX1k2S05VTXF2MVMxNklrc2hhV2VnZlhDX1YwdXUzNlpXaFB6ZG9JeDBRaTBsNnhWdHVydmlhMC0wQkU4UW9qT3p3NjFGVHVTSFQ2ejllUm11TDZoWFpoMGZxWlM3X3dVMlVWS2xLSWZMQTM5NksyNkZUakRzazQ0ekU4Yjl6NDRfenFTcnBPYTliMGMyNWgybGdCVnM?oc=5",
-        "publishedAt": "2026-09-23T14:19:00.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "GOBIERNO PROPONE RÉGIMEN DIFERENCIADO Y DE SEGURIDAD MÁXIMA PARA ADOLESCENTES INFRACTORES DE ALTA PELIGROSIDAD - RCR Peru",
-        "summary": "GOBIERNO PROPONE RÉGIMEN DIFERENCIADO Y DE SEGURIDAD MÁXIMA PARA ADOLESCENTES INFRACTORES DE ALTA PELIGROSIDAD &nbsp;&nbsp; RCR Peru",
-        "source": "RCR Peru",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGpOaVpral9xczZ6VEpYVGJfbG1PU1A0MElPdEhMYnRTdGxZM1R1MmlfT0VvLUJ2OThVU1AxSklWN0YwVzgzWFFETzJka0NRdmFXYmQxTlhHNmtMSl82ZlotQmoxcjNvLVR0Wmw2dTZ3akU1dUt1UEZBSHpSUnNVeElfWnJBOExPenh5a2Z1cmtEeXBPVEpKQmgzdmFyT0tDZ2c3MXZNRlBzZzFmYmZ3bTl6NTg2NjdxbjFUWG1DaFA1SGR0b29DRUprb0I2MmpE?oc=5",
-        "publishedAt": "2026-09-25T02:36:10.000Z"
+        "title": "Gobierno propone régimen diferenciado y de seguridad máxima para adolescentes infractores de alta peligrosidad - diariouno.pe",
+        "summary": "Gobierno propone régimen diferenciado y de seguridad máxima para adolescentes infractores de alta peligrosidad &nbsp;&nbsp; diariouno.pe",
+        "source": "diariouno.pe",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM25LY2ktbnN2RDZWUm9nd2VrVmliUG1kcDlwazR4emczUjVWaFVDRm9mNkU4NW1nbUtvUkJfOW1odGtxVTJxa1FtNUpUV2pKaHJJZlZkeTJPTUcyTS1oYzE0OGlQV1EwNE5CZl93T3ZjNEpwZE05RzYtTVdXbEM5OVRFdnFnYmxtN2todzVwalFNWkVDZHZVdFVuX0FaaVhzR2owdE1mdF8yQkxlZG9KWHZfd0FyOHNHQU4tNV9URVpaZEVBRVhKZ1JicGpycTJWUzE3aXFYcHA2anc?oc=5",
+        "publishedAt": "2026-09-25T00:46:28.000Z"
       },
       {
         "title": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan - Infobae",
@@ -196,6 +196,13 @@
         "publishedAt": "2026-09-22T02:59:30.000Z"
       },
       {
+        "title": "De emprendimiento a empresa: claves para crecer y consolidarse - hbanoticias.pe",
+        "summary": "De emprendimiento a empresa: claves para crecer y consolidarse &nbsp;&nbsp; hbanoticias.pe",
+        "source": "hbanoticias.pe",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXJZT1o1eXpYeHR5OHlNRnYyOHMtUW9SVVVvNXVmUUxkdUxld0lZRi1QV2wzc19VdWdHa09WRG1kY3VFYVIxT3o3VlBQOHQ0b0VncUZZZU94ZDdsaXJDOERjTlE3UnVHQnN6RnVBRVJ4YmZEeUktS1NkaERQS1pBQTRBZUxOQlFMenhVbHpR?oc=5",
+        "publishedAt": "2026-09-19T01:50:47.000Z"
+      },
+      {
         "title": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años - Infobae",
         "summary": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -236,20 +243,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
-        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
-        "source": "Chimbote en Línea",
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - chimbotenlinea.com",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; chimbotenlinea.com",
+        "source": "chimbotenlinea.com",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "publishedAt": "2026-09-21T18:26:00.000Z"
       },
@@ -312,13 +312,6 @@
         "publishedAt": "2026-09-24T21:49:16.000Z"
       },
       {
-        "title": "Inteligencia artificial transforma la contabilidad: estas tareas ya pueden automatizarse - La República",
-        "summary": "Inteligencia artificial transforma la contabilidad: estas tareas ya pueden automatizarse &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaEtaS0N5eUpXVElmMERWZHdHR2paOUdQSHg0WXVaM0NHeEZpYm03bl9IaDNPUnVfQVdLbVNtR1UxOXotYndtUXBvLTlZTkZPMHNlZmcyb291UzBhQkJxM3FxZ091eEdZYTlaQWtmZ1JwUWpLajdxbThjMWdqLVE5SVdzS0FjbkFpLXdCeU5JZkRmeXNZT3BlQmJVYXM0b25HRUw4T2VMNlJKYkpYUUpjbm55NWQ5WGs5eGt3Qm5jakxPdlFtWWVwMld6UVRObHJfZXd2UGwwSy1qUTNfVDEwQlljVEJNaS11dFVfN3JSOXN4ZU1uRjNTX1hSRXJ1QQ?oc=5",
-        "publishedAt": "2026-09-22T21:32:16.000Z"
-      },
-      {
         "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
         "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
         "source": "Gestión",
@@ -333,13 +326,6 @@
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
       {
-        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
-        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
-        "publishedAt": "2026-09-19T02:18:00.000Z"
-      },
-      {
         "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
         "summary": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -347,9 +333,9 @@
         "publishedAt": "2026-09-18T02:30:00.000Z"
       },
       {
-        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
-        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
-        "source": "Portal ERP",
+        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - portalerp.com",
+        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; portalerp.com",
+        "source": "portalerp.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2Rud0dCQzBMb0x2dXpNak80RjFMa3huY3AtVFJ1b3l1RVI2MUZxYnR2V0h0THNmTTBBdmUxUkFIaTFtUWQ5LWh3Mjl4SUJURjBIY011M3pwNURhZ1YySmpCeUtfV0o0aXd5VGtGNV91VWdpZ1NDaHdDeWpXVFR0RnRlMkJ5TzNNb1RqWUNIQi1DZ01ka1E2WXRlUmNNMGRhNWZGSmpYX29reEpBUUlxNnUzNWUxWVBFSmZSRQ?oc=5",
         "publishedAt": "2026-09-18T01:51:25.000Z"
       },
@@ -359,6 +345,20 @@
         "source": "Canal N",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3R4aVpVc2FLT2w2c2Q0Qlk5Z2gwRzFBWDJBMktVeU1ScV9Pb1RyNHJBbDJ2VjQ3OF9waUU2T3lNZU5NLTJvYVR2enpiQTlfVGtSQVlVRGpHaVI2V1FVaTdEeU1tTGtjaUNMTmc1Q2VBakxTTzJ3Tkw2VXJBMlUtWktlMUhoclhnYWVKdFJVQ2RHNGRReHFJYk9VT2pQZjlraDNOWEVDZXV0ekFsX3ZzS2dZVUJ3WkRVU2dvRzVMZ2xkRmZmOUFqU21B?oc=5",
         "publishedAt": "2026-09-17T19:36:45.000Z"
+      },
+      {
+        "title": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento - Infobae",
+        "summary": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG42UWI5NzRXRUVGRXhWanlwYUlPTDBVUV9kLTZqT1A3Y2tsRFJpcFByMUZ1aVJOS25iY3FMSzRwVnptejZHak1EdW9veE52ZzZSalhDUU9qMF9ZRk9NX0VONklqc3I3V0x4UnNjaGNBR3lSbFp3NEM5eGdKX0NyZGxSRl9QS3JBRnhXYnludGFzMnYxelg4M2U2QVhtQUJ6bmFINUNZTGpWeS1LUHBpaF8xSXZCdDItTDVRQtIB1wFBVV95cUxPM3cxcDFPWDZacVg0SFlsUGM2Z0p1VnB0eWpxc3gtOUVvTUc1UEpMVzU5SG45X255V1FLa3RRQ1JSUHBjcG1OX042TmpYc0FoSzdYdDRQNFdJcDFUZGdZYkc0amd5ZmlMRU1vdXVKQy1tNENXdUdJMWNFVE9UaGF3ZDhxaFNjS3NiZjN0UjZ4NVpuM2steGRvTUxtajUxNEUxQXVjSk05emdTUnVEYnd5bHpKVlhOX3VuRi1Pc285eDZNUENDa2RndkhiYlhhV0toY1cwSU85bw?oc=5",
+        "publishedAt": "2026-09-16T07:00:00.000Z"
+      },
+      {
+        "title": "Exitosa Noticias. . 🔴🔵 #HablemosClaro💬💬 | En conversación con Exitosa, César Beltrán, docente de ingeniería de la PUCP, opinó que con la ley de la IA en el Perú se está legisla",
+        "summary": "Exitosa Noticias. . 🔴🔵 #HablemosClaro💬💬 | En conversación con Exitosa, César Beltrán, docente de ingeniería de la PUCP, opinó que con la ley de la IA en el Perú se está legislando algo que “no desarrollamos”. Agregó que se están copiando marcos regul &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcGdsdTVRcGtPNHA1Uk9sUUhTdFlGLWlDdmhvWEc1dzJjV1BxeUhmc2NrQ0ZWMlpxSEV1OHlPNU5TZkhVVXd3SlVOaGRjdmF5XzRKSUJhMVdlV1RGWW9uV2FWNlY4YTR3MHcwVmZUOGFBWWtNMWh5NzFzcDNWRTU1UFotTzVqaWd1SEpXRTY0Y3M0M3k1eGVLUUxMZXpsWWRxa0hBMDVhQUF6UFU3Tncza215QS1zM1BFZHV4N1lDR0dpYmhYSkduWmkwNkNHNUNVbUNlaTVINFdra2N3UzFVMmI0dlI4SW5RSVhTdVlwMnVjTmpnSVdxMnlR?oc=5",
+        "publishedAt": "2026-09-15T15:49:39.000Z"
       }
     ],
     "tendencias": [
@@ -500,13 +500,6 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
-        "summary": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ?oc=5",
-        "publishedAt": "2026-09-05T07:00:00.000Z"
-      },
-      {
         "title": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI - Infobae",
         "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -533,6 +526,13 @@
         "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "publishedAt": "2026-08-19T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
+        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
