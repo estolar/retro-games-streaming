@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T21:41:25.915Z",
+  "generatedAt": "2026-09-27T00:00:13.730Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,6 +73,13 @@
     ],
     "economia": [
       {
+        "title": "Tipo de cambio al alza: ¿En cuánto cerró el dólar la semana? - Gestión",
+        "summary": "Tipo de cambio al alza: ¿En cuánto cerró el dólar la semana? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeWQzRExLNEljYmk1UFMxTFEzS0lMQ1NTQmFwOWNLb2Q1MlFoakptajlqZV9KcGNJWU1jZkJfZlFMYlVaM0N3RFRJTDluQ2pfejVQTGZtV3owY1V3RzVBYjByMXZKRVpmQ3pod3RLYTIxemQ5UEtSc2tESHNub1VIWEZteG5BMks3d0VXMHpiSi1QZ0ZzLVFzWGFRSWFyVEZkc1dwOXpxMmNDWjVNNFYwOENqenh1anRiTjdJcFVMQWhjS1FJOHJ1SXRqSFRPcWQ4MHBsVVJUMTdXc1RsU3pTT2w2cFRfTXZCMGo2NHR5a2VpQ3ZWeDNpSGNGMFBvN0sxd3NSYWRXSQ?oc=5",
+        "publishedAt": "2026-09-26T23:26:22.000Z"
+      },
+      {
         "title": "SBS interviene a cooperativa de ahorro y crédito Financoop por pérdida de más de S/1 millón 950 mil - Infobae",
         "summary": "SBS interviene a cooperativa de ahorro y crédito Financoop por pérdida de más de S/1 millón 950 mil &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -85,6 +92,13 @@
         "source": "Exitosa Noticias",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BILTZVNTY2a0N0QlpidUtRZVZQcS0zT2h5WHNKV3ZSWXVhMHZsS1cySmVULU5OR2N5SG5qNENHd2U4MlkzTC05Zk5yNHRyRS03SWYxcDNvd2NGOF9iYUU1bTlZNXI3MjkzbkxSMHF6ZGdzakxEeVpEZGYzaUM1ZHMxQjJvVlFSSm1tbXpfNnZwOUMxYXpvaWdyWk1pWXlzZW5mQk9OMXlQNVJCSFJBckxaNlE0QQ?oc=5",
         "publishedAt": "2026-09-26T12:57:04.000Z"
+      },
+      {
+        "title": "Hoy y mañana habrá hasta 70% de descuentos en miles de tiendas por Día del Shopping - Infobae",
+        "summary": "Hoy y mañana habrá hasta 70% de descuentos en miles de tiendas por Día del Shopping &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazFOQ3J6Z2NUX1ptVEs4Z0Z1akZ5MVBRM09iRm1HbjJkVHBLQmxOa3FOVGdkZi01MnhxVHRuUFJBTlJ2cDlrajZMRG51S1FSM3htS2NhZ1B5a2hlTTBZOFNNbWREZEloYzVEM3VVZ1gycFFZcGxOeGh3M0F2MDRzdDQtaXZHOXlzQ1JQaEh5a0hmblB4SGttdzRIbjVCSkxPRm40NHFRT2Y1UFlZRlVYQ3dVbVo5ZmZD0gHTAUFVX3lxTE51N2dNQ01fYjBqU2FtTnVJZFZJXzlSZU9USUtIb3lmdEcyMWxzMWR0T19YT1pBUDR1dm1SYWZGRDI4MXdXNlN4LTdBcUVGMXpmM0xhZjBZRWJaSWJ4dW42dkM0VVZwbS0yZjZmeVY5OGlwcTZ0dFhIZFZ1T3Vfa0ZXQjYxTzRpRUxTaVh0cnB6ZGFiZXNKU2NlU012eFRFVmZSQXRlR1cyR2FoVWxYTUZ2T0JBS2VsQ01qRHVKdFFvbTVlb2Q0aHhfTEphZnV4U0NZc1U?oc=5",
+        "publishedAt": "2026-09-26T12:19:00.000Z"
       },
       {
         "title": "La mitad de los trabajadores peruanos rechazó una oferta laboral porque requería presencialidad - Infobae",
@@ -113,20 +127,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0xqWHlpMWhsaG5Ka2VsQnlnSkxaVm14ckxOek5XbV9jLVB0bXRLWnVTc0otWVVFcWJJWVllRVo2QS1DRllWLUcwUmp3MFl0LWV4bzZGYWhXZ2VpUDJiNkFVRzlvVHNVQlZDbXYxdF9QM1hHdkFCT3Bza3ZsNHhzZ1k1Z3RuZkJUaFBhTURndFZhLVp3VGxURTZCWmNKRkV1eGw0QUQzUmdsU0o0b3E4V0dQMG1OcVVMVC1kOUtSOHFlXzNEYVpqWkEwcXFVRXd3b3B3ZVhTdVEtT25XZ3BEWWtmMGE2a0tFRXlSNm1FY2NXVjFaLXlBbdIBkwJBVV95cUxPM1B3SWs5SEVvd191LWdoZ1FuUHd0WGFqY05qaVkwSFV6VXBZMTZkQW5YVy1PMjNaSW1YQ1ZLLXNfQjNRZzFWaXB4V2RFN2JhRmR6cUU0WXVxNFRWWkwwekktdmJYc2JOMXRlSW9NNUIyVDVNbDRwVG1aQmRyUUt3OUtwMGk3Mk1YUHVncnEtWlFwS0Y2ZG83QmlxcTBUQ0x2UjNWRV9HekI3TTRLWS1SRnV6dWVJT2t0OHBlb29qdGVLeUVvdF8xanI4NFVDQzk3dmJIODNfcDVqQnBVZTdrZk84MUdycENrQVhpZmFTTV9TMExLTWxBVTVWUVlRUWFROExxbzFnb0MxU3RaZ0lHSHgtaw?oc=5",
         "publishedAt": "2026-09-25T22:04:00.000Z"
-      },
-      {
-        "title": "Perú cuenta con más de 300 mil colmenas y la apicultura genera ingresos para 40 mil familias - altavoz.pe",
-        "summary": "Perú cuenta con más de 300 mil colmenas y la apicultura genera ingresos para 40 mil familias &nbsp;&nbsp; altavoz.pe",
-        "source": "altavoz.pe",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXVfU0tUeVlIcThuMXlrMlN0c0JnTDA1enZWamlGNldOS094NFdtdG5OVzhWUHJ3enFkNzROLXVGSF9haFpvU29uZlc3NnQxUXJ3bGxTVUl2MjgzOWk5OWJzbVkyLVAyRkw4QWJicElYcjFGUmV4QTdqT2JGcVVlcnJxSEROZ2xxLUZQUWRSTjZPZFEyZWY3VER5bjJ4NzR0SXVjTHZFeGNQbmlTU3pmZm1tY1BSNHhxQnc2OFVB?oc=5",
-        "publishedAt": "2026-09-25T21:14:31.000Z"
-      },
-      {
-        "title": "Midagri: Perú cuenta con 300 000 colmenas tecnificadas en beneficio de la economía de más de 40 000 familias - radionacional.gob.pe",
-        "summary": "Midagri: Perú cuenta con 300 000 colmenas tecnificadas en beneficio de la economía de más de 40 000 familias &nbsp;&nbsp; radionacional.gob.pe",
-        "source": "radionacional.gob.pe",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUmVFWnVUdGlQenlsbjVDT2w1Z3VVbXhhV3E4cC12TVg2WjhxQWVqRmRPVXNDVktOT2prWVhYb2VDN1lpenBqaHVkdkVfRnh5UzhPQUFVQVRBUGUxWC1SUUt2NzlKNVJ6bHJzN3RMdHhFUHJXRC1wTW1ETGhhcjIxNUQwd1h5QzFVNHRyM1lfTzhobWl5R3dJdnZGa2pCTjdzcFZrZEVzRXItejB4NEJSQ2NpNVJnQ1ZEdFhXdG9oZzUweXFFVjNzbDVJaDhFWUhUQkZYbHBDMUd1QWFwU1FSMk1EZTZXbW9acVhwbUQ1SQ?oc=5",
-        "publishedAt": "2026-09-25T20:47:10.000Z"
       }
     ],
     "sociedad": [
@@ -173,16 +173,16 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - ahora.com.pe",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
+        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "publishedAt": "2026-07-15T15:44:23.000Z"
       },
       {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
+        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - tvperu.gob.pe",
+        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; tvperu.gob.pe",
+        "source": "tvperu.gob.pe",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
         "publishedAt": "2026-06-17T02:03:59.000Z"
       }
@@ -312,9 +312,9 @@
         "publishedAt": "2026-09-26T01:22:00.000Z"
       },
       {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - ahora.com.pe",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
         "publishedAt": "2026-09-25T05:12:45.000Z"
       },
@@ -326,16 +326,16 @@
         "publishedAt": "2026-09-24T21:49:16.000Z"
       },
       {
-        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - gestion.pe",
-        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
+        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTjR3bnR3MGZ1UEJkTk1hLXdWSEY4aXFhNGE5YkxWT2VoS0dIWkdnRV85dTdjbEhWQmRfd2ZGY3daOGhBdTFRaEV5UmtlWEl0LWczSF83NmtPZXFQREN4T1ltdmQ2UUhtWWRKa21xY3NNMHJNSWZsckllWWU4RUpWaWtNMUZJYk9xNjlyWHE1Z0F4LVVIYjVwY1IyNVNRcFhOdC12eHc3b0VaR0xvTURWRlFvZkczWC1XejBKamFpbEhMWVVOT0VHS1NYNTlZRnlaSWl0ZHZ4R2R6WmR2RjA0bkV5VlZYWDZSSUFKZEdlTW0tUC1jZGZ3Snp6TQ?oc=5",
         "publishedAt": "2026-09-21T16:27:25.000Z"
       },
       {
-        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - gestion.pe",
-        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - Gestión",
+        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
@@ -384,9 +384,9 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Qué significa “farmear aura” y cómo llegó a Perú - ahora.com.pe",
-        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Qué significa “farmear aura” y cómo llegó a Perú - Diario Ahora",
+        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
         "publishedAt": "2026-08-22T06:20:10.000Z"
       },
@@ -435,9 +435,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -521,9 +521,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
+        "source": "blog.joinnus.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "publishedAt": "2026-08-19T07:00:00.000Z"
       },
