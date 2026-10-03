@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T16:50:49.651Z",
+  "generatedAt": "2026-10-03T22:30:46.830Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -43,13 +43,6 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
-        "publishedAt": "2026-09-11T07:00:00.000Z"
-      },
-      {
         "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
         "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
         "source": "Perú 21",
@@ -69,6 +62,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
         "publishedAt": "2026-08-31T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2",
+        "summary": "🔴🔵El Gobierno de Keiko Fujimori presentó este viernes 28 de agosto al Congreso, los proyectos de ley de Presupuesto, Endeudamiento y de Equilibrio Financiero para el año fiscal 2027. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVQ0cTVuRWh5TjdZYUk3QnpIbnh5M3FyZGJNTmxBZ1p3Rm92Q1ZtM1Fia0owWmI1Ujl4ZE03X3NVNFR5Tjl2VnR5VVpBdDU5MTVCX1k1b2VhUUh1M0sySDZHb2Z6d1lxekxHTTd6YVItQ05jNjhtaktqYW4wZmhqeXh4YXV5NUNDMHNUdlpXQzhucFZ5a2NIQjFEUW5nOVNTcldLOVpRYXR3NXM4V0pGMElDVy0xdzBkZHl3Nlp6aEZ3RXZMM01IOGEwZHpXT0FnS3BzT2RNZkFYNWF0YktELWN6MnM?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -78,6 +78,13 @@
         "source": "Critica Sur",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnJIREE2cmJ1VmZLcE1qaW1qRUYxSXF5N3BJcHJNdjh0bi0zX1NxN3NHZS1PUVdrVE9xdEE3VTlGNm1PeHJmaHpBaS1Mc1Z3Nm5tbnVMQlBnUWlDcE9oeWp2MmRKMTZMODlNRjdrdnZYdzJLcUcxN0VzYk51aUxJRXl1eG9DUmtZVkZZMXR6VDRfWDlyN1pHOUNxT0JFbmt6WVJ6NUxSYVRlbGZTbC1ZdUNURFh3LWR1aVE?oc=5",
         "publishedAt": "2026-10-03T16:40:58.000Z"
+      },
+      {
+        "title": "Más de 62 mil empresas salen del mercado cada trimestre: qué preocupa al sector privado - Infobae",
+        "summary": "Más de 62 mil empresas salen del mercado cada trimestre: qué preocupa al sector privado &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZzYzVzZCcEU5UmdGUklLUGpiM2VnYnRKakdyVGlRWWNZWGJpNy16N2RFQ2hqaUR0Q0pUcm1HT0JBWWJscFVLZjgySTR4TmRSNkhOQWk1MlI5OG8tUld3ZDdTRVAzNHpMMXNwQzRRNUkxcXAwYzFDdHh5NGFJd1pnclhNS1lWU0N2eW9yNkgwRE1BLW9RcTZqdFZIUHVTaU9OMDBxcGU5elV0M3ljWGVpb2gwM3gwZ3FqeVBuR0lTUWY5NXRrOXfSAeABQVVfeXFMUDl2OEtqM25HTV93T0htb202ZjVVZWNFaGxLaFJUUF8tRk5vZnBZY1U3ekFWNUtfZ2dmeWpuczhVU1U1a1R2WUZ1cGxkSEFrYWdfaDlWd1dMTVlXM0dZd0Z0djgwU3BXVDBsM1RYQTk5THduZ0cxNXdUTFBzaEg3NWFSZ2J4NHVyTnpCbDZyaTQ1ckdXVzJpRm1abHU1Mmpoc1M3ZUgxTnQ1WFNnYWpzb0JQSUZyUzQyc083cXFHNUVRbHVzRnB1ZmVlS0hSYjAtLXJuekF3M283U01jWWVfc0s?oc=5",
+        "publishedAt": "2026-10-03T00:20:51.000Z"
       },
       {
         "title": "Perú impulsa oportunidades para los jóvenes del campo y fortalece cooperación agrícola con Panamá. - altavoz.pe",
@@ -120,13 +127,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnpGZ3dMNVFyamlMa3dqQWFGc05leTdRLW1sZWpNanA2Sjk0ZnloT21DRGpYSkItdU1vYmFMTDRLdFhER2pFVF9MbThHTTJtT2k3T2w0V25JVU9sUlhQdHdTQzZoUUtMNlNJRjhNTV9BZ3ZnM2Q5SjhtNWlpRmRrYm5GZng5OFZFVkJ1UTRvSVR1cWl0NmJadWZYSFY0MmhHWm05czBMTDlUYmgxaHIxQzRYNEJHMC1XbFdncVdUTdIB2gFBVV95cUxPYWx6ZjBHM2MyRkVqMmRyeWVfQ1VjenNZcTNock5LX3JHOEd3d1gyOUdLRkJuUjJKaEFMeG4zZFJGTVhFc3JtX2w2X1p4M2x6WDZVNmp3dmdqYmU5aFhHdm1NRnZaakFVU3plYTRfSjhMNVZKMmJKazhXMTc1cnJJSmc5bVdvaVRxeVRIelVkbmtqS0NuQmlwSnRZeWJmdGdhdXJOSXFQY0ZmSWdVNXZlVXNoSlYzM01OcWVPYzFFT2MzczRxVW5KU09oYTcySDZIazhJalVwTnpHUQ?oc=5",
         "publishedAt": "2026-10-02T01:53:21.000Z"
-      },
-      {
-        "title": "Precio del dólar subió de nuevo en Perú: Así cerró el tipo de cambio hoy 1 de octubre - Infobae",
-        "summary": "Precio del dólar subió de nuevo en Perú: Así cerró el tipo de cambio hoy 1 de octubre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHVaNDBrTmNzdTQ2Qno0TnZ2bGFmRGhJOEczQmJXc1RFQ2VWTkxLbVF5VzZSQUxVUEpDU0loMHVXQTlmWnBaTWRoSS1qbTVjWHRTRlVmTkJ5R0hqVm9neG8zN2xhZ2hRY2NjRUliTWVvc1JNRUIyX05JN3NVWE9Wb3JrSUcwT24xZ0FIcXhJY0xJQmF5V202ZnZXTjJyQlNBTDRyR0I0dmN3SGJhd3FKWmJNNNIBzgFBVV95cUxOenphM2pxd2dBbUdDb29QWjM2a1ZsTmFGUEhDM0lUTVZaWS1SRWh3NjdSQ0VzZEk3N2tudG81WmxwUENVZ0NFOXE5bGwxX1NGUndKUmY1emh2R3F5TnZDcHV1bDFCOGhmdm5PbVYtekx4X3BKRHo1dXE5b3FUSjU0aFNZNzB5TUZ3RURmUXBVU3BlMmVyQWF2Y2JkU2FNaTYyZzZrVFVGTUJURzFkQlAycC1EcWNWWmVqc0Zab3JGRV94eEtyY3Y0ZkxWZllWdw?oc=5",
-        "publishedAt": "2026-10-02T00:00:00.000Z"
       }
     ],
     "sociedad": [
@@ -189,13 +189,6 @@
     ],
     "negocios": [
       {
-        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
-        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
-        "publishedAt": "2026-09-28T23:47:00.000Z"
-      },
-      {
         "title": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación - apnoticias.pe",
         "summary": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación &nbsp;&nbsp; apnoticias.pe",
         "source": "apnoticias.pe",
@@ -243,6 +236,13 @@
         "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
+        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
+        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "publishedAt": "2026-06-18T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -289,18 +289,18 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
+        "title": "Innovación en Perú 1 de cada 3 jóvenes tiene ideas para mejorar su comunidad pero no son implementadas - RPP Noticias",
+        "summary": "Innovación en Perú 1 de cada 3 jóvenes tiene ideas para mejorar su comunidad pero no son implementadas &nbsp;&nbsp; RPP Noticias",
+        "source": "RPP Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWlYMVlRZ3N4QmdNR0hiTmVDbTlRUFdDVUo5bG45Y1daTndzUUJfT18tTkdLQW5rQ2tBRmJyTnBRX0ZId25tZkJNcDIyNnd5eFhZZjBJVXhQQnQ1Vi1qV2hDYTFGMzhpa0tBc2lfeXZJQU5sY3dxcUdybVNRbWUwbjA2VndrX29rNWxvQnN2ZzBQOVJZN2lFSmtwb1JvX0cyVmE5U1JYQnVFaEFEZnFhM2lWNmtrMS01a1VzMExqa0NOMFFCeEw2eVV5bkRRNzFiRmFna0o4QkVnanB5TG96amJPS3hrZw?oc=5",
+        "publishedAt": "2026-08-12T07:00:00.000Z"
+      },
+      {
         "title": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA - RCR Peru",
         "summary": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA &nbsp;&nbsp; RCR Peru",
         "source": "RCR Peru",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlVVVXI5UEczdmdGQzhBZS11SW43VElpQm0xRUppaG9uRFRaZFhxbDFURmxmS2lKQkxaeFFsaGFJNUNfU3lHUGo3Wmo4UEtVcFBoVFJqS0JrdmxQeVJNSUo1czJJNmR1MjlGVUxLUFVzZjJfamk3ZmlUYi1OOGZpWmdHaFZobUdzbkwyZk1oWGhNdmhlcXItRjN5V0paVVd4VHFsN0NrX20zdVNrUk1lVFFteXk0UWVvMndTSXpwRmdsRHVfM0E2TA?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Perú da un paso adelante en la seguridad energética con el uranio y litio % - larazon.pe",
-        "summary": "Perú da un paso adelante en la seguridad energética con el uranio y litio % &nbsp;&nbsp; larazon.pe",
-        "source": "larazon.pe",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVU3eHAwN19tVTd6YlI0dE44dXc2cm96bmVxOEktWnBQbndNcVQzY0xqRkhVbE9rM2hVUXJEcm5CdXVxdTRYXzVMb1ptLU9IUWc1X3Q4UjNjZ0UzRkl0WmR4RTN6Ym5MXzU3SVFCbFB2QjZqZXBVVmMzMnFyajdfS2xrR2ptZ0Y2cXUyVzlHTFgxaC1iNmZPWg?oc=5",
-        "publishedAt": "2026-07-09T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -421,6 +421,13 @@
     ],
     "farandula": [
       {
+        "title": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas - La República",
+        "summary": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "publishedAt": "2026-09-30T20:32:33.000Z"
+      },
+      {
         "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
         "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
         "source": "La República",
@@ -449,6 +456,13 @@
         "publishedAt": "2026-08-18T11:31:08.000Z"
       },
       {
+        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
+        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
         "title": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete - Exitosa Noticias",
         "summary": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete &nbsp;&nbsp; Exitosa Noticias",
         "source": "Exitosa Noticias",
@@ -461,20 +475,6 @@
         "source": "facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - trome.com",
-        "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL0gHkAUFVX3lxTE01M015cXRLNTBMbHRQcjAwLTRxVjVkMUZyMGhFLWswTy1oWS1ncnJDMHRBNlFlSkpYMVFXdHlDSkNzbE1ZWGhXdktNYWtSN2xubHJ0ekJwX1RkQVhCTWNDajE3U3p4RW5uYU9fSWlRSVROeXlrSUNzRk9RQmstMkJ0U2RPdXJ5RTFnVmtjWjhsRHpmNmVCQVlaczdWTkEwSzhGVnlRQXZyUnNqUGFNWTdFaFNMMTUwZVhaZ3BvRUoxTWFpTWs1RnZRdnNkQVFBOHhKVFc5a0E4eFp4dGxkTHdyUlB3Xw?oc=5",
-        "publishedAt": "2026-08-04T07:00:00.000Z"
       }
     ],
     "cultura": [
