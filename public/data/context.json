@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T18:26:27.275Z",
+  "generatedAt": "2026-10-04T22:04:18.509Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -43,9 +43,9 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - Perú 21",
-        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso - peru21.pe",
+        "summary": "Keiko Fujimori viajaría a la Asamblea General de la ONU: Gobierno pedirá autorización al Congreso &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnV3Ulo1aXZPYlMwS1Jtcm5Kc0tRazlRVkRPc3ZVa01FQzc2NUpQV0tRMXh3WXJ6YTRsQzlZOU5XWmNLWVRyUzFFYXRrZGVvaHFpVmc3NlVIYzR2bDU3Nk9sRnlidks3SlhaVWpWeXFuYmZvSXR3ODJic3A5WFJIelVKQkwwTzhvYUJ3MUJfc3FReUVrelBlaw?oc=5",
         "publishedAt": "2026-09-11T07:00:00.000Z"
       },
@@ -101,13 +101,6 @@
         "publishedAt": "2026-10-02T21:46:41.000Z"
       },
       {
-        "title": "Euro hoy en Perú: cotización de cierre del 1 de octubre - Infobae",
-        "summary": "Euro hoy en Perú: cotización de cierre del 1 de octubre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2NIR1NvLVF0Y3NUYTVXRmNXUG1iWlNRMHd0NlNkZkJqS3ZwS09XbTNmWU9CYmtTN1ZGUE5yaHE2X3F6SFlNNG5VMm5TMGV5aGJ4RWIwdUJBd1k0WURya1dRTjY1TGlBMnh4bXhQODZYblBra3oydjd4aHFHM3czYzhzVjVORGhVV1lRbEV1ZDR6dGRNeVJJMGJqd9IBtgFBVV95cUxNT2ZRNHk4Y0RPS3Q2Y3dwYmpWYWNkRHRTR2RRcDQxVWI2VDZLbDF1NlRxY2dxbURQVDgwdFl0TUphTFRMQXdmYXlzQTRuMHlGdDFUQkhzbXZCdmMwNU53QW80a3F1ZXV6X1pqVHJkRkRIMzFDeFJYS2RiN3VEdWpUUG44bGdzNERXRFZad3Fvenp1WlJDYUdxcnM0UFFiaU12ZzdKM2REeE5LeTA4RHFYV0JzbFhoZw?oc=5",
-        "publishedAt": "2026-10-02T02:48:00.000Z"
-      },
-      {
         "title": "Alemania busca invertir en Perú: estos son los sectores en los que está interesado - Infobae",
         "summary": "Alemania busca invertir en Perú: estos son los sectores en los que está interesado &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -122,11 +115,18 @@
         "publishedAt": "2026-10-02T00:00:00.000Z"
       },
       {
-        "title": "Ingemmet destaca potencial del Perú en minerales críticos y economía circular con Alemania - Minart | Portal de Noticias ✓",
-        "summary": "Ingemmet destaca potencial del Perú en minerales críticos y economía circular con Alemania &nbsp;&nbsp; Minart | Portal de Noticias ✓",
-        "source": "Minart | Portal de Noticias ✓",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFoyUnRRdXRtTGtjWGtiTlkzeUFCWWZraHh3VkNWcS1HMTVsVGZheHBJbWMzbngyX1Q0V3lQSmYxTmRDS3RXdGt4ZWR0SVFkODI1RExjQ3hiZjBsXzZGWmFJVmhOcExXdnFIOVltSmJzeUFZNzE1QlUxY2FpMWlHQjVGMy1KQW5GRVIxcUtYWFR5R1V2OVQ3U0JEWW1tUWRmczlxSXBVWDE3Skx4NjNUcHF0aGZucFJpWUdFTw?oc=5",
-        "publishedAt": "2026-10-01T17:18:43.000Z"
+        "title": "Ministro de Economía de Perú: rally del cobre y el oro “abre la posibilidad de un nuevo ciclo de expansión minera” - Diario Financiero",
+        "summary": "Ministro de Economía de Perú: rally del cobre y el oro “abre la posibilidad de un nuevo ciclo de expansión minera” &nbsp;&nbsp; Diario Financiero",
+        "source": "Diario Financiero",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnlDaXRhNmo3VldKd1ptSlFnS1NnbHJDc0FmbkdqN3RXZFg4MHJsbWptVXJ1aF9BeEx2T3VGQlBYbFF3aWtDeHA2ekFINUlUY21jY0pETjhmMjRIemhrUS1BQ2tvZDRlaE0tMnR6eXd4N1kxaVNKWHdUaDNsM1NwRXl5UEw4U2h3RkFsZXkwZHdMd2NOYjdRR185NzhBcXkxR21NaE9oRDgtLXVaNmVxV2pB?oc=5",
+        "publishedAt": "2026-10-01T12:36:00.000Z"
+      },
+      {
+        "title": "Bono MYPE por aumento de la RMV: Empresas recibirán S/100 por cada trabajador a fin de octubre - Infobae",
+        "summary": "Bono MYPE por aumento de la RMV: Empresas recibirán S/100 por cada trabajador a fin de octubre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2JkZEtPTHA0N1FvUmpiSlBCczNRNFVzRXUtc2ZpQXBBTFlkSnNDcGZzNTB2WWZGUWptX3VMUmhZZ0F0UGotaFNyYUJDbWM3LThJaGZBckpkaG5jMWo3YWx5d0JhMERFWUhBajFMWTZ4TWpMZlI3bENiSDdBVVdvR0RLaUFDTFVNZlVtRGJMTEhkTlFFWUR1bXBRbXFieTdUWGlZdWpKUUdQRUx2NmkwQWJsZndyWjZFUjI5cFhJUzUxbnhCT2ctSGtR0gHkAUFVX3lxTE1lR0tSN0tPTzE0Q21UeGZtVmRFazNZODBHZGJkYkpZa2g5TE5GVkQtbXpBTkZReWxYUlBzYTQ1SW0zTlVXc2cyX01YZHM2QjJleHJDUC1GWDd1RWNBalFLU3piUmVBMU1JOENKYXFmNWNBRVY3NlRLV2NibmlLN1lkTXpyYjJsWjh2SjdkakFILTNlTGhJT2QxanBLbnFLUnJsVldWcjJCT2NBbW5hZEFVeGtxbm95bHB6aEdkUlM4Zlh0b3ZoS2M1dU1NRElEYjFVMDliemxMSGZneHdpR1ZBSjVrXw?oc=5",
+        "publishedAt": "2026-10-01T12:34:00.000Z"
       }
     ],
     "sociedad": [
@@ -141,8 +141,8 @@
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
         "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFNyaVFjU2cybVpuam1QcjA5bUY3aXNzVnpzb0RkU3dtQVQ4TnQyVDczM1J0WEhjajRfcm95MjZadGpqM3A4SWMxTlNuVm9seFlSczNWTk5oZ016VXp2anYtZjNCX2d1Y2N3S0VaczIwQjFvbGUybWdzSzZMRzdKUWtWUjJhMnZpeXY3Y2hlVE1nUmRyM2FFUm4ta0Z5OEJDaExRSmJhZl9xNlo4RDBybzhOY3BLOUxsZjh2X05tY1cxUUFuZWlIR3JLTld4b1UtZUZyM1lMMTZOazVNNV8xYVdaZGszWXdOWDU3ckNWZ9IB7wFBVV95cUxNRFNyaVFjU2cybVpuam1QcjA5bUY3aXNzVnpzb0RkU3dtQVQ4TnQyVDczM1J0WEhjajRfcm95MjZadGpqM3A4SWMxTlNuVm9seFlSczNWTk5oZ016VXp2anYtZjNCX2d1Y2N3S0VaczIwQjFvbGUybWdzSzZMRzdKUWtWUjJhMnZpeXY3Y2hlVE1nUmRyM2FFUm4ta0Z5OEJDaExRSmJhZl9xNlo4RDBybzhOY3BLOUxsZjh2X05tY1cxUUFuZWlIR3JLTld4b1UtZUZyM1lMMTZOazVNNV8xYVdaZGszWXdOWDU3ckNWZw?oc=5",
-        "publishedAt": "2026-10-01T16:36:23.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
+        "publishedAt": "2026-10-02T22:57:26.000Z"
       },
       {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
@@ -157,13 +157,6 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "publishedAt": "2026-09-29T11:53:00.000Z"
-      },
-      {
-        "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
-        "summary": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVA5dUxEdV9TY0lnTFJkOHZWalV5RTJvMkVvcnBUZTh4cV9JYmhLbkU3RDZHallxMnlndEFVSmJZcnkzN1h6MlNUQm5zWl9IR0FfZ3dxZm1NX0IzZHRTTHdZS1VjQm55d2JwZnZJZHd1bm0yczcxdUZYV0c0RDhkTlFqMnY2NFRkeUtlbG9ZMU1wb09oTF9yOW8wU0RTa0lNeEw3WnpITXdSMGViaHRpSFlZNEMyMmhZbVR4aGJlSlYxZTd3NVV3R3R4UDZZWlVjNEE1bUg4a9IB3AFBVV95cUxPMXY1VVpCRUx5MHBpcHRUa0xsaC1XUFZYeURlMlpGd0k5SWNCLVdhbnlZbFR6d0V6MGRlcGFPN0dBSU1IWTY5Ml9lc0xnWHNiWEE2NnRDSDY0azk0dUdZb3J2cGNzYVFCOG5Ucy1ObnhBcS0tNjZZSVJiNkNkZHA2YS0wLXU2RnJPT0tOblpWeXZENFdJMkhGSFNIMGp3VVhwR2Q0RWVYRllJVlNLa0c0SGVsdThtdTVoREhCYmMtTXhKWTdQY0hva1hDaTR4ZnlqX09LV1FmMXlsOER3?oc=5",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
         "title": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan - Infobae",
@@ -185,6 +178,13 @@
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
         "publishedAt": "2026-08-11T07:00:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
+        "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -238,11 +238,11 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
-        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
+        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
+        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "publishedAt": "2026-06-18T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -251,7 +251,7 @@
         "summary": "Competencias para liderar la innovación: 9 aprendizajes clave &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVElickVobE9LM1B4N242VXhZb3JYX01XVXJFMklfQmNhWFhpdTA2cHZLenJ5SEZiR2hKcVVkWGdZQUIyV3U3MjNCX3pkN0JoX21UUW5Nc0JWSVFkeGZ5Um53bUxlblJLSWRkOXdFYTNFZWQzcVVodno0UUd1X1ljM0ZDck96X0hIeGljN1lHQlpJaVVWdnVBenJ4cERMT2U0Y1ZQcHluaVRkSE0zVWFtcE4xWlZCYVFBOFZXNHhYVmkxc3FMWkdOMVBXZHlmQWNhOHN1TFF0MmZDQjlWZENXWFdhTW9iUXRNS29sMXJSOXVyZw?oc=5",
-        "publishedAt": "2026-10-03T12:11:00.000Z"
+        "publishedAt": "2026-10-04T20:15:09.000Z"
       },
       {
         "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
@@ -296,9 +296,9 @@
         "publishedAt": "2026-08-12T07:00:00.000Z"
       },
       {
-        "title": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA - rcrperu.com",
-        "summary": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA &nbsp;&nbsp; rcrperu.com",
-        "source": "rcrperu.com",
+        "title": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA - RCR Peru",
+        "summary": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA &nbsp;&nbsp; RCR Peru",
+        "source": "RCR Peru",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlVVVXI5UEczdmdGQzhBZS11SW43VElpQm0xRUppaG9uRFRaZFhxbDFURmxmS2lKQkxaeFFsaGFJNUNfU3lHUGo3Wmo4UEtVcFBoVFJqS0JrdmxQeVJNSUo1czJJNmR1MjlGVUxLUFVzZjJfamk3ZmlUYi1OOGZpWmdHaFZobUdzbkwyZk1oWGhNdmhlcXItRjN5V0paVVd4VHFsN0NrX20zdVNrUk1lVFFteXk0UWVvMndTSXpwRmdsRHVfM0E2TA?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
@@ -308,8 +308,8 @@
         "title": "Inteligencia artificial: dilema global, oportunidad peruana - Diario Expreso",
         "summary": "Inteligencia artificial: dilema global, oportunidad peruana &nbsp;&nbsp; Diario Expreso",
         "source": "Diario Expreso",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkE4eU1qdHN2OXo0UThFMXlqX0FIQ2d4RGVQQTdRVXFFMUhmdTR0bmRjS1MxUl8zZVhvdDJMNUFtY25uU29ENnNoSFExUnFUTkNud1I0LWFIaDVWeXdLSk5MMllJTlc1MVVIeUNCVHlDVWVqT1J3LUNhMERlNWFHMm1VM2M5YTJQNDJnRUFLdGRkYktOM2RpZw?oc=5",
-        "publishedAt": "2026-10-04T15:26:08.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxT0s2QVkyNkdveDBaOWphZWxWRnNkZG5lNXcxMWd6Q0hRVW1pdUh4alduSUpwNzVjUmQ2ak1sd3Vqb29zeEJHRjBTNHdMdzdiYzh5R1ZXbjdQWGpOZ0pwQWhhb283Zw?oc=5",
+        "publishedAt": "2026-10-04T19:03:35.000Z"
       },
       {
         "title": "Perú mira a la IA como amenaza al empleo: país es el más preocupado de Latam por impacto - Revista Minería & Energía",
@@ -340,25 +340,25 @@
         "publishedAt": "2026-10-01T15:47:30.000Z"
       },
       {
-        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
-        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
-        "publishedAt": "2026-10-01T11:58:00.000Z"
+        "title": "Peruanos crean tecnología que usa IA para rescatar personas y ganan concurso de Google - Agencia Andina",
+        "summary": "Peruanos crean tecnología que usa IA para rescatar personas y ganan concurso de Google &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXNSS1lWRjM0T3ZVekNPQU1ENGs4SU54VXYwV0dKYU1YY0Q0Zmo5TThOUkIxLXZWaTlhYkZSaFNaclJrRWdzNDN6TUpVNXlFdnJMaEJqNGtMZVN2U3YwMkdGam5ZQ205MGpYdldIZzdyUEU5ZmhuX1dtck8zQ2MtS25hTDhUQ0o2eEJjWFRFOWNocWpQZ1VSYkZnX2pTMnhpX0dyZmNSV1dDdkl5dzh6ZGFhLUpNR0JNeE01TTlPblMtZTls?oc=5",
+        "publishedAt": "2026-10-01T12:00:00.000Z"
       },
       {
-        "title": "Inteligencia artificial para anticipar huaicos e inundaciones - La República",
-        "summary": "Inteligencia artificial para anticipar huaicos e inundaciones &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2FHV1cxUEFqX2FOa19ac1docXp5MXdPdmdOZExIS1JPLXE5RjRDM285U0kwWFhNNHIyeThZbEpBRmo5WGktVHpHdTMzZ1RKSTR5VjgxMUpXRV82OHdYVmM4NFdudXhlbVMxM0ZnaUh6V0M0V3ZyRkVVVWZnTmI4Z1d4UVBXdXJ0aG9BSHFzUXpINW5xLVBOeUpkOVF1NmptaGlmeEliVXpFaGN4UDRtVnpna1JJNHJteGFj?oc=5",
-        "publishedAt": "2026-09-28T23:44:55.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - ahora.com.pe",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
         "publishedAt": "2026-09-28T09:50:46.000Z"
+      },
+      {
+        "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
+        "summary": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
+        "publishedAt": "2026-09-25T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -398,9 +398,9 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Qué significa “farmear aura” y cómo llegó a Perú - Diario Ahora",
-        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
+        "title": "Qué significa “farmear aura” y cómo llegó a Perú - ahora.com.pe",
+        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
@@ -412,10 +412,10 @@
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
-        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "publishedAt": "2026-08-15T07:00:00.000Z"
       }
     ],
@@ -514,9 +514,9 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - Perú 21",
-        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - peru21.pe",
+        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
