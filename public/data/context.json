@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T16:33:03.258Z",
+  "generatedAt": "2026-10-05T22:58:27.403Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,11 +73,25 @@
     ],
     "economia": [
       {
+        "title": "Indecopi encabeza foro regional sobre propiedad industrial: ¿cómo pueden las patentes y marcas facilitar financiamiento? - Infobae",
+        "summary": "Indecopi encabeza foro regional sobre propiedad industrial: ¿cómo pueden las patentes y marcas facilitar financiamiento? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaG9uUTJxT29ZOWNvSHVWM0Z5LXNTaTFYM0dQMjZBbjZBcEdaYVB0MFlYWW9KTEhIUFFMd0Z2MzNhLUVsWTg2LTFod1dvSGFBUk8yRXFLa05ZcDc3ZDVSTFRfM2ROUk1STG9tTnVxbzF4Z0xrOGljSWhESlRlaUNsT0hmWnJqOW54RjdQanYxZ0lXdzlWbG1maU0yNmdkU0ZhZmxUZlh6RjJuQk1Eb3U5T0dURlFxTE9PWGppcnBEYzhZMDNLVTBLWVRLM3pvVHNGY0lnYzctN0xJVmtOTXpuT1F1NU14Qm9mZXJYeHlvNNIBigJBVV95cUxNQTdHVzluLXpxNlVES04xV0dOTFQ3NWNYWHhqQmFPYUI2Ql9nSlJGQkpEclQ5OTBpVDhVcVNJMzJ4RXVIWTJxQUZzX1d2YVdob1BaSmgxOEsxdU5nbko5ejdxX05wd0F6S0s0MzRhVVpGR0t4Z2loMkVveUpmcHN4MEJzNE9EZTIyc2dVZElPRFJvNWhZeG9GQWJEb1BFakQzby1qQjRIeEJSYUpkVkd6YWNnNEFBUm5JY2xILVVzVER1OVA5ald3NUlxTE5KSUFBMXdWc1pHNUQyRl91MXh6RTNIbFRUczdJckZOVzBYUzJfeGphMjl4Z1FvaTJwSGN3bm1CQTl5N1ZhUQ?oc=5",
+        "publishedAt": "2026-10-05T18:12:42.000Z"
+      },
+      {
         "title": "Tierra del Fuego busca inversiones en Perú para desarrollar acuicultura y economía azul - radiouniversidad.com.ar",
         "summary": "Tierra del Fuego busca inversiones en Perú para desarrollar acuicultura y economía azul &nbsp;&nbsp; radiouniversidad.com.ar",
         "source": "radiouniversidad.com.ar",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHZ4Mm40TXU0NUN4UHJodmN0Y0dvelFmcnhxVzBVd0ZBeXZTeXhrczU2U0hPVnc0cWhDVW04NzlQZTNZSlRlYlJZX1lqOWxULVJib1lacHN6bDdnSjJrUUNCajdNMW9Gd2hTMG8xQnZrNXlKSDlZOFZ4bjhzNi1DSzJkWTMzaG52d2hUdTc5LVl3UXRYWEJoSVozb0ttbkF3NGluN3Y1eEh6aFJadW94TExtUGhFZ2oxaENfTl92eDFqUQ?oc=5",
         "publishedAt": "2026-10-05T05:56:33.000Z"
+      },
+      {
+        "title": "INFORMALIDAD LABORAL ROZA EL 90 % EN CUATRO REGIONES DEL PERÚ | ECONOMÍA PARA TODOS - apnoticias.pe",
+        "summary": "INFORMALIDAD LABORAL ROZA EL 90 % EN CUATRO REGIONES DEL PERÚ | ECONOMÍA PARA TODOS &nbsp;&nbsp; apnoticias.pe",
+        "source": "apnoticias.pe",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGFINEJKbzdwckYtbHJ1X1N0b0tuYXFMMGNHSDloaVVNRjluWHVwQVR1bXJCRUZ6QXdxV0lxeHdCeDVhejhSUkdycm1SU0xPa1pqd1ZaODhBZU5DZTFNcXNRdUxDR1RXYUVuQ1QwZ0pEanVDQjUzYVFMWjcybEZRaVVaUklLdFhUOFlzV3Q2SV9wdFRDaFY5dUoyb004akkxeThYOU1PYS1rczUya0R6VzRxbHhJU1pEcFE?oc=5",
+        "publishedAt": "2026-10-03T06:50:48.000Z"
       },
       {
         "title": "Más de 62 mil empresas salen del mercado cada trimestre: qué preocupa al sector privado - Infobae",
@@ -94,27 +108,6 @@
         "publishedAt": "2026-10-02T21:46:41.000Z"
       },
       {
-        "title": "San Isidro tendrá un nuevo centro comercial: así será el proyecto de usos mixtos - Infobae",
-        "summary": "San Isidro tendrá un nuevo centro comercial: así será el proyecto de usos mixtos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHhmWDJoUi1hVlh6Uzg4a2NHS0RiZmVCQThpZHdHV1Q1QzUwSEVkSE13LTVCMkpPRmFIUXR6LTBweFV5QS1lS0R4V1NkVGk2d0lSS1BOaWtQZmozZ0hZUTZqSVoyd1FqSTdVTjc3QzNvd0xVLWQ5T3MzazR4NTJkcVJnaEJLWGZ5dEpTcGFQdGppbUZKTTE1VDZlWVhGSXFMWDB3NlpQNmR1MW5ET3QwOXEzeGxSU3lfY25BTdIB1wFBVV95cUxNX0FWQno1TmpocWZ5c1JmVXVnTGNnN25YbmJnOV9zYWpIU1JMbVZMNFZZcWc2R3RmTUx2VGpkRGZPeXdTU1hhQjMwNEVoeVNiQUMtQ3NGWEpJNWJvSURaNzV0akRRM3lXRkxwdGtzOVlTMGFvYjlteUJZYm83X1AtMWJZUWxmUVFEMW1ibG5vWXVGVk5TekJ2NlNMZm9TM2lVUXFHMURsRFlUNVNIck42bWh0cng0S2dPRXFwQ0k1X28zcFE1Y3FEWnN0ZGYxLXBCNlRoem8yRQ?oc=5",
-        "publishedAt": "2026-10-02T03:53:00.000Z"
-      },
-      {
-        "title": "Euro hoy en Perú: cotización de cierre del 1 de octubre - Infobae",
-        "summary": "Euro hoy en Perú: cotización de cierre del 1 de octubre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2NIR1NvLVF0Y3NUYTVXRmNXUG1iWlNRMHd0NlNkZkJqS3ZwS09XbTNmWU9CYmtTN1ZGUE5yaHE2X3F6SFlNNG5VMm5TMGV5aGJ4RWIwdUJBd1k0WURya1dRTjY1TGlBMnh4bXhQODZYblBra3oydjd4aHFHM3czYzhzVjVORGhVV1lRbEV1ZDR6dGRNeVJJMGJqd9IBtgFBVV95cUxNT2ZRNHk4Y0RPS3Q2Y3dwYmpWYWNkRHRTR2RRcDQxVWI2VDZLbDF1NlRxY2dxbURQVDgwdFl0TUphTFRMQXdmYXlzQTRuMHlGdDFUQkhzbXZCdmMwNU53QW80a3F1ZXV6X1pqVHJkRkRIMzFDeFJYS2RiN3VEdWpUUG44bGdzNERXRFZad3Fvenp1WlJDYUdxcnM0UFFiaU12ZzdKM2REeE5LeTA4RHFYV0JzbFhoZw?oc=5",
-        "publishedAt": "2026-10-02T02:48:00.000Z"
-      },
-      {
-        "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
-        "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
-        "publishedAt": "2026-09-29T11:53:00.000Z"
-      },
-      {
         "title": "¿Cómo superar la trampa de crecimiento en el Perú? | Carlos Parodi - Perú 21",
         "summary": "¿Cómo superar la trampa de crecimiento en el Perú? | Carlos Parodi &nbsp;&nbsp; Perú 21",
         "source": "Perú 21",
@@ -127,6 +120,13 @@
         "source": "América TV",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmJqSkx3R0g1eWlnVlhBYVRZVXJJZ2JqUG5fTHNpdWd2RFRmMlpMSjI5R0l2aG5HU2d3bFdSNGF6bUtGOVdwUmZ4Wk5BNU5aeWtQUEtacHZ4NTRZdmFjbGVFek9NLUp6TExHbUtTZk8ycGtVR0Z0V05sbE0wYXpOa0VWWi01WTRzZ2U0eFg1OW1ySDVfMTlJYS1mb9IBoAFBVV95cUxQaF8xQ25KX1hQQ2pTT21vM2JHRWRUNnZuTjg2LTZRVTAyTWd1U0d1QWlzejVIOW5wNHpjOUdwcUE4NkVDY1hreThuRVJEYUFCMWVhbjRuek1IRzFVWm9lbjNSemlLWDA1YlcxV00tYk1PUGRoU0h2eGJ4azU2cG1HTVV0UzdEbW0zUFFVbDRrcHhidGttcmRnSHNkSV9XcVda?oc=5",
         "publishedAt": "2026-09-16T07:00:00.000Z"
+      },
+      {
+        "title": "MEF: economía peruana creció 3.6 % en julio y acumuló 28 meses de expansión continua - tvperu.gob.pe",
+        "summary": "MEF: economía peruana creció 3.6 % en julio y acumuló 28 meses de expansión continua &nbsp;&nbsp; tvperu.gob.pe",
+        "source": "tvperu.gob.pe",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQam5YWnpmYW1SeXZlVFd2cXNBSkNuZkdlalNoSDNiYzAycWJNOFU2c1ZTdHdJcndnNHJwTzZWTkNQa1ZPN1Rxenl1RXdmbFNfNmRTV0xfUEdmTE1wcXdHZ3RiWHl2aWJpdVlUS3BfeExhWGtDWWlFMVFaWi1yMGZtWkFtMnQ0TWVMZmRQU1lIMlcyRVlqZF96aG9wR3dtNmlEdU10NXhyeERCNnpTWTF1TXI3amN5YkFKLVJLQjBINXl0dw?oc=5",
+        "publishedAt": "2026-09-16T00:54:31.000Z"
       }
     ],
     "sociedad": [
@@ -180,9 +180,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - andina.pe",
+        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
         "publishedAt": "2026-08-11T07:00:00.000Z"
       }
@@ -268,9 +268,9 @@
         "publishedAt": "2026-09-20T02:36:47.000Z"
       },
       {
-        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
-        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - elcomercio.pe",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "publishedAt": "2026-08-25T07:00:00.000Z"
       },
@@ -305,11 +305,11 @@
     ],
     "ia": [
       {
-        "title": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica - PressPeru",
-        "summary": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica &nbsp;&nbsp; PressPeru",
-        "source": "PressPeru",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT00yb3F5d1BqUlY3bzZNX1k0ZlZNdENLeWlXLVN4Ny1QbEdBdkZ2enJOVm9iTWtKUlVrVUFLZThGMVEtMkVXU01uMHBFM2ZRcXRBQ1Q0UmhBX1dfSGEtUWNYZ0MzXzJjdzZMLXduZ2hhbkhDNDFQVFV5THZHMzBjMXNBQkFNeW1nMnUwMXYtTXJhNVhNTjJYR1l6WFE3am4wNEhqU2ExXzZDaEVES19GM0FkSEdfMkMtQzk0Z0NzR3I?oc=5",
-        "publishedAt": "2026-10-05T02:22:24.000Z"
+        "title": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica para adopción responsable de la IA en empresas peruanas - Perú Informa",
+        "summary": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica para adopción responsable de la IA en empresas peruanas &nbsp;&nbsp; Perú Informa",
+        "source": "Perú Informa",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjZJeENTb0xLNW1yWEs5Y1p0amlEUjZZNGxIR1lTc1dGV2hCMUpCZ1lrcWNPWDVVVHRkaXh3Wjh6NXZQYnJmV1puRF9oUENFVDRuTF9kWG9iTVFWWVVMa2g2MjNCbFNFNVNhZm9aTVMyRWJacVljV185SWFEMGQyTl90N2xYMUFucXhUQWpSemZWMzZGa0JONGFXRElIX01JVXNoX0hQYWZjNmFIOWpXMnBxNzY2RndFMEU5SzRjeWhhNkNLSlVVLUlPUEpjZXZUQk9mRWp1dm0zci1oV2N5ajZJQV8wMGI1VjZQZ1lWdzByLS1ON0VTR0VaVThoTzdqcjVPdg?oc=5",
+        "publishedAt": "2026-10-05T20:27:46.000Z"
       },
       {
         "title": "Inteligencia artificial: dilema global, oportunidad peruana - Diario Expreso",
@@ -363,9 +363,9 @@
     ],
     "tendencias": [
       {
-        "title": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre - El Comercio Perú",
-        "summary": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre - elcomercio.pe",
+        "summary": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbmJIWDBrLXlhS0xEMm1WamtVUmZuQkRLSmNWMVBDLWoyY1pNTG1OMzROZ0RKS21KLWhtbDFYb0dwM2NSVXJjdHY5c1dBcEpEbXVPMnBoUzlHMk03S0FqaktTcVRpMHB1dmthVWZocDZDQmYwRXhwZXVQTEItXzJtWmpEVmpnczdpZDZKVk1nNTNCa1ZWNFo2MFBfS3U2QW9raVMyMkN2T01CLWVvVktZblEzekRVYklISEJPdmZUU0JNTjRpeFN1S1NPdjU5aVM1TEtfNGl6Vjd5MTU5Tm5EakdUdGQ1c1JQUXk2bzl5SnVRTWxFdTBIZNIBjAJBVV95cUxQMExLOFhNVVFSSmRkSUJBNHM0eHoxdjZEM1RkdlNRbWl5dl84TzlPbWluNGhQSE9OYWJ2amVfYk5JQkR6LW9scWxqT0dPQUFCZzU4TUJxOUNxVmUxT3pRR284dTB4dDFqbDh6b2l5NUtlTTZjQ0s0OUNIQ2ZFZE9YU3gzQXdCX0ZaR1lXUVZiX2J1ejJVR2xGRVROTXhuN21kOUJJckVsS3JRMDZsTkI5aUtPaVFBSVUtVVFqNXp4Wkc5MHhRSDd5bFFoQVhIWXlmd0l1LU45ZHk2LWZZRzYzYWpENU52MUJDY1JYaDYyanczRTNWZzVBeFhZaWRvQ1NSWU9DcEh1SFZsbElR?oc=5",
         "publishedAt": "2026-10-01T00:20:00.000Z"
       },
@@ -375,13 +375,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
         "publishedAt": "2026-09-29T23:36:00.000Z"
-      },
-      {
-        "title": "Alerta por peligroso ‘reto de las 48 horas’: adolescentes desaparecen, no contestan y ocultan su paradero a su familia por varios días - Infobae",
-        "summary": "Alerta por peligroso ‘reto de las 48 horas’: adolescentes desaparecen, no contestan y ocultan su paradero a su familia por varios días &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMmIyVnNyeG5xYkNaT0VuYXNnbUZOMzkzYUQ2dkt1OHZZVFk3N2xzMWxBT0E0aHVxalZIVnMtSVpzRHZ0RXhSZjdlcmVzQnQxZUxLcmxsTTVISmlMOEhSRWhwTi02SURsdXFId2xodzNseEFySnQwSWNqRzFnVjhMdkNDOWRjVkVXLUtEa1FsMVUxNTVKbDJPcEdoczd4RDlpdWxMR09VanY3MVlMelI5Z3pESUZxenBIenJvQVVBak1yVGpOc3A4M2w2X2ZxdmZlZjZlWUp1ZlVBNFBEN3V3a1ZwZG9pd2dLdVFSczJhbXJxSVZUQXlUMXV0eGRkbzZu0gGbAkFVX3lxTE9iTmJfNHFUdGtSYWViZ3liOEQyQUNGXzJ0N3JYR0RvSnJ0NlNxVHdiMks1Z2lqOVJlR3gyOHBlZWltb0dvelRoUlcxcjYzZC1pWVNiNlRKRFhNbUo5NW1ZalVRbWF4YzdCY3hHbWJra2k3NFF1TXBhNHFiTHpaTmtnOXV0S05ROUdYTGpyWXJtazd1NWVXZ2FkREFiUkxxYWk1ZmhzUXFYNU5CcmRQNzJTNG1tVFZWTHlsa1dCcFZzVFJBczNwQzhHY2VkNVVQYWl0S083R1ItRG1fWUV4akRQZmxtUmhRY1lwRFVnTEh0MFZ2dzFpaERWOVQzcXhnc1ZSUHJmT2JUS2o1ZU1XQXZZNjJIMTFsOEpxdVU?oc=5",
-        "publishedAt": "2026-09-28T00:21:00.000Z"
       },
       {
         "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
@@ -417,6 +410,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
         "publishedAt": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
+        "publishedAt": "2026-08-15T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -426,13 +426,6 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
         "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
-        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
-        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
@@ -463,9 +456,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -474,6 +467,13 @@
         "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
@@ -500,9 +500,9 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
+        "source": "andina.pe",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
