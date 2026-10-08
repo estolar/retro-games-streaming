@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T14:09:38.154Z",
+  "generatedAt": "2026-10-08T20:19:01.576Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -20,6 +20,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVRLVTlDaWR6SDhKV2hsdHdRRjN2N2tKSHVxUml3V2tRNTFqdWlRcjdzOEpZaTRLTUpZb19YSE1FOXB4QU00R2gzQ0tucmJENmcwSGY4SXBpUEY5NVZpaElISDdGQWRCMkFCTUF3ODNrZFZkbTQ1d0g2b050bVZfZ0MtNzhaN1paeXM5NmpwaHZvX3NDWVRONXp5UXF6cWMzMFVsQ3dCU0E2WkxQUms1MWR2LWpRaWN0VWRWVUVfTzF3aUQ1V19SenU2ZS1fZVlsTHpKc2lLZnVmQ05VNkVvYWR30gH8AUFVX3lxTFBCWDVFRGVZcWZPcUhsVHlHb1E1aXM4R1FlSUNObkFDRkV4aDFXYjVmSE8tUDVVdUJTMkF6bVo2aTdDQ0YxQzlxaFd6TzFjc0RXMmVVelNMNUJKdGJxWXFQcDNWb1pDTGhFc2JsQ0plQkc5X1RJbWVvd3hFWFZQNjVrcFZ6c09kcTVFVldEM2d6Yjd6cXBaWHlMWmU5NnAxR3Q0bFBZbGwzNEpHcGp2WkhaTkM4eXlhVDR6M2tlUmFYN2VRWW1vNXdVTWo5UGE0V0NURjVWcXdhZVZpYVJWZUUtZkRfQ3pYeGJSVVVjY3hzR1dmX0g0SjVNUFFjeg?oc=5",
         "publishedAt": "2026-09-30T20:47:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" - La República",
+        "summary": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUW9CRGQxUjE5aDVCU0Y1UHBkb1NXdkk2ZWJBLWNvOG5fNEtZLUt3elZRSk1pemJzVXJLcVpFZXNrMjlIckV5WEJLZEdtWTBncnozbVFFbnVvcWYtUldGbjV4bURESEVRcDIyeE5BRG5EV1MtZkZYcFVWek9EbmJyRE40S1dDMTlYSGU3ek9RaWRPQnR6bkg3VmRTVTZRN2FDeDBBWlIzYXpOWko4cmtzWkhKZUJLQS1OcldjUTRjcTJqbU5pSGpSOWNXd1VHTk5LaVdjM3RMZlY1M3hfQXNxYmFxNzRFOEF2UG1qT2J5QlB0NGVCT2VNcEZicWNmRHPSAYQCQVVfeXFMTmc1Yk5jZ29kMFM0VWcwRGh0TkJoa2FMOTNueXdiaVhCTlAtUFg4N3BVNjltUXYtRElCSWVKbG9YMGh5V2dfcDFZNzlxNjh2a0xJS0QxRHFPdU4tdXh4OUJuZExhZnlEc2RNWE8xc3dlS3Y2WFA4V1Z6anBhckNscDNJYWFsOFctUVF6S3d3QXd2RlJ2ZzluLWc3czJ6RXQxWVI5bEZXNmo2bGlERjYxSXpUQUw1REY4TnR3SHE5aFZWeUlfbmpad1p2bUhvSXhKQks2T3JiU1JnQ21aM2RpRHdlV1hzQU1vU1VEc2FaMFp5Sml4X1lGVTJXU3FrVk92aXVSRm8?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori al Congreso por negativa a facultades legislativas: “Están poniendo a prueba nuestra paciencia” - Infobae",
@@ -57,18 +64,11 @@
         "publishedAt": "2026-09-11T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial - Infobae",
-        "summary": "Keiko Fujimori lidera sesión del Consejo de Ministros: aprobación de política de gobierno y chatarreo policial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
-        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
+        "title": "Oposición rechaza pedido de facultades: se impone en seis comisiones de la Cámara de Diputados - La República",
+        "summary": "Oposición rechaza pedido de facultades: se impone en seis comisiones de la Cámara de Diputados &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1pHajhHRzdlMTJaUDhRdjQzcnpubDZFOTRPcmw3bGxWTkJYOXNCSFZUR1V6UFJZX01XeUJHS184c04wWlJDcnhrQ0F2VmlMRlRhQ1NzVlJMN3VsRUNfcXczb0dvcmxEU1FmWGpUWHJDMmlyeU9veTZYczdyREhNemJEU3pKM0h3ZGVWanZHS1g3UVNTSzdzbV9pcUpiRU8wYjRIMUJYTWJJdk5GSThSUE1iT1drXzJlV1k2UFlKNXk5MkhRWkMxSWdUMUZuYTA0Ynp6THVVX0lNWWMxUmIzaFJlZ2HSAeoBQVVfeXFMTi1INUthSHR0a1Q2bDJRbDlnaVhzZ1Vvb1pHYmJuRXRXa2gzTGx0eE1lOEp1ekY4MTBBRmIzZTNOOFRDTzlQYWpHVzBhUVNEanZuYW5JZnFqN2lXR3VhRFBHX25VZ2JNNWdieTVuUm44R3dKd0RSRzJ3dDc4SDlMM0xvQ3pvXzhLRXlLVjNTbDZ3aG5DZFY4OV9YbFU3LVBiNHpmSWRIN09tTVVES1BtS1NyeHo4RGo3WllEaXVLTUx1c1Y1WlRkTzVFY3ZpNHlyNE9IQVp0T3NJRjBFUUhHcGJmTFUtTktxN0J3?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -78,13 +78,6 @@
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTFmRU1NRXdiMW5hS3Naem1NX1AwOWEtcXpERVpYMEFyVEE1VTNBdElwOHY1emwwVGdSNXVHdjZXc1dfa1RrSTVWWkRRUUMtLWRPU1BNX1A2eUFiUlNjUjhsOW9iTmVMV2lmTzdHeGZ6VXRndUNsVk5rZEVzdlNoQUYtMllJZGJUWnVNUVZrME52cnNwemlZeER5NXFEUlpOdzE1eXFranh1ZzcyNmxzeGFjQVIyS0JNNHJleVZjWQ?oc=5",
         "publishedAt": "2026-10-08T12:34:00.000Z"
-      },
-      {
-        "title": "BM mejora proyección de crecimiento del Perú - El Peruano",
-        "summary": "BM mejora proyección de crecimiento del Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1VTVkkyeC1mSW9vU2Q2VnRrZUpmcXpiSDRXbGZaQ3VFR3U4Tk9wR2t1cFZ3OEl5ckJseGQxZjltZkloMDFUWDFnQ1FTYjNld3VDbUpwUF93S2pMRWFSbVBENktWcGl1ZDB5eVhjYzMtVWoxSEpiRzZuaEJkbzBhOUhiTGczYlk?oc=5",
-        "publishedAt": "2026-10-08T10:00:00.000Z"
       },
       {
         "title": "Economía de Perú crecería solo 2.9% en 2026 y 2027: El Niño preocupa más al BBVA Research - Gestión",
@@ -127,6 +120,13 @@
         "source": "BBVA",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHNTcGJxQ1Z6MGlBSHhick44MEpJaGlkbHpKYnJtbDMxSmRqaFZvSnBGbGZfWktTNmNjMmM5VUdaVUJHUEJGRXhFT1k4LWFOMzZFOWNRTDNDR04xMGpJVHM2czFLTkRJcVAwU0MxNUhWUGJERFR1Y3B0NjFFR3NpUVVvYllKT2pNRVAyWlVqbGFua0QyLVFWSVJtX0owTkVaRlNCb09rZjJjd1pwY3QteXFfa3J3VVE2?oc=5",
         "publishedAt": "2026-10-07T21:45:37.000Z"
+      },
+      {
+        "title": "Banco Mundial mejora proyección de crecimiento de economía peruana a 3,2% para este 2026 - El Comercio Perú",
+        "summary": "Banco Mundial mejora proyección de crecimiento de economía peruana a 3,2% para este 2026 &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXRlZ2o1eWVVNHRmeXhRT0ttaE0tX3RtUnJTekZ6UWpheFV6Y3Z0dnBHTTRkdjdIdHBzTlg1YV94cDdkbVpfXzVYWkFEbmtQdlVtbnh3eERWQ3R4TWhXT3hTRzBHMzBmM2ZCSTdzQlU3VExNc2trOGRLUThQay1haUpoR0VPMXBQdkZHNEs4Q3BQM3Rmb0dNbzNUby1nOTFrcXhESWhyc3hITW56YTRxdnFxV2luWXRpakVZWTF4MUcxUThkblZJSGFKcHBZbzNodmdSeEVFeTjSAewBQVVfeXFMTTdodktrakl5OFNpODZkdTZmeXJIb2xyZXhNODdhd3JoZFNfZVM0RUdJYTAxRlhSQmlDSXpzWFV4Ui1ISWFjVDB6WE5JaG52aUx0cHVzdVFuX2JtSklKOUtKRXg2dnJKYzg5cnd1S0NhOVBLWjlieHVPWEw1SlZMLWVnQlJLdTdJYll1OWplOThneXlHQnlya0xkanEwcUtCdE4zekZjUFotek1fcFgxODM2TnhRN2Z2MTREZzlkYVZROWVUYThvVkZaUHBKVTQyZEVMYXFRSGVEdTd2WVdKd25NcXNiTkMtNWhDQ28?oc=5",
+        "publishedAt": "2026-10-07T19:33:08.000Z"
       }
     ],
     "sociedad": [
@@ -261,6 +261,13 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
+        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - diariouno.pe",
+        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; diariouno.pe",
+        "source": "diariouno.pe",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
+        "publishedAt": "2026-09-20T02:36:47.000Z"
+      },
+      {
         "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
         "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
         "source": "Forbes Perú",
@@ -294,13 +301,6 @@
         "source": "RPP Noticias",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWlYMVlRZ3N4QmdNR0hiTmVDbTlRUFdDVUo5bG45Y1daTndzUUJfT18tTkdLQW5rQ2tBRmJyTnBRX0ZId25tZkJNcDIyNnd5eFhZZjBJVXhQQnQ1Vi1qV2hDYTFGMzhpa0tBc2lfeXZJQU5sY3dxcUdybVNRbWUwbjA2VndrX29rNWxvQnN2ZzBQOVJZN2lFSmtwb1JvX0cyVmE5U1JYQnVFaEFEZnFhM2lWNmtrMS01a1VzMExqa0NOMFFCeEw2eVV5bkRRNzFiRmFna0o4QkVnanB5TG96amJPS3hrZw?oc=5",
         "publishedAt": "2026-08-12T07:00:00.000Z"
-      },
-      {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -309,7 +309,7 @@
         "summary": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
-        "publishedAt": "2026-10-08T11:19:54.000Z"
+        "publishedAt": "2026-10-07T18:30:59.000Z"
       },
       {
         "title": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano - AgroLatam",
@@ -428,10 +428,10 @@
         "publishedAt": "2026-10-03T01:42:10.000Z"
       },
       {
-        "title": "Robbie Williams, BTS, Hombres G y todos los conciertos en Lima que restan para este 2026 - La República",
-        "summary": "Robbie Williams, BTS, Hombres G y todos los conciertos en Lima que restan para este 2026 &nbsp;&nbsp; La República",
+        "title": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas - La República",
+        "summary": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
         "publishedAt": "2026-09-22T07:00:00.000Z"
       },
       {
