@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T10:12:22.829Z",
+  "generatedAt": "2026-10-10T15:58:58.843Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -14,13 +14,6 @@
   ],
   "topics": {
     "politica": [
-      {
-        "title": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" - La República",
-        "summary": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUW9CRGQxUjE5aDVCU0Y1UHBkb1NXdkk2ZWJBLWNvOG5fNEtZLUt3elZRSk1pemJzVXJLcVpFZXNrMjlIckV5WEJLZEdtWTBncnozbVFFbnVvcWYtUldGbjV4bURESEVRcDIyeE5BRG5EV1MtZkZYcFVWek9EbmJyRE40S1dDMTlYSGU3ek9RaWRPQnR6bkg3VmRTVTZRN2FDeDBBWlIzYXpOWko4cmtzWkhKZUJLQS1OcldjUTRjcTJqbU5pSGpSOWNXd1VHTk5LaVdjM3RMZlY1M3hfQXNxYmFxNzRFOEF2UG1qT2J5QlB0NGVCT2VNcEZicWNmRHPSAYQCQVVfeXFMTmc1Yk5jZ29kMFM0VWcwRGh0TkJoa2FMOTNueXdiaVhCTlAtUFg4N3BVNjltUXYtRElCSWVKbG9YMGh5V2dfcDFZNzlxNjh2a0xJS0QxRHFPdU4tdXh4OUJuZExhZnlEc2RNWE8xc3dlS3Y2WFA4V1Z6anBhckNscDNJYWFsOFctUVF6S3d3QXd2RlJ2ZzluLWc3czJ6RXQxWVI5bEZXNmo2bGlERjYxSXpUQUw1REY4TnR3SHE5aFZWeUlfbmpad1p2bUhvSXhKQks2T3JiU1JnQ21aM2RpRHdlV1hzQU1vU1VEc2FaMFp5Sml4X1lGVTJXU3FrVk92aXVSRm8?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
       {
         "title": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” - Infobae",
         "summary": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” &nbsp;&nbsp; Infobae",
@@ -69,6 +62,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "🔴 Keiko Fujimori responde sobre supuestos cambios de ministros y confirma solicitud de facultades legislativas - Facebook",
+        "summary": "🔴 Keiko Fujimori responde sobre supuestos cambios de ministros y confirma solicitud de facultades legislativas &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakt4ai1fdV90enNxYUJWRkRmcHl5enQ2c3ZkVDFDWHZrczg2SHdudGVXajM3RmQtQVJ4a3RWTHByLTVkLUxYMXQwNENWTnpzdmVrM0YxdDlPNFdqYVpmZ3JOekdTMTIxWS1UYWVhSU9xWVZadE4zd281dGE0am55cUtSb25FZTRJNmJ1NEVqdndLWnpwQTBGUGU5Yk1SQVBkQjZTQzl5bDdBbkxISXBGb0dBRWdXT0lvVnR3WkRSakNGZ1YxaG5ldUR2amlPWkFDZUFzcDVPUjFZWlI2?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -122,11 +122,11 @@
         "publishedAt": "2026-10-09T16:34:41.000Z"
       },
       {
-        "title": "Banco Mundial mejora proyección de crecimiento de economía peruana a 3,2% para este 2026 - El Comercio Perú",
-        "summary": "Banco Mundial mejora proyección de crecimiento de economía peruana a 3,2% para este 2026 &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXRlZ2o1eWVVNHRmeXhRT0ttaE0tX3RtUnJTekZ6UWpheFV6Y3Z0dnBHTTRkdjdIdHBzTlg1YV94cDdkbVpfXzVYWkFEbmtQdlVtbnh3eERWQ3R4TWhXT3hTRzBHMzBmM2ZCSTdzQlU3VExNc2trOGRLUThQay1haUpoR0VPMXBQdkZHNEs4Q3BQM3Rmb0dNbzNUby1nOTFrcXhESWhyc3hITW56YTRxdnFxV2luWXRpakVZWTF4MUcxUThkblZJSGFKcHBZbzNodmdSeEVFeTjSAewBQVVfeXFMTTdodktrakl5OFNpODZkdTZmeXJIb2xyZXhNODdhd3JoZFNfZVM0RUdJYTAxRlhSQmlDSXpzWFV4Ui1ISWFjVDB6WE5JaG52aUx0cHVzdVFuX2JtSklKOUtKRXg2dnJKYzg5cnd1S0NhOVBLWjlieHVPWEw1SlZMLWVnQlJLdTdJYll1OWplOThneXlHQnlya0xkanEwcUtCdE4zekZjUFotek1fcFgxODM2TnhRN2Z2MTREZzlkYVZROWVUYThvVkZaUHBKVTQyZEVMYXFRSGVEdTd2WVdKd25NcXNiTkMtNWhDQ28?oc=5",
-        "publishedAt": "2026-10-09T12:55:00.000Z"
+        "title": "Perú recibió US$5.368 millones en remesas en 2025: ¿qué riesgos enfrentan las familias? - Diario Altavoz",
+        "summary": "Perú recibió US$5.368 millones en remesas en 2025: ¿qué riesgos enfrentan las familias? &nbsp;&nbsp; Diario Altavoz",
+        "source": "Diario Altavoz",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEctVXhUX3cyakpSalEyTWh4bzZ5OVlzYmUzVkF5M1lraVNxX21LU1RwdXRvUFJIRExwbTJDdW42WUNoanFocGMtalFTMW9rLVptUDQtb0hYZDFoUnlYT2NiR1JnTVVQTE00b3d4Nmt4TXR5V2FVd3V2Nm9YQkhmcTFIa212dF9sSXNfYjdqeG5GZElxWVpFdjJEZW9ITGRpYnBjdUNRVGxCaVk3RWpNdjdB?oc=5",
+        "publishedAt": "2026-10-09T03:32:20.000Z"
       }
     ],
     "sociedad": [
@@ -344,7 +344,7 @@
         "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
-        "publishedAt": "2026-10-01T19:41:05.000Z"
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       },
       {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
