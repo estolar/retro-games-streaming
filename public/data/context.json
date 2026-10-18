@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T21:09:18.962Z",
+  "generatedAt": "2026-10-18T23:47:00.865Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,11 +73,11 @@
     ],
     "economia": [
       {
-        "title": "La oportunidad del Perú es ahora - El Comercio Perú",
-        "summary": "La oportunidad del Perú es ahora &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcFFyUVBZaEJQcmZ0NG9lQ2VIblpPczFmM0w1VHFEYTUyZzlta0o3Z01SaXlOMzFPOE9sWE1lX3pMVEVlVXhOWVlsRU1YVG1FLTNOYUh4ZEFfNUMyUm1hcHBKX0hLSUpxWVF4S1F1YXRtX1JLMWt3bzRhdXdLck03aFg2ZW92a1NPOWlPbTI4bXoxNGZUdUZhaXdzX0c2cTdaZ2RQcEVMc2QzY242UGVtT2Y2NWpUemNjMWlYYVpQQTlQYy1kNllxZHRmal8tOXFmTzJZcXowX3U2cGtlOE5DQmtROUtrbGpORWVpQUlSMzXSAYQCQVVfeXFMTWxyemJRSm1EMVRzbnRRSE4wcWRlcHUxU3c2UXhBQkFFV2c3eXcyQWxzOHJ0NlBqbmlxNF80eDlPOHZDU0hjSlNjS2ktQ015MXRieThBTHNGYmRoQ0RhN2lJN1R4Y01uWmpMY1JvVXNhUTNLdUdMVTFIY0F1VXFfRWJlWm1fSHZBaTB6S3IzTDdCM2prTE1yR29RWFQ5QnFsN3d3TmNxeS1LVWkzT2UwWHo5NjdUczBrdWlOaWJ0dV9DR0xoSDFSSkZuV0doMmZSbFRJa0RiZkY4V0NOTkJ3Q3c1N3FlVTJOZkV5WFNaUm5ua2w1WEdaV2lPRzVIX1RQZmYyTkE?oc=5",
-        "publishedAt": "2026-10-18T05:40:00.000Z"
+        "title": "Pesca industrial de anchoveta podría paralizarse por más de un año tras decisión de Produce - Infobae",
+        "summary": "Pesca industrial de anchoveta podría paralizarse por más de un año tras decisión de Produce &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUxaS010d3BQdHp0ai1CTFBMMGdwRDVCSWNQaWRvT3FQYlR2Snpqbjhla2RpdWY0V29Zc0NPa1J4OS1MM2J4S0NmeklreEZaT3FfNzN0SWpqdXZtVUREajdnU1FwVnJaRDB6aGNsbnVqM0RCb05xVlNRd29DOUhCMURpVWNoWndzRXZ6Y1pGcTV1RXpheVIxSmNlWXU0Y2hiWmxSc1JYRENmRzR4Q2FKRzZRa0V3TWdacGkyNjVlQ0RVelJHU3dxRjc0UVjSAecBQVVfeXFMTTNwMWktSndXclFVLXR5SE5SMjRCSGU1RWdhblJ0VVVIcXdXX2JmS2dpQWxLakxpVEpSM3FzOWV1Qlg1Wmd3Rk5ZYnYzOFQxTVpSSDJUQ242eVNsWFA4RkxDQlUwX3E2WVZCcXFJLUhaS2twY1MyRzh4b211a1NtLV9zbHRBazNTdE92WFc3S2ZEZmpWNUZHRmppXzlTNDlIUVBDVU5sSWlwcFJvSjR1M25XRjJuTlhaNl9QQ0lLWElMTzAwVmJuR0l5TlVrdUxrdU9kQmp5Uk9RdUFyVmdCSy1DS0tlUkVJ?oc=5",
+        "publishedAt": "2026-10-18T03:32:00.000Z"
       },
       {
         "title": "Illariywan Yacahriy: economía peruana crece impulsada por construcción - Agencia Andina",
@@ -486,13 +486,6 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
-        "summary": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ0gGPAkFVX3lxTE40dDg2UjlEN0VJczBwVUF2Uk5wVUlORV9oNUg2MEx6QXFFQzM2bHJydGNLZHQ3UTNRc0N4dmExdGZ1NndSOTVKdnlsTHdZQVFzOThBRUhwbGp5c1BYZDg0a3dWYzN4Ty03M0tIRXVZaHBHS0xZU241ODI2UGFKZTZXcGlTSi1CMXhOTmlCNUkyRTBlN1RjMXJhTGMxOThVR0ZhQ3cxY0RwRmFBN0FMVkRFUHEwcVUyaUVkM1I4aGJIMUJvTG5GMjJhN0Vudk9MVjU3QWN1QXNXZUNtOVlIUWNFVkxEMzMxUjZibU5obkhpalA3cERvWFh6bTMzTDhkbnBZdFRNNkh1OHVSQ2tEbEk?oc=5",
-        "publishedAt": "2026-09-05T07:00:00.000Z"
-      },
-      {
         "title": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI - Infobae",
         "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -533,6 +526,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
         "publishedAt": "2026-08-13T07:00:00.000Z"
+      },
+      {
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
+        "source": "Ticketmaster Peru Blog",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
+        "publishedAt": "2026-08-08T07:00:00.000Z"
       }
     ]
   },
