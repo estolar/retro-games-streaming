@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T14:12:03.756Z",
+  "generatedAt": "2026-10-22T18:56:25.268Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -36,13 +36,6 @@
         "publishedAt": "2026-09-29T07:00:00.000Z"
       },
       {
-        "title": "Presidenta Fujimori respalda a ministro del Interior ante eventual censura en el Congreso - TVPerú",
-        "summary": "Presidenta Fujimori respalda a ministro del Interior ante eventual censura en el Congreso &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBqTVNtWWc0RlBQaXF0NWdDWlNPY1V1QnJoNkc0R0JJS2VkS3NrTFgxdmZ0dEhmLWhPYkJXalpJX3dJOG43eVB2ZDBkZm03clplYUVnY3RROWJjWThyVEdDcHd5NnZQWl95alcyWU00VjZqSFNaRnJLMXJJcVczenMycTcxd1V3T0NidzROLW9iczhid25RNVJlS0UwOEQyV2owaFVEbVRVRUtRaVloRlQ1Z2RaY0UwVkNuYXl2VDZ1aEFJY3Nyd2VyS094UQ?oc=5",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
         "title": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro - Infobae",
         "summary": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -69,64 +62,71 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
+        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
+        "publishedAt": "2026-08-31T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Perú anuncia bonos y otras medidas económicas para afrontar El Niño y choques externos - ABC",
+        "summary": "Perú anuncia bonos y otras medidas económicas para afrontar El Niño y choques externos &nbsp;&nbsp; ABC",
+        "source": "ABC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjM3TmEyZTVvSVNwMnpDS1lLZjZLV3oxZ0xtc1hZenYyUm9CMlBoeEFkY2dkUGJSNXBzLTlsWjNTUnVBQllVSUxwYVpQZDhFYW9pWENxTlZ2OGczUzdEUmdQclNWaFd3Q3NreHoteTJlVXVGZlFJemRlaDdvdHVyamVlbmsxTkE5Q3hIZTYweFRadjEwY0x6YUxzSFk5a3lUNDhHRA?oc=5",
+        "publishedAt": "2026-10-22T18:45:31.000Z"
+      },
+      {
+        "title": "Perú anuncia bonos y otras disposiciones económicas para afrontar El Niño y choques externos - ABC",
+        "summary": "Perú anuncia bonos y otras disposiciones económicas para afrontar El Niño y choques externos &nbsp;&nbsp; ABC",
+        "source": "ABC",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmk2N195RTEwMEgybWJ1a2RtcWJFWmYxWmtYREtjSFZVNWs0Tms0Q041dzRTRG0yamlsYUJhcm5sdG1wRHhfaWNJZ3phSjlueG56eGYtOUNOVVdHY2lNMjJ4czg1eU9Ca2dEd3Q5cXlQeGxsSDBCN0twYU5Jb21YckZuTVFoUzA3aTZ1SldBc0VjdHV4VXVsS2c1OWZiTk43N0NzNW5CenBOY2tJ?oc=5",
+        "publishedAt": "2026-10-22T18:31:21.000Z"
+      },
+      {
+        "title": "MEF: Economía mundial enfrenta riesgos, pero Perú tiene espacio fiscal para afrontarlos - Agencia Andina",
+        "summary": "MEF: Economía mundial enfrenta riesgos, pero Perú tiene espacio fiscal para afrontarlos &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGV6bnAzdmZHb0dodU5WbnhINlNnRkpOS19PRXRVaHRHSEtWTUNaM3lJRDBMcEJkU2liWFZPTHB5di1zSE1xYktGQnBtOUFuT2J3bklGSVpzZHA4SElRUl9oS1RMWHlZNGg0eHBVdFpuTDNsSEZ1YTdSbTc1S1k1cjk4QXhwZFNGb0c0aHpxeExwV09oU0l2NUZtVS1lTkJvUmFLT09LSTFNRlV1eXdJUFNJMm5fUVZ5eFVScHhWN0dKOUt2QUZPOUFEbUU?oc=5",
+        "publishedAt": "2026-10-22T17:29:00.000Z"
+      },
+      {
+        "title": "Bono monetario contra el alza de la inflación en Perú: ¿A quiénes se pagará y cuándo? - Infobae",
+        "summary": "Bono monetario contra el alza de la inflación en Perú: ¿A quiénes se pagará y cuándo? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN05taFo2d0dOUEg0THFlcVNOX3lGb05KaGRQVml1cFZOVXJwa2dEeU1uVXNrZEZoUkgyb2JOUktPQzA3RExuMVJuMlppZDZ0TFNsVzFsUzZqbkRYRi1ubW1mczhUYW85LVhudVhjTWZ6YmZ1dzBieWVwR0p0Qmd5Y3ViOFJIUkwwMk1XbUR1SWJqRzAzbUk1YlZDVnh0SVhwUllzcnBLNFROVUZhVWl4alYxcGFGbk5Td0xjWjY2clbSAdsBQVVfeXFMTktBaXBMa3c0NlpKWm5HNGdvS0hjVTVKRUl4VHZrVlNPbk9sQWpPSlRPUDF1c1dYSG5TWXg4TGFhQXFIVlJ4TFBrdHZxeDdrU1hOTGZZUS16RXBHOUUxU2hmaWNDUEh5aGJocnRaLVdVN1FsS2VGU3JJZlp5VENTRng3Z1B5M3VmTHNYcEF2QVFvMjJNcFRvWkhxaVlRYVNzbmlDMk0zYW5zSHhtQjduZTZZdFJUNEZobTZERjZfNWF5U2VTbGV0WF9xSndHek9NdjVMcWl6akN1b0pB?oc=5",
+        "publishedAt": "2026-10-22T17:10:41.000Z"
+      },
+      {
+        "title": "Vuelven los bonos: Gobierno entregará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú - Infobae",
+        "summary": "Vuelven los bonos: Gobierno entregará pago mensual a familias vulnerables y a jubilados ONP por el Fenómeno El Niño en Perú &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFdibGQwQUhGMjBfVXl4eG16VHlpMDA5MnVOWkxhV0U5bmk3VkxvVGh4cFhUMHh1N2xKYl84eWh4RGdVbFFET0V6SlVFRGdKdHJDd1ZxLXlkbk93Qk1ZQWxxbk5QWlRsM1BlN0tOYk02aE5FVnY4WHVsMmtLSHVQQUlmbjlkRmZ5U00yNDdKY0Njel9rS1l4NDlHWk91U3gyVnBVQlVCVjZ6Y256Z3R0R05xMkJSenB6dG1aUl9EVlFKX2E2OHfSAeABQVVfeXFMT3VGX1JaTFh0VFY5NnpnOVF2d2Zid19sTkN5aTBPeVBYeHY1Q2p4aUJDWmViTXBBcUFla1FlZnQ1eXQwdGUwWERuUFF1aENQYS1hMElqaFVMYk5tUERUSUVXT2UwN2UwV0M3ZGp3eExNcTVJNUtVZzBvRTQzSW5tMjh6UUFwZ3BVS2FPd3ppMGNybHFKaDZxZVJuLUJCVW4wMk9WTkdXdDhkV1Rjcnc5X0dteFJnMW51X3Q4amlRWDVjZW5NYkd1VDdXY3libGtWSXNJVTRPZVRnQUxZaWtuelU?oc=5",
+        "publishedAt": "2026-10-22T16:14:19.000Z"
+      },
+      {
+        "title": "Vuelve la suspensión perfecta: Gobierno anuncia bonos para trabajadores de empresas afectadas por El Niño - Infobae",
+        "summary": "Vuelve la suspensión perfecta: Gobierno anuncia bonos para trabajadores de empresas afectadas por El Niño &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTE5Kb3U1WEVoeHhhZzJTQkpGajFYNVdZMDlRS1BrQzVyWHlZV2hyMjdmYnZSTXRUQ2w5STBtMzVBdnFvVFYtVVU5TkcydUJpLVFfNjB0b0dBOU5Xdm5TLTRmWXljX3hBbkJocm1fc19kZG94V3EyNkpQdllLRjJsWUtvNURGZjdmNXdiRHc1TVZ5ODVIVXVsNUpxLVZQdlVFZnlDb011eDdwSWF5MllrZ3FlaF9vODVxa254dHhaVkVlSmlhT3FQTTVVWDVTcTRoWk90T0tsSXV5X0dvZGfSAfgBQVVfeXFMUFRPeGI4Zk14N0xYeXgya0tITFRXSTZtUHM5d0xZRzRYNjQ4YjRnbkVhVmI0QjZJblpmRC1RdGd4bU16bjFSQWtvMlVud3FOeDZiYnNVQk1BVUdOdWg1bGJwRmFBbGNpd3p4V0M3b2dUYzZoV0lFYXZwVWh5SFNSSnZObDFYUXlyMFVLYnpOQXNwVlJORkZ6ZU5GREtYQ0tmSFM5Tm9ublp3dGp5NGcwbVdDaVZGMmhiSk1DM2dYb25XWDUwOG5OeWFkREt5VW9saU1wYzV4Y3gyaE8yUzJBekR2bUNaMnJWWXplQkx6ZlNnTGFjUEdJZnI?oc=5",
+        "publishedAt": "2026-10-22T16:07:00.000Z"
+      },
+      {
+        "title": "Perú y Chile alcanzaron récord comercial de US$ 3.522 millones - Revista Economía",
+        "summary": "Perú y Chile alcanzaron récord comercial de US$ 3.522 millones &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUmxyejJ6Wlp4MmJZaWFlVW1kVE5sSTZELXpnRjlDb0xyX0dvYVhyUUV2MjQydVZPeUNrZkVyUm5iTkpIVE9INm01eTBDMGJra19MdENPUGtES294TWZ1XzlXcWd0ZVAxQkF6UA?oc=5",
+        "publishedAt": "2026-10-22T15:45:27.000Z"
+      },
       {
         "title": "Precio de dólar subió en Perú: Así se cotiza el tipo de cambio hoy 22 de octubre - Infobae",
         "summary": "Precio de dólar subió en Perú: Así se cotiza el tipo de cambio hoy 22 de octubre &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX01USnZLTHdTUlh1UGhxczl1bkpna1p3cWFUNkVKZ0dQbTM1LWZCWVVyNWtKR1dWLWprSkduOVlySmdmUjZxZXRUMWRzX3ZDOFo3RDVmTUN6dGRURVNmcmNnWXkzYkZCbjFvdmt6LVlvR3dZWDRTOVJKTDUxRlNiV3hEZ3R4S3ROdHFtdElRQjVUYm90RmxBQ21Genh3WlpPRXRNV015aUE4Y0VmVGtF0gHKAUFVX3lxTE4xNUtaWk1JeTd5NjM5bVhpRHZKSm1EZVcxczdSRHQ2dURnbl9Bd1BVc0Nfc3RrOXk5Y2FxT19PbmpjNDVXdGJzMHUtYjhGdzdsQnhfUmo3NEV3bE52SktmZVUxSnI1MUtsOW1sSWVoZmduRkc5Q0Q5bko5VGJGOTlpRGdQR2xWX29KY3lyUHhpOHB0OWlmX2dFZlpxYkp3U3J0NGdCX3lUMVliZHF5elE0UXhYZkdMVTRpcDZvNXFGb2VvRmRqYkdCeVE?oc=5",
         "publishedAt": "2026-10-22T13:44:00.000Z"
-      },
-      {
-        "title": "Turistas nacionales y extranjeros ya no visitan Machu Picchu y apuestan por tres atractivos - Infobae",
-        "summary": "Turistas nacionales y extranjeros ya no visitan Machu Picchu y apuestan por tres atractivos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1FDTEVJVDI5QmZhWDBMcGVQVmloZ05QNWRsazZTV0FOMUg5RThramN0MkpIX21ybVVUc1I4dGVPUEJoTTBTREQycnlFcTBHX2JLMkpSbHM1U3FtRWR4SkVaZnIyODBDbVYwNWxyRkFwM3NlaWo0UEtqa1E4TkpkUXZyVzJWbUNoVFNaUUxWc28wS2p6WXNLbjA3TWNCSllWQW9IS2U2MDB3dnpoQmUwSjJ2RjZvR2RTZ1J6UjhTMVdxckRsXzRWc29maGtRMHVOcF9fT3RMT2zSAfMBQVVfeXFMUEt4ZHZvZ25FZjhDVzYwWndMVTl4cmNXbDdGNUduVi1VVTViUmR2UjN2TGFiOVluc3V1eEM0OE9LbG9rOVJnbGlBb0NPUGtqdG0wcE1JOXp5VE1nZmJYRG5kZ0ZRRzNSSm16d3hUbEFtZi1xNzVkNjhORVh2TFBDVDBtWFFLcFhCRjYwSG1MYUJVN1kwVlBNMjlTTmJmYW41VTl0N2JjdVgwdEV6VktuaHJ4N3RZbVdBLTZrSEcwTC1Yb19UemYxRVYwNzFfVlFsdVpuVDVPQkxMX2JXN1VXaHJPVDBzcTFGdVl2WEc2Z0UxZWFB?oc=5",
-        "publishedAt": "2026-10-22T13:41:00.000Z"
-      },
-      {
-        "title": "Retiro de AFP de 4 UIT avanza en la Comisión de Economía y piden opinión a seis instituciones - Infobae",
-        "summary": "Retiro de AFP de 4 UIT avanza en la Comisión de Economía y piden opinión a seis instituciones &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3kwRjVMQXRjVWk0bjNZdlVVekktODJlbFM3eXpIVUtyckFMNnM5RnNrSjBLenM3YVg0X3htWHQ0LUxyYWNoNlR5NG9DRXhfaEstQ19RMFVaY2FSMGw3NGFaVnJtR3NQNkFMMGhaWW4tOWFqUElfUzY2bjhPYl9SSEF3SUhwSzhUWWMyWTlaREZtUlRnb3VNUHNrSmpIb0dOR05KQzRDZU52MzVIWDhkUjczbUlSR1phN3NsNHlBbzZ4Rnc3Z0Y1aWhzVdIB5gFBVV95cUxQRC1sZzAtVUFkQmNQal84ay04VmRLczdzc0gyNS1wNXItMjZpVWxHMlAxOTFVVUxrWDI3NEJvTV96UWRzaTJFNVUzenFLZDBZT2dCckhlLVk5NlNCOUNtSEZSVDVhYVZJb0d3VFFKS3ZsTndRT3JoODFCclN3MUZZaTNNczVXblo2NkhLbDlNdWI0OHFjdFNULVQ3ZUdFbnlGSjA2M0tUUXZDMzJNS2JVZjNnQzF2bnR1YmtJTGFHcWNEZUxTZDNJb0Jyd3FGU2N5cm1CZUczRUZqYk1xajVfUlJ6YnhBZw?oc=5",
-        "publishedAt": "2026-10-22T13:40:32.000Z"
-      },
-      {
-        "title": "AFP: fondos de pensiones registraron rentabilidades de hasta 31,72% en los últimos 12 meses - Infobae",
-        "summary": "AFP: fondos de pensiones registraron rentabilidades de hasta 31,72% en los últimos 12 meses &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnFvWWZ3NlFOWl9kMDVPTS1fcGpzMmRGNjQzY0pIbHIxVjFkaThSZ0tvWURKN1J1YUZiOEJKTHFmbE5vSmhZOVF1SnJpbWNfaGxtOGVfVkFJa2tfWHlUaWtIbkxRcGJxVFRqN3hMTjNocFBsckhnTVBDUGRLUU5zQ1ZRc1pQcFQzLV92Y0syT2FwU0F0TEkwWUpCelNTb3BJRVBoOU4zTGJ1Mm9fSFNDN1ZoN2d5SjlQdHNWYl9RMDU4UjducE1iVNIB4wFBVV95cUxQRGF1Z2NrTWJST3RPVkQ1YVg1OFlDNU9vM01sbDc5ZFNoUkRPWW5DN0ZiT09RNVdxemNxQVk0RDJfZzdDcjJIV2tfLW5oRWNDVXoycDJsbnNHcG9naFQ5MlZ6cUpxRGlpczhCaU1MSVdVclhiWWNpXzRrS3NqWFgtQXNVM1doSXRaY0RURnlsbDEtNHhSNGhvZlhiUmxqVXpES2piWFcyV3c1ZDhnNlNSdlUzQ040c1B2a1cydzBqWlpnVXVkVm5nU0VSTThlNFo1c1VtU3lEeklDTmhpbld5VjFEWQ?oc=5",
-        "publishedAt": "2026-10-22T03:05:00.000Z"
-      },
-      {
-        "title": "Venezolanos en Perú enviaron USD 5,4 millones a su país en el primer semestre de 2026 - Infobae",
-        "summary": "Venezolanos en Perú enviaron USD 5,4 millones a su país en el primer semestre de 2026 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWDRILUV3a2tMYXJGRnJzVk1wSmYzeGRWV2ZRbkRBbzJpV2ZSd2s2aUNCeGV3aE5CTHJ4QUtCMGpvMjFDSHJqSGJlYVFKNk9OQ211RVZ2R3hGZDZVZVd2RzRvNXVxeFlLcU5iYkxudkpKT1BkQzQ0dENNbHVxeGRPRVh6Z2IxSWQ1YTE3UW43T3dUaG1yN0JYWkEwZFgzWjBrRk5yOHhmV25RRUpHN0FuR0lpQXo4ZXJQemlISU14R183UzDSAd4BQVVfeXFMTzhJdXo0bVI5d2FLeVA0RFI2NURDSXg2RnpkbTB6bTZKcjdRS1JmWEk0QjF2RWV6QVlwQ1VtUGVwX2ZIbVpxMml1ODN0ZDB0dnlKSEZ5VmxiMlVhRG5HUkkzcnBDVjVuNV9yb05sQ243MVNlUEFCVnBMYkZLZ1RHWDZocGpNVlJ2eENwSFJsNmpDWmZaUzRScUNMZHEwZnNzNVoydEtIUFZlRmJ5OFRvRk9LSHFEeUhlOWRWSl84MHR6TmNldlBBOVRwUU9jelBxQTZmZm9sQU9WQzNrM1dR?oc=5",
-        "publishedAt": "2026-10-22T01:53:23.000Z"
-      },
-      {
-        "title": "Economía peruana crecería 3,4% en 2026 pese a fenómeno El Niño, estima el MEF - Expreso",
-        "summary": "Economía peruana crecería 3,4% en 2026 pese a fenómeno El Niño, estima el MEF &nbsp;&nbsp; Expreso",
-        "source": "Expreso",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ3kxMWxnYTRGV0YxcFBaRUhmdldwLWtGSjJTWVVJaVlITjExaXBaS3JOX2puTWdqeE5rNHV4X3duSUk3Q2s5Zm90RmhuWHVOLWU0Z3FRd3RncS1qRHNYR3hTbEpKbjdYVjdyUlBKUklfX1dUQ0hWaDZZZHdHZnFGZzFKVTZ6dkJkZlpveFVpTDVfRnlsaG1DQ2JCYm9fZDQyV1FuUVJLcHZielNrY19ZVlFUMTlFRktmc0xVYkpEWm1fbERvY1dZMk1IN3VyTDZZbFJ0LWRqeURDM1p6UW1pdTJpWm1uMkZpRnQtMnE4eXE3QWdKZUI3RWtn?oc=5",
-        "publishedAt": "2026-10-22T01:45:47.000Z"
-      },
-      {
-        "title": "¿Economía de Perú crecería más de 4% post El Niño? Credicorp Capital ve este “driver” clave - Gestión",
-        "summary": "¿Economía de Perú crecería más de 4% post El Niño? Credicorp Capital ve este “driver” clave &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVFLRFFUQVR0Wmgzb3FJaTQydmg3S2JselNqLTRIRkM3Yzg0bzZlY3NlWFlqZk1BSnN1UVd0RC0tX3JHc094dmh5LTFMdFotNEliNFdsb0YyYlNTZ3o2MjY4Z0xFcHd5ZjQ4a1BzckQxeWljSThBaHNuVHVpdlZiRk5neWU4YnhkbFBlNHZvT01kdzk1RnJqcmg4WlZTQjhUUVMzSlBFeXVRVG9jMkdaUWRWdHJuWXNTZWc?oc=5",
-        "publishedAt": "2026-10-22T00:26:00.000Z"
-      },
-      {
-        "title": "La ‘economía de la piel’: el auge de los bioestimuladores abre paso a más hombres en la medicina estética de Perú - Infobae",
-        "summary": "La ‘economía de la piel’: el auge de los bioestimuladores abre paso a más hombres en la medicina estética de Perú &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWFkwSXhpdHMxZlJaLUJ4Qms4MXJSODdqM3pfWTZILU9QTTdjY3B4Nk5rVDdtbjFCamZoRk03b3NVbzVESVJod2h5aUNkU3NKcnM0UEFjQjJmbVNVMmlJSzBnNnZfSnZwNlRJdUJkbHN4eDZ3SzE0bTRPWkZGTVlMa0tmaVFoZEc1M0JHanp3MkQwZWxCLXNKZVFMVHR1R01aMU1lVlNqaG8yN29tZnJfb2JCVUFRTHZSc1RjMUpZN002Uk9Pa3dKVkstb2wyb2dLeW1UbEJwUWpoS3Z3VElzR3hUTzNNZ9IBgAJBVV95cUxQQzFPU0s5bEYtUkR4c2JqVFVrekROOHJ1aTFsN2JZeXYxX3FHWFNZZHdzSU5rdDRNZ3Z4SEZNM2NYd0E5cldobGFpV2c2ZnF4Q1gzTjBoV1RtM2xrQ0ttTllKUk5LMTNocFNFbnM5TEVQYWI5REhxd2hoRmlqTC0wRmNrVlNrT2tocVpxYWg0UmV5eWJZZG9MWWJHWTBvYVRNVk9kYzhjUGpqMEdRZXJfWkZnSm01Wl9BNVluenlHa2tyaFVkbGFmVjVqYVl0RE4yU2ZyUC04Mlo5UndCMUd5LUcwSUctTTFiWVBEX0h5WEoxRjNoSHo3OTJ6alhDSjBs?oc=5",
-        "publishedAt": "2026-10-21T21:51:57.000Z"
       }
     ],
     "sociedad": [
@@ -180,11 +180,11 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
-        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -363,6 +363,27 @@
     ],
     "tendencias": [
       {
+        "title": "¡EL TREND QUE DA LA HORA!: ¿Cómo hago el video de la historia de amor zombie con IA? - Perú 21",
+        "summary": "¡EL TREND QUE DA LA HORA!: ¿Cómo hago el video de la historia de amor zombie con IA? &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWw3N01nTkUxV0tKenJJekIwcFZrMVBDR3g0dENOQTZibTB0bjQ0dzczUEQxZ0ZwaTNGUVoxZGhEbmN3UUhLWjgydUEyRlpQdUpuLWpWVFlwRS1oM3NMdkxTVWJhWDNLTE5jNXBHOW9fN0ZiT2d3MjRvNzRuWmxoRklQR1RDVE80YUQ2X1N3RGhnQk1YUWc?oc=5",
+        "publishedAt": "2026-10-14T07:00:00.000Z"
+      },
+      {
+        "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
+        "summary": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
+        "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
+        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
+        "publishedAt": "2026-09-24T07:00:00.000Z"
+      },
+      {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
         "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -384,39 +405,18 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "¿Farmeamos aura? Se trata de la última tendencia viral en redes que se ha tomado plazas o parques de ciudades como Buenos Aires, Ciudad de México y Santiago de Chile. Cientos de jó",
-        "summary": "¿Farmeamos aura? Se trata de la última tendencia viral en redes que se ha tomado plazas o parques de ciudades como Buenos Aires, Ciudad de México y Santiago de Chile. Cientos de jóvenes en América Latina están convocando a través de sus redes en &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRkcwaXFpWmltZGtWWjVaUVBoTXFrWFVQdFhLNjlyUm8yOTBHa0VkbE5UYjVwanlMVE52UEZyanZqU04ybHNrNWw1UmhTMUI3eTMybnFQRmpqUzNvWTNQRjRDVVZXeGNVMExTQ3VZSUc3aDdhdS16ZUZmNkNMRmRadzJCdllRVkt6Tm1wMVF0djVQc1lJQzkyTFFib1EzQUJFZDBSbHNFeHZVdEMyaWRNRkpkRFRsbEJlcXFsNFp5V3RkTHRmSlZjZTdrTDloVlBtVnhqS0xmNWpPcHhGbkVJWQ?oc=5",
-        "publishedAt": "2026-09-05T07:00:00.000Z"
-      },
-      {
-        "title": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales - Infobae",
-        "summary": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales &nbsp;&nbsp; Infobae",
+        "title": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales - Infobae",
+        "summary": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWdsN1N5WXRXN0NBb1ZwSVVBQnN5dlVnTlQ2X3lKRm5lQ0x1bWowcVFKelVZWWpaMzA1eHFzXzFZZ2hWb0VyM1Y1aGVkbFRhZkltcTBJZFgyR2o2alRERFFLNkZpb0taeFZEaVEzMnQ0S29oWnNsam1sRzZsYzZrQXlUYmFCQWZQMDlpRkZsNUpiWVFGVjYwOUJkWC13QVc0a2Y4RzNjUkxxbXQwS2hYUE9JSXZHQml0OFZ6bDhmbUo3Z9IB3AFBVV95cUxOQXp2Z0VaZ2w0TEZCbk9kdDRZWkVwZTh5cHNaTy1sMUlDcTNvamo1MWR1THMzR1RlUDZVdXhYeHdQVGdyNUVrUGZlbFk5Y1dZaXdoX2FlUjJjcll4YncxSXNfRDJOLUpmX3ZVY1pITXhGRmxQZVlCcG1sT0FsemdxZjJDM0JWckV5SEp4aktWam9ubVU5N05Ma2tNVjNxWU1WdGs1Zk1jWXFXM0RqdkNQdWhHNjBudWppdHBxMThaMFFxa09sWkpvakhZWlMzWjYxbFpmZzhYeGV4aE8t?oc=5",
-        "publishedAt": "2026-08-24T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGdDYk8yYWZZa1pGdmhMYWxkU2RkNDBFamVzRWg5dnZjal9kMUtiVGpENS1hUS1QdGhoMjAwSUZkYkpKMjlXSzhzaDhDcUVTU1RPVjdreHRJc0pGUWhnbERmNVhkOW9aNi1WSk1xQkhSdWdOWkhnUTNkSmo3VWNlU1pEUVg3NFI4VmFpTjlKang2enlMMFMwbFBXVkZjc2toUF8tZVBhal9Xa01YaUg1X0xxOUhjSDlBNjkwd3FGVDJmT3l20gHfAUFVX3lxTFA3WktjdXNIbUg3a2w0X200YW1sV04tYVJ0UVl1Mk40RWlCd25GTUt2YUl0dld4MTFMLWVsak5uejdOX0gwQ01iNWFfSGFxSDczb3UtNlVKaHJVRTlBLW52UVQtQmV6SXlUMUd5OHhCbThfSXZmUG0wMVVzZGQ0T0NySnN5OXdZS0FLMFlVUjRvQV8xTGFRWTN6Y2dYRzFZY00tb3U4N0FQUVRCalljSkIzRTVUYXhHV2o3VGZlQmRJSEY5dkgwd05ENXphLW83ZU9rRXNnbVRZcm1hcHhOOTg?oc=5",
+        "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
-        "title": "'Farmear aura' se vuelve viral en Perú: ¿En qué consiste el nuevo reto que enfrenta a jóvenes en las calles? - Perú 21",
-        "summary": "'Farmear aura' se vuelve viral en Perú: ¿En qué consiste el nuevo reto que enfrenta a jóvenes en las calles? &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGJrT0V2UWN3cjU5aGlZemZGV2NpaTljN1FJclY0aDFKWm5sQ2N4X1ZSd3NRazNXYldwOU9vdENTbVUzdGdiZXgyMlVCZ19kMU9BQjRERUVaSEU0djhsTS1rOUZIV3I5VzJ3NGtOVjBYdHVIb2FzN05Ed05PcTFuQW9OYnNCbGE3?oc=5",
-        "publishedAt": "2026-08-20T07:00:00.000Z"
-      },
-      {
-        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
-        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?",
-        "summary": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?? http://exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHB3Q3VNa2NsSkFlN0U0UzEtWFRURUNsNVFzWWJNcXBCTUNqeVhBdElLOEdfSTRZSURTUFIyNG9kMDBvUWFoeW9ham5tNDQzMmg4Z0RhN2tSeFJVUy0xYXBsZkpFcXB4RHFCNHgtSDUzWFdwTEI3VWRycWVkVWtCTmdWY2xrZlJjaDlXSkJPM19YSUxYS0tyMXhPR3VHTlNMUXI5RFRXd1NwbHppeWFNZ0RxOU56b3lhWFVKZ0hiU0NIWGlnaEE0RGVVa3NYbUd0NVFBM2FpMzh4Y1hZWDhz?oc=5",
-        "publishedAt": "2026-08-14T07:00:00.000Z"
+        "title": "¿Qué significa “farmear aura”? La tendencia de la Generación Z que llegó a Perú - Diario Ahora",
+        "summary": "¿Qué significa “farmear aura”? La tendencia de la Generación Z que llegó a Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
+        "publishedAt": "2026-08-22T07:00:00.000Z"
       }
     ],
     "farandula": [
