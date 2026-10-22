@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T08:04:08.449Z",
+  "generatedAt": "2026-10-22T14:12:03.756Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -36,6 +36,13 @@
         "publishedAt": "2026-09-29T07:00:00.000Z"
       },
       {
+        "title": "Presidenta Fujimori respalda a ministro del Interior ante eventual censura en el Congreso - TVPerú",
+        "summary": "Presidenta Fujimori respalda a ministro del Interior ante eventual censura en el Congreso &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBqTVNtWWc0RlBQaXF0NWdDWlNPY1V1QnJoNkc0R0JJS2VkS3NrTFgxdmZ0dEhmLWhPYkJXalpJX3dJOG43eVB2ZDBkZm03clplYUVnY3RROWJjWThyVEdDcHd5NnZQWl95alcyWU00VjZqSFNaRnJLMXJJcVczenMycTcxd1V3T0NidzROLW9iczhid25RNVJlS0UwOEQyV2owaFVEbVRVRUtRaVloRlQ1Z2RaY0UwVkNuYXl2VDZ1aEFJY3Nyd2VyS094UQ?oc=5",
+        "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
         "title": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro - Infobae",
         "summary": "Gobierno de Keiko Fujimori recurrirá a decretos de urgencia si el Congreso no le otorga facultades, afirma ministro &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -62,16 +69,30 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHlnUW12Z25xWXFVV3N1dVN4UzNLY1ZlYzFqcXk2NDZWSENpcGhjRGtTOTBnRE9fWmlPbzNzOXU1RldUVXRkR1JhUFZwd1NRODBWb1FsYTNLV3JvcDU3NUtLUVVPdEhhejNlWU5CZ1dXSk9TTThhbUtnSGVlQi1XMHJrSm1QLUpTNG1oaGNRN0lWeXkwWVlxM2l4MGFuTkZUNTZfQmdISXNOMW9MdnRxVlV0QzhCWXZzQVE4cVJrTzZtWnA2TEU5MFExdUhYanZoWVhMblVHNi1yQ3RFQXFWLTZyNlDSAf8BQVVfeXFMTzYycU1uN3FkcS05SkdXb21BUHljZFc2ZVczUXZsdDFSNEVOTmQzcXNmOEFCdVQxdUlTaHByelZrSTNYcGwtZ3hZa0VmbkJqSWVxQUNCRHRiWS1PRnhmUDc3NzNiUkRHVWtJSGZ5cnAxTGdJWkRRWHFvVzdoX1YycGROWFVBeDZaU2lQM25PcU91bGU1NTVwLWhOTU83MlUyZGR2bnJ1Z1Q1cnNubHg4bE8zSGhNaVI0Y2NFTXJ4TXc5UmNOcUM1eGpPTlFRYzZSbHVIZzNyaGNQMXR3TGNRVG1mbC1Jb3huRFZFWWhhTkxIN1RWOFVpUk91SzZRbk5z?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad - Infobae",
-        "summary": "Atentado en Trujillo acelera la presión de Keiko Fujimori sobre el Congreso para aprobar sus facultades en seguridad &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHp2T1ZoLS01bUlPNy1CZ0pvYlV1MTRzYkFwWHF3a1lWcWw0UVVmeG1Rd080N0FLSTgzejEwMDhVNUN4MXN4R3FBbUNBTXZuVkRUYTUwSDgwS1FiR0t2V3EzVjlKUWZpcVBrWnozOUpIMVVYeW5VSlZDRjZISmQ3Q0pyYndzTDhQZVRLR1N5bnhobVZrbkdJNXZraWlab1llak04N0g0NnFZTUpNNHNoZ19rcDE4cXlvUmxYeVBpRVQzSXNWLUFqdDM0TlV6V0RJVTZQSmMxSmVYbFVXd2NjN2h4bTdoTFFCVlN6QjRB0gGIAkFVX3lxTFBKclJfUEdTdXdGMkQ0enlHTmExUnl0emRmZGRUM3dIQ3BSandEVk5TaEhwU1NaVlR4SldydExWNVNpWGxub2tJTnRxVnZGRC02MGRabVkwSkM3MG5fWklUWkl6UlR1UDN2WDdUcllaZktNMm5BM20zNFpncmNyeXNZbElnLU9OUmFxWU5uMnhLN2xwMEltVXExeFRuQ2diYVNBT1dySXJQc2ljTDN3NHFHNFlpN2NMMHd3cUJkOXI5RE5GVWdvT1czY2VselNwX2xhaXJ3M0ZvQlBkQXZBUDBMTlM0SlhKblhJdW54NUxuYkVHdC1jUEN5bXRsQWhnOVlIRGJicEo5WA?oc=5",
-        "publishedAt": "2026-08-31T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Precio de dólar subió en Perú: Así se cotiza el tipo de cambio hoy 22 de octubre - Infobae",
+        "summary": "Precio de dólar subió en Perú: Así se cotiza el tipo de cambio hoy 22 de octubre &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX01USnZLTHdTUlh1UGhxczl1bkpna1p3cWFUNkVKZ0dQbTM1LWZCWVVyNWtKR1dWLWprSkduOVlySmdmUjZxZXRUMWRzX3ZDOFo3RDVmTUN6dGRURVNmcmNnWXkzYkZCbjFvdmt6LVlvR3dZWDRTOVJKTDUxRlNiV3hEZ3R4S3ROdHFtdElRQjVUYm90RmxBQ21Genh3WlpPRXRNV015aUE4Y0VmVGtF0gHKAUFVX3lxTE4xNUtaWk1JeTd5NjM5bVhpRHZKSm1EZVcxczdSRHQ2dURnbl9Bd1BVc0Nfc3RrOXk5Y2FxT19PbmpjNDVXdGJzMHUtYjhGdzdsQnhfUmo3NEV3bE52SktmZVUxSnI1MUtsOW1sSWVoZmduRkc5Q0Q5bko5VGJGOTlpRGdQR2xWX29KY3lyUHhpOHB0OWlmX2dFZlpxYkp3U3J0NGdCX3lUMVliZHF5elE0UXhYZkdMVTRpcDZvNXFGb2VvRmRqYkdCeVE?oc=5",
+        "publishedAt": "2026-10-22T13:44:00.000Z"
+      },
+      {
+        "title": "Turistas nacionales y extranjeros ya no visitan Machu Picchu y apuestan por tres atractivos - Infobae",
+        "summary": "Turistas nacionales y extranjeros ya no visitan Machu Picchu y apuestan por tres atractivos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1FDTEVJVDI5QmZhWDBMcGVQVmloZ05QNWRsazZTV0FOMUg5RThramN0MkpIX21ybVVUc1I4dGVPUEJoTTBTREQycnlFcTBHX2JLMkpSbHM1U3FtRWR4SkVaZnIyODBDbVYwNWxyRkFwM3NlaWo0UEtqa1E4TkpkUXZyVzJWbUNoVFNaUUxWc28wS2p6WXNLbjA3TWNCSllWQW9IS2U2MDB3dnpoQmUwSjJ2RjZvR2RTZ1J6UjhTMVdxckRsXzRWc29maGtRMHVOcF9fT3RMT2zSAfMBQVVfeXFMUEt4ZHZvZ25FZjhDVzYwWndMVTl4cmNXbDdGNUduVi1VVTViUmR2UjN2TGFiOVluc3V1eEM0OE9LbG9rOVJnbGlBb0NPUGtqdG0wcE1JOXp5VE1nZmJYRG5kZ0ZRRzNSSm16d3hUbEFtZi1xNzVkNjhORVh2TFBDVDBtWFFLcFhCRjYwSG1MYUJVN1kwVlBNMjlTTmJmYW41VTl0N2JjdVgwdEV6VktuaHJ4N3RZbVdBLTZrSEcwTC1Yb19UemYxRVYwNzFfVlFsdVpuVDVPQkxMX2JXN1VXaHJPVDBzcTFGdVl2WEc2Z0UxZWFB?oc=5",
+        "publishedAt": "2026-10-22T13:41:00.000Z"
+      },
+      {
+        "title": "Retiro de AFP de 4 UIT avanza en la Comisión de Economía y piden opinión a seis instituciones - Infobae",
+        "summary": "Retiro de AFP de 4 UIT avanza en la Comisión de Economía y piden opinión a seis instituciones &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3kwRjVMQXRjVWk0bjNZdlVVekktODJlbFM3eXpIVUtyckFMNnM5RnNrSjBLenM3YVg0X3htWHQ0LUxyYWNoNlR5NG9DRXhfaEstQ19RMFVaY2FSMGw3NGFaVnJtR3NQNkFMMGhaWW4tOWFqUElfUzY2bjhPYl9SSEF3SUhwSzhUWWMyWTlaREZtUlRnb3VNUHNrSmpIb0dOR05KQzRDZU52MzVIWDhkUjczbUlSR1phN3NsNHlBbzZ4Rnc3Z0Y1aWhzVdIB5gFBVV95cUxQRC1sZzAtVUFkQmNQal84ay04VmRLczdzc0gyNS1wNXItMjZpVWxHMlAxOTFVVUxrWDI3NEJvTV96UWRzaTJFNVUzenFLZDBZT2dCckhlLVk5NlNCOUNtSEZSVDVhYVZJb0d3VFFKS3ZsTndRT3JoODFCclN3MUZZaTNNczVXblo2NkhLbDlNdWI0OHFjdFNULVQ3ZUdFbnlGSjA2M0tUUXZDMzJNS2JVZjNnQzF2bnR1YmtJTGFHcWNEZUxTZDNJb0Jyd3FGU2N5cm1CZUczRUZqYk1xajVfUlJ6YnhBZw?oc=5",
+        "publishedAt": "2026-10-22T13:40:32.000Z"
+      },
       {
         "title": "AFP: fondos de pensiones registraron rentabilidades de hasta 31,72% en los últimos 12 meses - Infobae",
         "summary": "AFP: fondos de pensiones registraron rentabilidades de hasta 31,72% en los últimos 12 meses &nbsp;&nbsp; Infobae",
@@ -94,20 +115,6 @@
         "publishedAt": "2026-10-22T01:45:47.000Z"
       },
       {
-        "title": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos? - Gestión",
-        "summary": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFdSX0I1SWxoRENlQW52LVh4eUhnNjNFcEh5XzVUdEFqaVRhR3owZEo5ZGwzc3lHR0FRZ1NMX3BNZkdIR2RpSjhiem1xTjJmcjBNcFlSUlF3d2tma2Q2TU9CUklMUU1LOFAwQlI5eUc0LUVUS0EwdjVfZFRsZlIwN0FjRExEZVRxY3oyV2s4NEFrM1BGbEtVX2ZycDNIU0djX0tPekpESU9rSHA1OUVSODl1MU1Qb25oOXFqcXgxeG4?oc=5",
-        "publishedAt": "2026-10-22T01:00:00.000Z"
-      },
-      {
-        "title": "El Dorado Investments: fuerte impulso de la inversión privada dinamiza economía peruana - Agencia Andina",
-        "summary": "El Dorado Investments: fuerte impulso de la inversión privada dinamiza economía peruana &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGxqQURyV2x4YUdWM1pXWFlvQ05XbmVKZ3dRWmdGazNMQ3BmVzFuQVZkYVlHak5oczFURHh2ZGJkZFFLbDlUSFVpRWt0YnBNWXBiOWkyZkkwdW51elBPRVdqSjhyZC1fWHpQU0NRRTRDdDZmQkhpRUlaVEdiLWdWaGsydVFJNTFwVVdlTEo2T3VPVGdDMlIwc0dEODh0aUR0RmpTTXZBT19PMWhMbUcxbkNLbGU5a0liUlI4bXhKQ0hSQjJ2Wm50TWt3?oc=5",
-        "publishedAt": "2026-10-22T00:35:56.000Z"
-      },
-      {
         "title": "¿Economía de Perú crecería más de 4% post El Niño? Credicorp Capital ve este “driver” clave - Gestión",
         "summary": "¿Economía de Perú crecería más de 4% post El Niño? Credicorp Capital ve este “driver” clave &nbsp;&nbsp; Gestión",
         "source": "Gestión",
@@ -120,13 +127,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWFkwSXhpdHMxZlJaLUJ4Qms4MXJSODdqM3pfWTZILU9QTTdjY3B4Nk5rVDdtbjFCamZoRk03b3NVbzVESVJod2h5aUNkU3NKcnM0UEFjQjJmbVNVMmlJSzBnNnZfSnZwNlRJdUJkbHN4eDZ3SzE0bTRPWkZGTVlMa0tmaVFoZEc1M0JHanp3MkQwZWxCLXNKZVFMVHR1R01aMU1lVlNqaG8yN29tZnJfb2JCVUFRTHZSc1RjMUpZN002Uk9Pa3dKVkstb2wyb2dLeW1UbEJwUWpoS3Z3VElzR3hUTzNNZ9IBgAJBVV95cUxQQzFPU0s5bEYtUkR4c2JqVFVrekROOHJ1aTFsN2JZeXYxX3FHWFNZZHdzSU5rdDRNZ3Z4SEZNM2NYd0E5cldobGFpV2c2ZnF4Q1gzTjBoV1RtM2xrQ0ttTllKUk5LMTNocFNFbnM5TEVQYWI5REhxd2hoRmlqTC0wRmNrVlNrT2tocVpxYWg0UmV5eWJZZG9MWWJHWTBvYVRNVk9kYzhjUGpqMEdRZXJfWkZnSm01Wl9BNVluenlHa2tyaFVkbGFmVjVqYVl0RE4yU2ZyUC04Mlo5UndCMUd5LUcwSUctTTFiWVBEX0h5WEoxRjNoSHo3OTJ6alhDSjBs?oc=5",
         "publishedAt": "2026-10-21T21:51:57.000Z"
-      },
-      {
-        "title": "El 12,8% de los adultos en Perú inicia o gestiona un nuevo negocio, revela reporte - Infobae",
-        "summary": "El 12,8% de los adultos en Perú inicia o gestiona un nuevo negocio, revela reporte &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOW4wVlVUTFpVc1o4SDhxaXJJY1BkUmlvTWlvU1BGaFVCWXJHNXp0U08xTnJ4aUtLb09qRTRWd3dxeG5rN2xHVEc4em5jVUtmd0ZaNUdzUFBQUkFQbEd5VkpzbzhENmloaWpVbDlDdnlIb21IQ2ZNSFFPalFIbzJ0MVN6bnR3QW0yS19kZnZuQndicmVBVmhwSmFrV1MxSktkWVp3V1JzU1FIekYzbExFMlFhS3cxcnJScVlFLdIB1wFBVV95cUxNX3FoSzNvV0lSZUVvenpNVEhQaElYaXJkUzlrOG9yOFctSkd3QUpnSFduSlMwWjlSQW02Rm95VWY4d2N0OThlOEYzR3VHRHZ4dXUtREVaa0VoT04xOTJ2UUxBWkRzRHlvbi1QSHlvZVA1T055YkZjcFpodE9kanJPTU43N2VJcnEyZTcydzQ5cHdqOVZEZk1rSkstZG02Q0p0Zncyd0djZ2RnTTUwMEZwLVZRVUFEckZZajZLNFlfazFtb296VU5KTzFFa1dtazltbWhxU2lmSQ?oc=5",
-        "publishedAt": "2026-10-21T21:35:18.000Z"
       }
     ],
     "sociedad": [
@@ -166,24 +166,24 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
-        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
-        "source": "PuntoEdu PUCP",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
-        "publishedAt": "2026-09-11T07:00:00.000Z"
+        "title": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad - Norte Sostenible",
+        "summary": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad &nbsp;&nbsp; Norte Sostenible",
+        "source": "Norte Sostenible",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kMkgyOFQ3UzgzQUo2RmJmVnl3TGpOTE45eFFOWVYySkF1NFJKcXptcWtEdXRMdlBPUkNpMFdzT29TUDlpTTdfWFk2Q2lweEowLWFPVE9oS0xuLXZmRjRVT3IyM2RaQ19qOWh6VTRTX3dTNURIOHQwY1Bpb1dmUQ?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
+      },
+      {
+        "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
+        "summary": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmZxNUhCSW45Q09yX085TzBMa2EtN1dscTNidUVmdXI0LVFrQmRXQmM1UGZLQUxTMXpjTVlmQ1IxWDZHd2RGR19YRFA0dkhnQlBKcmFXZHBsTlJsZEpFNUkxbTVMbVBhUDFTdDZBTk9sTUh6X29YWm05M0ljVmFFMWF1aWVDUFJndm5Rbkc2ajhOZ2Q0QjQtVC12RWpzTlpvcEdIYWY5SUswWmlfM0trWXQwNElFbElVVjdkQ0xVa19PbE82c3I5QmhYT0lidk1mMFhGRF9OMDZ2NWsxdHd1Z0pB0gH8AUFVX3lxTE5KNjZlalQ0dnhZMGF5RDZNTlgxWnNBRHF5TTJSbmpVUkVNbGl4YjNtSEVIYjZfNklpNklJOHBkRjdZSWRMVHdheWppLUxINGN1eGJFX0hTaXBxdzlxRFlzR0NrUkdJMTNhMl9MT2RnRkpkLU9QeXd3S2VzSTQ0VXFNcnB2eWxSYVBqZUsxOHUzRjJ6OEV5Q2lCc2pNd2lRdmtETTlKYkVSLVBwc2t1X3JaeTlZMVJqYkhCOERsTmJLMGF6UDF0X0VaUDYzOXVGLUpwX2t1VWV1TVZ5ckc5ajB5Qm9LUHliSGx6bnlHbEptclppRUx6N3BxQU9wbg?oc=5",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
         "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento - La República",
-        "summary": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMDFoTzVTMmhIcmplX0V4TUl0S0Q0R1I4dVFTVVFhNm9lR2Y3X1NoZ1NGazVhTXZRVS05bUZoSm9QV2M0RWdRcUI2MU1GTXBKTGtDSklXNzBzZzlFQXROWmNhV01UTFpfSXhoYWEtNnExd2VETEs2RE0yQ0k4ZzFva0lnRG5VYzFueFAycXdDREh1VjlHOFVlZUp5eXdWaWZyZ0RYVkljQjlZVUc4NlJEaWZubXBXdFF2SG5fbFc4emNhX2tRN1JjcFJZTjBSUi1UcnMwOXpCQmFVb05XdnBCVWNzWTNaci1US3VCWTZueWFlUnBxTEHSAfsBQVVfeXFMTnZFX2pnS1FfUXRpVDY0ZlJXRXJxRDhHcHZHWnIxZ3VKWkw1VndIOHFKLXRhcnpwTWFiZXlvVHlFR2dzcC1sLWs1bG9zR1ozTkhWVnZOUVlsMTFuRGpRQ0lQUkhUZGFCLU9HbHJXS3c3MmtKbmYwT2lQWXdpLU5ITlh2WHl0T1BqdUUwdUdYLXc3WGEtaXlrdFJOVlBDMXdBQVNsd2hwNFdWa0ZZV1pENXcyN0xuYWQyU2x1VUl5QlFENXh3UXFCWHdJMGVORTFfTkJsWXF0bXcwZWE0emtuRkNUcWNkN3haOGNQZDRnYUtZeXhxQ1hQaUpENEk?oc=5",
         "publishedAt": "2026-09-04T07:00:00.000Z"
       }
     ],
@@ -247,11 +247,39 @@
     ],
     "ideas": [
       {
-        "title": "UTEC y Fundación Educación otorgarán 10 becas integrales en STEM para mujeres - Revista ProActivo",
-        "summary": "UTEC y Fundación Educación otorgarán 10 becas integrales en STEM para mujeres &nbsp;&nbsp; Revista ProActivo",
+        "title": "Escolares crean prototipos con ABB y Junior Achievement Perú - Revista ProActivo",
+        "summary": "Escolares crean prototipos con ABB y Junior Achievement Perú &nbsp;&nbsp; Revista ProActivo",
         "source": "Revista ProActivo",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWJXdzMwMWNXckhCUHVteWsxMzNqbHFHV3JsUUd5LVZheV9CVFVUbThEV3FPN2RzVnRVNVZmT0hEc05GNExjU0tsZS16WjZEYzdIaEZELXpYWjl4bjlfbTJnX2twcXRNMGl2OFRQVFk4Wm9rVjkyZmh1ZW1qNjBFUG16M1pZMGwzUE1FaGJBRGdFV25qT0x1VjVDeGt3VlRBczVUa1VR?oc=5",
-        "publishedAt": "2026-10-19T17:08:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFpsckRsTVE5YXZPTVZJVnR3djRPeUhnSDdRVU9ubHhzNDJPbEpiU2FNbkpNMlp6VVZKMXQyYjY5akxxRnRRNlJMVE5SVENyQ1QxWFdndzJJNGREVHR3LWlwWTZyTkFwRDFwZFpXT0NsOEtGUW85SW5nNzhvZmZ2YzNjRkd4eTZMYnVRT3pXZw?oc=5",
+        "publishedAt": "2026-10-16T18:41:43.000Z"
+      },
+      {
+        "title": "Competencias para liderar la innovación: 9 aprendizajes clave - Gestión",
+        "summary": "Competencias para liderar la innovación: 9 aprendizajes clave &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVElickVobE9LM1B4N242VXhZb3JYX01XVXJFMklfQmNhWFhpdTA2cHZLenJ5SEZiR2hKcVVkWGdZQUIyV3U3MjNCX3pkN0JoX21UUW5Nc0JWSVFkeGZ5Um53bUxlblJLSWRkOXdFYTNFZWQzcVVodno0UUd1X1ljM0ZDck96X0hIeGljN1lHQlpJaVVWdnVBenJ4cERMT2U0Y1ZQcHluaVRkSE0zVWFtcE4xWlZCYVFBOFZXNHhYVmkxc3FMWkdOMVBXZHlmQWNhOHN1TFF0MmZDQjlWZENXWFdhTW9iUXRNS29sMXJSOXVyZw?oc=5",
+        "publishedAt": "2026-10-05T07:00:00.000Z"
+      },
+      {
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
+        "source": "Chimbote en Línea",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
+        "publishedAt": "2026-08-25T07:00:00.000Z"
+      },
+      {
+        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
+        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
+        "source": "Revista COSAS Perú",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VkdVhtZ2g2YXZjR1hyZHZFMmMySExGRENzOFFLNU5MeF9uT0h3MHdSb0VyRGg3ZVNpeVQ2MnhUczRoMHptZlVmVDd3ODk3QVpvb192d2RQOF9nYjZscEF2TkRDNUMyXzE1SnFSTV96NVAtekI5MS1HQWJGYjV5ZmtFTGpEV3d2eU45OWk4ZXY0ZXJQd28tY3NQSnAyMVpURVk5WGNtZEstRE0zc2V0Y1BsdTM4aG9vOG1lTWFxUTFPem4tUWVWcERTejdMcktVX1EzM3hiLTZSZEtvR2VOalh30gHnAUFVX3lxTFAtN1VPcm1jMWhMWVp4UG9CRmNCZTkxODFteEZ2UmNvUTJXdnRkNXpxX0JyaE1UR3hhQ0pLZGxEcGtUd2xHTzRTTlBRMnVHMnQteHpnODJ6VGdwY2I2aXprS05XMm1lSWRoVWJyVkdfRVViM0JiN0hQQUJ2Um8zaTNpVlM1bDkwbnNPTHJ6dFlQbGltdW85M3V1d0RjMFhFbDBON2tBcE5qeF9MWUplZzQ5VXhmTm9YOUFsbkpUeFlmQXBtdUVNcHhXUXhhRjV0dmJSNXAzX1pTVlhLeVc3bzNiZFBhY3lVbw?oc=5",
+        "publishedAt": "2026-08-20T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -261,128 +289,79 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Ingeniería electrónica, motor de desarrollo - El Peruano",
-        "summary": "Ingeniería electrónica, motor de desarrollo &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1l3UjlBcXZfbXZPWG1QNHBaUDNWTkxfc2FJbkhZZG9fRXl6emhTVzBvOVBvZS1pQ0hCZjg1bUQwemdOWkZNOHRtNTlHUGJnaERLOUZjQVZnOTUtd09kS3FfWUpxQ29RMTVxWmphVmNfa0hmeUdfejJvSjdpRGRBR0F2UnA?oc=5",
-        "publishedAt": "2026-08-12T07:00:00.000Z"
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus cap",
-        "summary": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC &nbsp;&nbsp; Gobernación de Cundinamarca",
-        "source": "Gobernación de Cundinamarca",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaG94YzZZUlRrbWhTOG1UTGlYSU0xNG5yUTYzN1dMQU5xbElHX2p5dm9FcHhNSk1ueFE5ZkFhaU52S1pBM0V2ZUM4clBrVDVmTVBqNEtYMVE2YTRmVDdCZlUxUjBEV1lobUphV0dCZFRjUU5GT3l0RnN1cWhQUVI3QlBIelNtS3V4LUJBb2tkQjN2cFZlS1FpYUUyYTZIaTFkS1Ewem5hYzJrbjRTMlUxQk9Fak1zeVlqbXprZWZjZWgwNWczcGdZQ3RWb2hhSTQ4Q3dWVDY3bVZjWDNCdl9Hektnc0tkRV80WGdvcg?oc=5",
-        "publishedAt": "2026-07-01T20:32:44.000Z"
-      },
-      {
-        "title": "Sembrando innovación y cultura científica - El Peruano",
-        "summary": "Sembrando innovación y cultura científica &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMV93Ml9tdEdiLTV2elg5cWxBVGxuV21KbDR5OGo0UFRMVFo0TFVFQXBYRGdBUHlCVnIxOWtGY09HNmlUSnVnWGFxQm51cERvU0VJVlRtTmRSN3c2bk02a21MaGlRcVpwS05ydHhNMmpQbVZRN3JGSkpESjN5ZTZ3cTFUTQ?oc=5",
-        "publishedAt": "2026-06-19T07:00:00.000Z"
-      },
-      {
-        "title": "Moquegua: Southern Perú promueve innovación escolar con FABLAB en Torata - Rumbo Minero",
-        "summary": "Moquegua: Southern Perú promueve innovación escolar con FABLAB en Torata &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjM4OFhUMjFEZ0xoUW1Cc2ItSHI1dERZVTV5bjRCdUdSeVRuX1pLaGtnamZUUFVoUUotRkwwU05mVmFTS0RMcU5vbFR0WTIxLWdNVWhOQ21nWk5KcU5kV2JYR05IeHYweV9JMlV3MmJCbVBBOWVUYk1NdVVFV0w4emUzYjI2b2VuWHNCa2pMUVM2QQ?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
-        "publishedAt": "2026-05-01T07:00:00.000Z"
-      },
-      {
-        "title": "Suplemento Económika: Innovación, el gran reto de las empresas - El Peruano",
-        "summary": "Suplemento Económika: Innovación, el gran reto de las empresas &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFg2ZktUd0l6VzJ4UE9kYmdGVDczcHpyUGRMdW43OXF1YmhIUTBYMmdGaFh6bGtZdmZoYWRFeWVDS0RyOHNCbERPbU5BNFVSaEROVkJJYWhQVFh2R0syYVZHREtIVHotbTBkUno2N2VWUHNhZVlsTmcyaDRrMWh6RWpmeWxneDdibTFuMWdFbERFSnlUSWtSSFMxRGxFV3Nyanc?oc=5",
-        "publishedAt": "2026-04-27T07:00:00.000Z"
+        "title": "Perú da un paso adelante en la seguridad energética con el uranio y litio % - larazon.pe",
+        "summary": "Perú da un paso adelante en la seguridad energética con el uranio y litio % &nbsp;&nbsp; larazon.pe",
+        "source": "larazon.pe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVU3eHAwN19tVTd6YlI0dE44dXc2cm96bmVxOEktWnBQbndNcVQzY0xqRkhVbE9rM2hVUXJEcm5CdXVxdTRYXzVMb1ptLU9IUWc1X3Q4UjNjZ0UzRkl0WmR4RTN6Ym5MXzU3SVFCbFB2QjZqZXBVVmMzMnFyajdfS2xrR2ptZ0Y2cXUyVzlHTFgxaC1iNmZPWg?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       }
     ],
     "ia": [
       {
-        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
-        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
-        "source": "teleSUR",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
-        "publishedAt": "2026-09-10T07:00:00.000Z"
+        "title": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? - Mercado Negro",
+        "summary": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQMmFveEhZakpSQ2hpcC01ZlM3VmQ5MGZSaGYyVUxBaWZ1YkswRk5lSl9Ucm5TVWlqQjVJQzVnM3FHeG1TQmMzckl6R0pON21PdEpBYm9mWjZpOUxGMXRmeDJpandOT3ZmcUZqQ1c2TTU?oc=5",
+        "publishedAt": "2026-10-20T22:01:45.000Z"
       },
       {
-        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
-        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
+        "publishedAt": "2026-10-18T16:46:20.000Z"
+      },
+      {
+        "title": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir - altavoz.pe",
+        "summary": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMUZQeU9VcXJHX2JfaENRdEdaZm5JcDA3WmVCNE9OWGF3endXNDFBYVY0YWV1VEh3VHcyMkxGekJ4dDdFMVEweGs0LUpNWjFKdWZmNlFTYnJJVFZPTGtJRzUtTTRYRUJSRXZvVlRzXy1UaWxQSmdWQV9MbTdONE42Q3JfQ2lSUFNXTFN0VnI0QWthb0Zsc1hkRlRLTzUtN3JTdExnRFRBZkdraTBLWjFFUHRtbkFvWDZEb2xYZzJXb3kycnNuMkFPVkR1SnV2NUZXcU9GRWUtXy1uRDYw?oc=5",
+        "publishedAt": "2026-10-17T14:53:44.000Z"
+      },
+      {
+        "title": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 - altavoz.pe",
+        "summary": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHMxUkxrVm0xWmVzb0R2TmdxZmZ0QUlyQ2V4VXJvRXY1Sm96VURzaWxwTndqWjZ6eDZpVDZRbWRBSVJrMk9ydDVSeHk0LU05MnhXUlZSUGNYMzh4S2E2T0dpMFJ2cEpaZ09nMG5ja2pPYUxzZ1EzbmkwMTFxYWV5VUg0QWV1UFJicnppUW85SW9JbXc5MVNPcWpsVHBzNVVydWdxZlJhTzVOYzNkYUNGVDVXRnNhYmlCel9DLVloNGdvQjZhVmtqWllIRENxSmVzd3BiVWNocXIxZUE1UkFBR0xB?oc=5",
+        "publishedAt": "2026-10-15T23:09:39.000Z"
+      },
+      {
+        "title": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento - El Peruano",
+        "summary": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
+        "publishedAt": "2026-10-12T07:00:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
-        "publishedAt": "2026-09-07T07:00:00.000Z"
+        "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
+        "summary": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPb0FkVUtxcW5KQUxGN1ByR2EzWEYwVmJ0V0ZQVExrMUlWSnpxc0laT0RfR3ZOMFJYRjlhamlDbDlwVnplYVNoUzRvWnFYeUVwMDlkd3FvUjBWTVRZcE9oRU0xcWRuanlTVHZZUDB2QXdTTThZWTZzTloxYzFiSTNNLTdfU1pibHBmLTRuMHBPSU96MkVRemlJLTN2anRPQnNpbWJUTGJaQ2JaWW1lRkhURlpQNHplZkRqaVFZZThHYnk5VWR5TUNrOGZHRGZXdmJQemF1THN5dTFzemk0cm9MYWpHTnN5bDJmU0hlR0ZrT21ib25VNTNfckZCU0xSRVRxampiZDRQRUpidw?oc=5",
+        "publishedAt": "2026-10-08T07:00:00.000Z"
       },
       {
-        "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - Infobae",
-        "summary": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHcxMHZXbVRFdm1rYVdjR05vdWkwRC1YZEs1STVyMjNVNTJ6RjlmcVgwUUFMWDNpeU1aR3I3TWMzdVczRW4tRkg2S1pmR2haZE9WdE9MT0pwZFktcC0xQk5KbGpoYTZrWGE2VDViYmhRVmZfS1pkOHc1UGw3OU5oNmtfeU1Sc1Q0NnZ5amVPZFR2MzB1dkllZVB2U3dhYVFfN3Q4OWJxdXI5Z3dEMkcwdi1sWWtHNTBIZ0daa1E2bDN1UlU4UDdPN2dlOFVpZGZrTkZOenZVMl9TVkXSAfYBQVVfeXFMTWhZejBPWVJvRWc5VmowYS1ocnJIQlU3TnJxcUlzWGpRVHJOZGJVcXlKZll6SlhycDRMOC0wMkZIbnZOZVpKTDlSSHFNY21qYjRRWjBEeGVHdXFQOWRwSVVoVFR3UVZwTzRHb1ZidWktcklvOGZjYVRxZk00WnE5MmlVZXhzVVRaV0RjMk1VLThMak9lYUZOTERPWGtwcTZCTXZmT0stUkhxeVlkQ3V6SzJkYnVfMXBScTZuWHlrVVEyLWQtdENYZzlMSkpERl9xdWZyZmVkV1Z2bXVMRVBaajlzNUF0Q3pfT2R2S1kzaHA1NWNFeURB?oc=5",
-        "publishedAt": "2026-08-26T07:00:00.000Z"
+        "title": "Inteligencia artificial: cómo puede reducir el consumo de energía - La República",
+        "summary": "Inteligencia artificial: cómo puede reducir el consumo de energía &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlpGTEJnYlE0VlFjaDZwQkIzTUUzMkhYTFVIcDA1NlpaSWdsM1BaYVR3MVFWN19LSVpDekpoU0dYb1FCdGI0bXVGYTljQ0JRTmRuc1owZkp5Z0d2TkpERkpyNi1PekhackRHOUNRQ3Zmb0VKRktjXzVHcjZ6b0F3STlvUlVPLU1LNlQ4UmxBZHFVREJPNGRSNXh2alphd19iYS1HbTNDRExIejVHNzFEMkhJLUV6RDZkYkw5LUNSLUM5aDFfTzZCbnp6YTRwVC1heTVJbm1qX0Jqd3gtR3c?oc=5",
+        "publishedAt": "2026-10-08T07:00:00.000Z"
       },
       {
-        "title": "Inteligencia artificial en Perú redefine el trabajo y la productividad empresarial - El Peruano",
-        "summary": "Inteligencia artificial en Perú redefine el trabajo y la productividad empresarial &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2puRGpkYUJFbzBZM0NJRG0yVEpZRWlra0ExQjdzb3IxemlWRU04a0dfRXFjRVUxQnhHRDFqQ0wtM1RacnAybkJyekEyWEgzTkx4b2Ntek02SGZLQXlLSHBfMHNudG1PUy12ZE90aUlCeXcwQWFUTnVIeU1JYUdKd3diMU5JYXd1RFpLQ0duMFN1dlAzUXFrOTFwdjlULW00SE92UFRSRmp5SkkyaUFGcEFQeWw0cjVMREE?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 - El Peruano",
-        "summary": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXc5TUpmLW9YaEJMOXgwaW5wdHE2MUlrRzU3djFhcUhhMGxSZUVPSUZMTDkxUGZtRjV1dDZKNEluVEFlb1hOanhZa1lwWVI1Z2VVcWg1cTFVX19iZGJNSW9PU1BrNTFjLU9FdmpCOGRXSFVRY0xBNTVrWEdjQ2dyMklIM2FwX1ZERFFqc0Y0RmttZF9TWHF3MVdQTXAzQnRxVnMxNnFJVG1Salk?oc=5",
-        "publishedAt": "2026-07-22T07:00:00.000Z"
-      },
-      {
-        "title": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas - El Peruano",
-        "summary": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWU9QeVVMZWZqNkUtQXdqcjB3YXFvWERHQ0pDZ0RtSUdoUktaRk1wcENGWENlanFfRlljS0NHVTdnWEgxOUpkYWphRXdqa2RSTWF6SW8xSmhBRmdBZElfb1oxcWdSRGZzalNJaFQ0bDN6TzhHOFJTN01ORHdmaUJCcHMyTHp2Wlh4YVRPUExEZDNQRm1wWnU4d1FjeE1kNjRYZlk4dlJuNDhiMzlqZzVmSGdSX2QtT0Z6SEdGSzFsM0NVb0E0Y3pJWQ?oc=5",
-        "publishedAt": "2026-07-13T07:00:00.000Z"
-      },
-      {
-        "title": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú - El Peruano",
-        "summary": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGcyN0M2VUxPY0gxN3d3Y2pGMF9fbFlYZmk2RGpXWS1neU1oUTBQME5hYnNaNXV0andvZmtrY1dqQ3lxbUtVYmxsN1BYY1hkLWJ4ZXVnaHZ3dFVBbE1uQ1o5aDF4QS0xZ1pmWjgzc3E3ajk1MmFOb19IM2dSd3dCdkxZZXBUeEZIY2xYdmx3el9LbHdaZlM0b0g1aURrTXlfdC14cWRCQzFCR19BMExtY1RtM2VRVFRoUzB3U1ctR0JYczEtci1zaXhuTQ?oc=5",
-        "publishedAt": "2026-05-13T07:00:00.000Z"
+        "title": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? - Gestión",
+        "summary": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
+        "publishedAt": "2026-10-07T07:00:00.000Z"
       }
     ],
     "tendencias": [
-      {
-        "title": "¡EL TREND QUE DA LA HORA!: ¿Cómo hago el video de la historia de amor zombie con IA? - Perú 21",
-        "summary": "¡EL TREND QUE DA LA HORA!: ¿Cómo hago el video de la historia de amor zombie con IA? &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWw3N01nTkUxV0tKenJJekIwcFZrMVBDR3g0dENOQTZibTB0bjQ0dzczUEQxZ0ZwaTNGUVoxZGhEbmN3UUhLWjgydUEyRlpQdUpuLWpWVFlwRS1oM3NMdkxTVWJhWDNLTE5jNXBHOW9fN0ZiT2d3MjRvNzRuWmxoRklQR1RDVE80YUQ2X1N3RGhnQk1YUWc?oc=5",
-        "publishedAt": "2026-10-14T17:23:42.000Z"
-      },
-      {
-        "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
-        "summary": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
-        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
-        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
-      },
       {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
         "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
@@ -405,18 +384,39 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales - Infobae",
-        "summary": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGdDYk8yYWZZa1pGdmhMYWxkU2RkNDBFamVzRWg5dnZjal9kMUtiVGpENS1hUS1QdGhoMjAwSUZkYkpKMjlXSzhzaDhDcUVTU1RPVjdreHRJc0pGUWhnbERmNVhkOW9aNi1WSk1xQkhSdWdOWkhnUTNkSmo3VWNlU1pEUVg3NFI4VmFpTjlKang2enlMMFMwbFBXVkZjc2toUF8tZVBhal9Xa01YaUg1X0xxOUhjSDlBNjkwd3FGVDJmT3l20gHfAUFVX3lxTFA3WktjdXNIbUg3a2w0X200YW1sV04tYVJ0UVl1Mk40RWlCd25GTUt2YUl0dld4MTFMLWVsak5uejdOX0gwQ01iNWFfSGFxSDczb3UtNlVKaHJVRTlBLW52UVQtQmV6SXlUMUd5OHhCbThfSXZmUG0wMVVzZGQ0T0NySnN5OXdZS0FLMFlVUjRvQV8xTGFRWTN6Y2dYRzFZY00tb3U4N0FQUVRCalljSkIzRTVUYXhHV2o3VGZlQmRJSEY5dkgwd05ENXphLW83ZU9rRXNnbVRZcm1hcHhOOTg?oc=5",
-        "publishedAt": "2026-08-23T07:00:00.000Z"
+        "title": "¿Farmeamos aura? Se trata de la última tendencia viral en redes que se ha tomado plazas o parques de ciudades como Buenos Aires, Ciudad de México y Santiago de Chile. Cientos de jó",
+        "summary": "¿Farmeamos aura? Se trata de la última tendencia viral en redes que se ha tomado plazas o parques de ciudades como Buenos Aires, Ciudad de México y Santiago de Chile. Cientos de jóvenes en América Latina están convocando a través de sus redes en &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRkcwaXFpWmltZGtWWjVaUVBoTXFrWFVQdFhLNjlyUm8yOTBHa0VkbE5UYjVwanlMVE52UEZyanZqU04ybHNrNWw1UmhTMUI3eTMybnFQRmpqUzNvWTNQRjRDVVZXeGNVMExTQ3VZSUc3aDdhdS16ZUZmNkNMRmRadzJCdllRVkt6Tm1wMVF0djVQc1lJQzkyTFFib1EzQUJFZDBSbHNFeHZVdEMyaWRNRkpkRFRsbEJlcXFsNFp5V3RkTHRmSlZjZTdrTDloVlBtVnhqS0xmNWpPcHhGbkVJWQ?oc=5",
+        "publishedAt": "2026-09-05T07:00:00.000Z"
       },
       {
-        "title": "¿Qué significa “farmear aura”? La tendencia de la Generación Z que llegó a Perú - Diario Ahora",
-        "summary": "¿Qué significa “farmear aura”? La tendencia de la Generación Z que llegó a Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
+        "title": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales - Infobae",
+        "summary": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWdsN1N5WXRXN0NBb1ZwSVVBQnN5dlVnTlQ2X3lKRm5lQ0x1bWowcVFKelVZWWpaMzA1eHFzXzFZZ2hWb0VyM1Y1aGVkbFRhZkltcTBJZFgyR2o2alRERFFLNkZpb0taeFZEaVEzMnQ0S29oWnNsam1sRzZsYzZrQXlUYmFCQWZQMDlpRkZsNUpiWVFGVjYwOUJkWC13QVc0a2Y4RzNjUkxxbXQwS2hYUE9JSXZHQml0OFZ6bDhmbUo3Z9IB3AFBVV95cUxOQXp2Z0VaZ2w0TEZCbk9kdDRZWkVwZTh5cHNaTy1sMUlDcTNvamo1MWR1THMzR1RlUDZVdXhYeHdQVGdyNUVrUGZlbFk5Y1dZaXdoX2FlUjJjcll4YncxSXNfRDJOLUpmX3ZVY1pITXhGRmxQZVlCcG1sT0FsemdxZjJDM0JWckV5SEp4aktWam9ubVU5N05Ma2tNVjNxWU1WdGs1Zk1jWXFXM0RqdkNQdWhHNjBudWppdHBxMThaMFFxa09sWkpvakhZWlMzWjYxbFpmZzhYeGV4aE8t?oc=5",
+        "publishedAt": "2026-08-24T07:00:00.000Z"
+      },
+      {
+        "title": "'Farmear aura' se vuelve viral en Perú: ¿En qué consiste el nuevo reto que enfrenta a jóvenes en las calles? - Perú 21",
+        "summary": "'Farmear aura' se vuelve viral en Perú: ¿En qué consiste el nuevo reto que enfrenta a jóvenes en las calles? &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGJrT0V2UWN3cjU5aGlZemZGV2NpaTljN1FJclY0aDFKWm5sQ2N4X1ZSd3NRazNXYldwOU9vdENTbVUzdGdiZXgyMlVCZ19kMU9BQjRERUVaSEU0djhsTS1rOUZIV3I5VzJ3NGtOVjBYdHVIb2FzN05Ed05PcTFuQW9OYnNCbGE3?oc=5",
+        "publishedAt": "2026-08-20T07:00:00.000Z"
+      },
+      {
+        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
+        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
+        "publishedAt": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?",
+        "summary": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?? http://exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHB3Q3VNa2NsSkFlN0U0UzEtWFRURUNsNVFzWWJNcXBCTUNqeVhBdElLOEdfSTRZSURTUFIyNG9kMDBvUWFoeW9ham5tNDQzMmg4Z0RhN2tSeFJVUy0xYXBsZkpFcXB4RHFCNHgtSDUzWFdwTEI3VWRycWVkVWtCTmdWY2xrZlJjaDlXSkJPM19YSUxYS0tyMXhPR3VHTlNMUXI5RFRXd1NwbHppeWFNZ0RxOU56b3lhWFVKZ0hiU0NIWGlnaEE0RGVVa3NYbUd0NVFBM2FpMzh4Y1hZWDhz?oc=5",
+        "publishedAt": "2026-08-14T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -442,6 +442,13 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
+        "title": "Entretenimiento eleva proyección de crecimiento hasta 8% en 2026 con 70 eventos masivos - El Comercio Perú",
+        "summary": "Entretenimiento eleva proyección de crecimiento hasta 8% en 2026 con 70 eventos masivos &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXMzRXlWRmw4MTVBX2RxX01EWWdHblRXSmtZeklqbUtabnZZODNrU0VNWG1sUXYxZHJUd3ByUDgwZGFBV2UyczhwemRnNXZhUFU5dmFSeWhGZEdROE9NTHBzUFptSlVya1NEeTR1Y3pDemZfZ0VtbFBHYm0yWk1GQi00d1d1bW1GYU0wVXk4dndhb2EyeWJ5MjdVTkdadlZRSGt4NWpGUW91bWFCX3hpV1ZNbXlETktvaTN0Sk1MZ3AwQzNxaHJKSXlNOElpRHBfQkdCSWVaN3TSAewBQVVfeXFMT3ZCTkRsRDZhX3JKbnFsY1ViQkk0ME40SThwQmxmUjR3NmdiRGg2bUljUno3RFhCMHhHY2JSQUxPZ0ppSU5KV3p6T0FtaFJMTHVjcEtYUVktX0llN043ZENKU2lpblR2MUhDeEttdV9DSFVFeXFNdWFiWmdwcXA5VTdSYnVkZHpwdXhmR3Z4a2RRSHJSVl9kVUJ1ZTdjTkFTenFwY1dWaWlkcUZFU05URF8xdUlxMkZlT1cxWUhuTFpIMXJ4ODYwVm4welJaSm55c3VJQmFMbHUyQUJwSzB5N3FXSlUzdmNWeTQxUVY?oc=5",
+        "publishedAt": "2026-09-24T07:00:00.000Z"
+      },
+      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -461,13 +468,6 @@
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQallZVXhIV1dwQ1FqTmNOdDlGVFQ0WEVsWE92NFdKM1hyWDBIYlRWcnJ5NmJXZ0dSWTd6N2pBb3FhWkdZNF9fRTZ0cG1IN2M5eFlJa2p2c042MDVsaEJMZUY1TmxFazFWQVlfNDRmRFBjajBjNGszT2E5eHNjdjJLaFRLbklwQ3FKQW1ZSEFvbmdzN1NXcjZ0VG9rdHlPNWVBYzdLRlB1aWpvUlFUZDdlZXVoWEU1eVFsYVFRdmJMUmpuWnN0bE96MnpuclJQVDFkMktOcmdTU3J5emxwVlVGSEtkajVfdFZiRUE?oc=5",
         "publishedAt": "2026-08-23T07:00:00.000Z"
-      },
-      {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
         "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
@@ -500,13 +500,6 @@
         "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
-        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
-        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
-      {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -533,6 +526,13 @@
         "source": "Perú 21",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "publishedAt": "2026-08-22T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
+        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   },
