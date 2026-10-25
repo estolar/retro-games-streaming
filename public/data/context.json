@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T20:18:35.842Z",
+  "generatedAt": "2026-10-25T22:54:18.865Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,6 +73,13 @@
     ],
     "economia": [
       {
+        "title": "Dos distritos de Lima Metropolitana ya no podrán restringir la venta de alcohol a altas horas de la noche - Infobae",
+        "summary": "Dos distritos de Lima Metropolitana ya no podrán restringir la venta de alcohol a altas horas de la noche &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbjV2TDRDRnptaGpRMnpjTDdWdDEtai02SU90QVBkaGdwNmpfRVN6WHRaMkJ4QmlTRnYyOWVFbXZicldBZW85ZnN2ZDNsQjZBb29DRVhOUENVc3c1WWR2aTlLNFpXUGNKaVVIaTlVYndXVDh6eVEyTHZsMWJXazZWVzhhSFh6XzdCbzJVZzZ3c3BwV3J2RkJwT01ucmZYVElHYUZiZHBfOTgxR2wyYnJEdWdiTXY1MWVYbGdEazVWWnRYN2xBeUZfSjZFN182VGxZX2RIcDhRWmdCcWZXWFFr0gH6AUFVX3lxTE9LaEhLbDFIbFBueWl2MUlFSXpfTTNyU2NkOE81dk1sc2d2NVNELWljZG52R3JzZmxqX0NIZFN5QTBLdHZGbHMydWlzS1Z4YWdubEEwN1NZamFET3Y5Q25OaC04ek1INUZEaXhsclBmN0hBMkVYbXM0OWI4cVNwVm5ldlVxS0llQ1N4NUVNSEpGcm5VYVBMRHYxSlhWZ2w5OEQzU1JVdUNZMHp0VVdYTmZnUXoweWZjVk1zeHJaQ0xRNkZRYk93VmpnVzNyVXktZkh5czZtM1FHaDh4dllJTElRWktkNU5tYldiNjVTQ2YzUDkycDBLZERFLWc?oc=5",
+        "publishedAt": "2026-10-25T17:36:52.000Z"
+      },
+      {
         "title": "El 60% de las empresas industriales teme que el fenómeno El Niño afecte sus operaciones - Infobae",
         "summary": "El 60% de las empresas industriales teme que el fenómeno El Niño afecte sus operaciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -113,13 +120,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFdibGQwQUhGMjBfVXl4eG16VHlpMDA5MnVOWkxhV0U5bmk3VkxvVGh4cFhUMHh1N2xKYl84eWh4RGdVbFFET0V6SlVFRGdKdHJDd1ZxLXlkbk93Qk1ZQWxxbk5QWlRsM1BlN0tOYk02aE5FVnY4WHVsMmtLSHVQQUlmbjlkRmZ5U00yNDdKY0Njel9rS1l4NDlHWk91U3gyVnBVQlVCVjZ6Y256Z3R0R05xMkJSenB6dG1aUl9EVlFKX2E2OHfSAeABQVVfeXFMT3VGX1JaTFh0VFY5NnpnOVF2d2Zid19sTkN5aTBPeVBYeHY1Q2p4aUJDWmViTXBBcUFla1FlZnQ1eXQwdGUwWERuUFF1aENQYS1hMElqaFVMYk5tUERUSUVXT2UwN2UwV0M3ZGp3eExNcTVJNUtVZzBvRTQzSW5tMjh6UUFwZ3BVS2FPd3ppMGNybHFKaDZxZVJuLUJCVW4wMk9WTkdXdDhkV1Rjcnc5X0dteFJnMW51X3Q4amlRWDVjZW5NYkd1VDdXY3libGtWSXNJVTRPZVRnQUxZaWtuelU?oc=5",
         "publishedAt": "2026-10-24T12:38:00.000Z"
-      },
-      {
-        "title": "Pensión 65: Aprueban aumento a S/700 para 824 mil 351 adultos mayores beneficiarios - Infobae",
-        "summary": "Pensión 65: Aprueban aumento a S/700 para 824 mil 351 adultos mayores beneficiarios &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0JtQTE0S1daWVZLVE4tQmVueE0wejRPamk3ZjJ0MURCVnpDUVpfR0Y0VldjYTJtY2lWX1VRT2JQSXJuMk1HU3JIaEh0MDFrcFRjM1pNLTBfbVhJSUJDeWRIQXNCeEdQV2hXTnc4SGlGYmQyQnE0QkFxTGJpWjFqX0hmRS1wSzZSdmk3ejZIYmNLRFphS2VOcDZPc2NQTjVBcnItMks5a1BGYkxVSFlqT1pyd3F5OS11dTB4aU5LaGsyUdIB3AFBVV95cUxQZDVJZkJtOWtCVWJ0bzljREkzLUNzV3R0b0lKSmRrZlhTSk9YdTFfZXBSLUpsd3FuZ05JWi1ZekRFeHd6VUVPVENnU3JPazF0bnpKbHZYUWtsZDAyTWwwcXVHbUdqZHlGZlFWNlRkcTFQWWk1dGpvNGdON200M1FHUEpaMUNQUUNKTUlrTEdLQnN0aERScWJ1V25XbW1MOFI1dWl4LXRLMVgya0w4a1lKaC0talRPOWdVd05paEljWTBZb0lzV2NwMjV5d3RUNENaVHkySTJpSGJ3Qjlo?oc=5",
-        "publishedAt": "2026-10-24T12:37:00.000Z"
       },
       {
         "title": "Bono de S/300 para trabajadores públicos de sector Educación se pagaría antes del 2027 - Infobae",
@@ -261,10 +261,10 @@
         "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
-        "title": "Dheivis Jara: becario que convirtió sus ideas en tecnología de alcance internacional - Editora Perú",
-        "summary": "Dheivis Jara: becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Editora Perú",
-        "source": "Editora Perú",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWFHNmplUG5sdlhmMEhnYlV2Y0hLNFpiRTluQzA3eERGUkoxcC00NnJEc01fMnU1M3NUVFNkbjRteWxQZkdINVY1SC1FUml1QUlqNHBNb0JjNU15RVVqM2pLXzY1TGtXMFZQWjQ2ZTU3cEotX09kOWYxZHJ1UjJuQTVSUEFfcmhVZDQ5amFmWDN0SEcxVUxmNGJVdFJ3VGZFSnFNV0tnMjlkeXlkUlFtdFR0LW5NbDg2MHZNNjAwVF91WVQ4Nllfam85WHQ?oc=5",
+        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
+        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
+        "source": "Diario UNO",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
         "publishedAt": "2026-09-19T07:00:00.000Z"
       },
       {
@@ -305,13 +305,6 @@
     ],
     "ia": [
       {
-        "title": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? - Mercado Negro",
-        "summary": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? &nbsp;&nbsp; Mercado Negro",
-        "source": "Mercado Negro",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQMmFveEhZakpSQ2hpcC01ZlM3VmQ5MGZSaGYyVUxBaWZ1YkswRk5lSl9Ucm5TVWlqQjVJQzVnM3FHeG1TQmMzckl6R0pON21PdEpBYm9mWjZpOUxGMXRmeDJpandOT3ZmcUZqQ1c2TTU?oc=5",
-        "publishedAt": "2026-10-24T00:28:17.000Z"
-      },
-      {
         "title": "Una novela ganó un premio de 20.000 euros que vetaba la IA, pero un detector señala que el 99% del texto fue escrito con tecnología generativa - Infobae",
         "summary": "Una novela ganó un premio de 20.000 euros que vetaba la IA, pero un detector señala que el 99% del texto fue escrito con tecnología generativa &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -319,46 +312,53 @@
         "publishedAt": "2026-10-23T17:55:00.000Z"
       },
       {
-        "title": "Perú crea el Oficial de Inteligencia Artificial para el Estado - https://www.latribuna.com.py/",
-        "summary": "Perú crea el Oficial de Inteligencia Artificial para el Estado &nbsp;&nbsp; https://www.latribuna.com.py/",
-        "source": "https://www.latribuna.com.py/",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalUwUGo2amxiNm15SzZ2MThKQTFpVzNHdXZxc2pkQmplNjNhWFp0QlFGYmxZZVM3UmZoMElnUEluenI0Qk1IdG8yMmlnT0R3RVJ3M0V5SFB4VUd5cTFhbl9saWc2VUM2SGVxUWdSSWg5eGpwTVZGRk5sWWJrbGtuTC1iend1WjV5MDBQNFBaNTg3RjZJSGk2YktwOG1oRDBDcnUxbmxVUGdfaHhhMW1GMDNvLWFSV1FJdTF0UHpyelJSbjd4a2xjTnR4aWZZaUU?oc=5",
-        "publishedAt": "2026-10-21T23:00:00.000Z"
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Agentes de IA: el 47% de trabajadores ya los utiliza para analizar datos o gestionar documentación - El Peruano",
-        "summary": "Agentes de IA: el 47% de trabajadores ya los utiliza para analizar datos o gestionar documentación &nbsp;&nbsp; El Peruano",
+        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
+        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3dBZGpTTC1HV1VxMHo2bVZFckhmS1NkMHdpZmlHSHhHdUR1VTVsUVI5N3RmTU1RTkdaOGthZzRuQXF5WUxXdXdVTnIwc0pnR1ZCTUJiYlFZRnBXblhKVDg4cWY2aWRVQ2lMQTV6R1p0Q3p6T1VOUGRGM2xVQ3BPd1RlaVJhekV0Ymt5TlQ3b2hkZjZCREdDbmZJZ0lCM2tiZGFHeDV1TUJsemVNN0hLQzNLMVF6dUg2N0FzWmtMRnZZTlZ6WVptRVEtWlM?oc=5",
-        "publishedAt": "2026-10-21T13:53:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Gemini 4 Argon, la nueva IA de Google: ¿cuáles son sus funciones? - La República",
-        "summary": "Gemini 4 Argon, la nueva IA de Google: ¿cuáles son sus funciones? &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNGhnZXlzNzRRWHBfdlV2V0VvWnBTdXVSX2wzZk8wdTlOSGxMLTRId1hleEYxSFNWSGF6VTdMUmpUMmZqa1FrSUxJeDRUWkdVRTBocTRVd3hYZ2EydlZMSUx4bG1XdlZZMDJsc3hzTmpZZGtkZ0pPdVQtYVRjb1pwMmp2aHVRMEtBbEc3cVpsRHBXWExnMzRzN2t0cHNrSFYyQzk1YTAwQ1Zuc1Y1Y1FyV3VnQTFiMnRwbUx2MjU4RnUyQ2prNGRZWkM3d3FpTkwtdWhJZExCbTJxVVE?oc=5",
-        "publishedAt": "2026-10-16T07:00:00.000Z"
-      },
-      {
-        "title": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 - altavoz.pe",
-        "summary": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 &nbsp;&nbsp; altavoz.pe",
-        "source": "altavoz.pe",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHMxUkxrVm0xWmVzb0R2TmdxZmZ0QUlyQ2V4VXJvRXY1Sm96VURzaWxwTndqWjZ6eDZpVDZRbWRBSVJrMk9ydDVSeHk0LU05MnhXUlZSUGNYMzh4S2E2T0dpMFJ2cEpaZ09nMG5ja2pPYUxzZ1EzbmkwMTFxYWV5VUg0QWV1UFJicnppUW85SW9JbXc5MVNPcWpsVHBzNVVydWdxZlJhTzVOYzNkYUNGVDVXRnNhYmlCel9DLVloNGdvQjZhVmtqWllIRENxSmVzd3BiVWNocXIxZUE1UkFBR0xB?oc=5",
-        "publishedAt": "2026-10-15T23:09:39.000Z"
-      },
-      {
-        "title": "IA en el Perú: 9 de cada 10 internautas ya la usan para realizar sus compras online - El Peruano",
-        "summary": "IA en el Perú: 9 de cada 10 internautas ya la usan para realizar sus compras online &nbsp;&nbsp; El Peruano",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWdFOW9iTkdNOE1TdFFxQVBycHEzSFh3eTJzeHFPRWlBTkxFSnN6SG8zQjd6cy1tby12YVhPaExEZHJ3Ym9uakljWlphb3FySkhSRDh6c0hvajFjOHpDejV2MFpZanBGS0thTmlsUmcybkxjOWhxa1ZuUTVXMWdsdl9yNjZtYS1yUXE4WExKMkdBNmRQbEtBcmczelZ4dkNSM0JUVktJUC1UYVU2WWlTYTdYUWMyTkNRYmc?oc=5",
-        "publishedAt": "2026-10-12T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       },
       {
-        "title": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento - El Peruano",
-        "summary": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento &nbsp;&nbsp; El Peruano",
+        "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - Infobae",
+        "summary": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHcxMHZXbVRFdm1rYVdjR05vdWkwRC1YZEs1STVyMjNVNTJ6RjlmcVgwUUFMWDNpeU1aR3I3TWMzdVczRW4tRkg2S1pmR2haZE9WdE9MT0pwZFktcC0xQk5KbGpoYTZrWGE2VDViYmhRVmZfS1pkOHc1UGw3OU5oNmtfeU1Sc1Q0NnZ5amVPZFR2MzB1dkllZVB2U3dhYVFfN3Q4OWJxdXI5Z3dEMkcwdi1sWWtHNTBIZ0daa1E2bDN1UlU4UDdPN2dlOFVpZGZrTkZOenZVMl9TVkXSAfYBQVVfeXFMTWhZejBPWVJvRWc5VmowYS1ocnJIQlU3TnJxcUlzWGpRVHJOZGJVcXlKZll6SlhycDRMOC0wMkZIbnZOZVpKTDlSSHFNY21qYjRRWjBEeGVHdXFQOWRwSVVoVFR3UVZwTzRHb1ZidWktcklvOGZjYVRxZk00WnE5MmlVZXhzVVRaV0RjMk1VLThMak9lYUZOTERPWGtwcTZCTXZmT0stUkhxeVlkQ3V6SzJkYnVfMXBScTZuWHlrVVEyLWQtdENYZzlMSkpERl9xdWZyZmVkV1Z2bXVMRVBaajlzNUF0Q3pfT2R2S1kzaHA1NWNFeURB?oc=5",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
+      },
+      {
+        "title": "La inteligencia artificial escapó - El Peruano",
+        "summary": "La inteligencia artificial escapó &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
-        "publishedAt": "2026-10-12T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XRENDS0x4RG9DRzIwbUEzbThqQkw5YTNiREFNX3lLMVhrbi1UVG9xNDRkUXV2LTZEakMyNVpqU1lySUktQUFBVnppU1h0QlNCbzUteTg4RzdLMXZFSURscTVqQk1KaWVUVFVVeTZzR0h2X21ia0RCZA?oc=5",
+        "publishedAt": "2026-08-03T07:00:00.000Z"
+      },
+      {
+        "title": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 - El Peruano",
+        "summary": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXc5TUpmLW9YaEJMOXgwaW5wdHE2MUlrRzU3djFhcUhhMGxSZUVPSUZMTDkxUGZtRjV1dDZKNEluVEFlb1hOanhZa1lwWVI1Z2VVcWg1cTFVX19iZGJNSW9PU1BrNTFjLU9FdmpCOGRXSFVRY0xBNTVrWEdjQ2dyMklIM2FwX1ZERFFqc0Y0RmttZF9TWHF3MVdQTXAzQnRxVnMxNnFJVG1Salk?oc=5",
+        "publishedAt": "2026-07-22T07:00:00.000Z"
+      },
+      {
+        "title": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas - El Peruano",
+        "summary": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWU9QeVVMZWZqNkUtQXdqcjB3YXFvWERHQ0pDZ0RtSUdoUktaRk1wcENGWENlanFfRlljS0NHVTdnWEgxOUpkYWphRXdqa2RSTWF6SW8xSmhBRmdBZElfb1oxcWdSRGZzalNJaFQ0bDN6TzhHOFJTN01ORHdmaUJCcHMyTHp2Wlh4YVRPUExEZDNQRm1wWnU4d1FjeE1kNjRYZlk4dlJuNDhiMzlqZzVmSGdSX2QtT0Z6SEdGSzFsM0NVb0E0Y3pJWQ?oc=5",
+        "publishedAt": "2026-07-13T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -449,6 +449,13 @@
         "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
+        "title": "Conciertos en Lima 2026: lista de artistas confirmados, fechas, lugares y dónde comprar entradas - La República",
+        "summary": "Conciertos en Lima 2026: lista de artistas confirmados, fechas, lugares y dónde comprar entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "publishedAt": "2026-09-22T07:00:00.000Z"
+      },
+      {
         "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
         "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
         "source": "La República",
@@ -468,13 +475,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTlkRllsLWtCdE54Y0p4b1dSZVZvOXQ0dDB4TnhmRWNZNGJlS1U4N0xmT0ZNN3Q3ZWpOYjFpOVVWRDk2ZC1ZTFNGMFlfOENwUnhTQktGdHRvNVNzY2I1T3puZXJiLUlic2huMUI4WENtemEtbTlPa00ycDgyVjZIUzBOTHh1VzRfV2NTUDQyZGNRcENTTGpVT0VzNHRWdG5iN2xnZFMwYWJBbHVuVU8wMVdYMzhaTmRsU1hnTVU5aUhxNWppRHg4eVVtZFpJODlIYmJaUm5WZ2Y3cEFBUTg2QV9ROFBBZGVFY19ncmkwc0lDUzBZT1FFVVhyNXg0YV8xM182a0Vlb9IBogJBVV95cUxPdElaTXBGNnNMeXRNU3BOYk1sWlhjSXJ0OVVrNGVMd1lweXJ1WTBQNWdiQk5adDhDSmJxNERrcEVhYjNKSDBfZUEyLU5fZVVrRFo3UmI0OVBTaGlDTVk5MUo2NmtYdi1sWWxtNHFhaGFwMjlLdmJjQVhzSHhlUHZfS29ZSWFxdld1N3NuU2s5bjJSZ3dyZnVLbEQ0dUhkQUk4eDhLY2lRekhiQndkSXJVNkVMWEh1SWRSTHJfVnJPVlRZd20tYVd1NVpjUGJzZkVmSUE4bFdRN0pYbGFHY3pTRWZnbFZkUjFfMkJOT3ZUYlpjaV9iRmlheTgzX24zZ2dyN1dFVFVhRGZ2aGs0RjljdU52czZseXJ5OUwyRW5JZ0s5Zw?oc=5",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
-        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
-        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "cultura": [
