@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T08:20:11.111Z",
+  "generatedAt": "2026-11-01T15:32:45.407Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -15,6 +15,13 @@
   "topics": {
     "politica": [
       {
+        "title": "Gobierno de Keiko Fujimori presenta su plan hasta 2031 - El Universo",
+        "summary": "Gobierno de Keiko Fujimori presenta su plan hasta 2031 &nbsp;&nbsp; El Universo",
+        "source": "El Universo",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObm5rRm14dUJMY3hGS2hTZWJrT1V1YXpFSlNPa1pzX2o4M1Rna2c5SWh2RmpIVjdQLWh5NGJYbVQ2bXJOeWI1LWh3ckVxRmthdUg3Q1UzNW9ManRFSjZZUkFlcC1vajFaRk9IWFUtSmFUX3J5amVIa1RwM01KZGxZbDU3WUxFSnNRZS1pVWhGS2NaRFF0R3ZGYmZGX0J2dlA2dGNFSVd5cE1OR1NFQk5J0gHDAUFVX3lxTFB3N0NwTjk5WnJ2WDhlUnRzR3RjazRHdzUwbjJOTjNjRGh5TC1nUGtsazF6TXdYamw4RGtWcnVIckt1SWJaQkotcFBvZ0RscURiaXhSa05wakFvWHJXdTZ2eWhGOF9kbkVPQTFXSjBwR1hlcG5TdFFzckxGT2cySkxkY1R3MlhtdnFXMkk4TU9HRjZPMlZsdEVZSjdCYnNUSm5rT0Vwb1gxR3d6UlFyNFItTi0tMUVCdTRyTTVYbUxvQmM5SQ?oc=5",
+        "publishedAt": "2026-10-30T16:55:00.000Z"
+      },
+      {
         "title": "Keiko Fujimori evalúa sacar a Galarreta de la PCM - La República",
         "summary": "Keiko Fujimori evalúa sacar a Galarreta de la PCM &nbsp;&nbsp; La República",
         "source": "La República",
@@ -22,17 +29,17 @@
         "publishedAt": "2026-10-27T19:12:50.000Z"
       },
       {
-        "title": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" - La República",
-        "summary": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUW9CRGQxUjE5aDVCU0Y1UHBkb1NXdkk2ZWJBLWNvOG5fNEtZLUt3elZRSk1pemJzVXJLcVpFZXNrMjlIckV5WEJLZEdtWTBncnozbVFFbnVvcWYtUldGbjV4bURESEVRcDIyeE5BRG5EV1MtZkZYcFVWek9EbmJyRE40S1dDMTlYSGU3ek9RaWRPQnR6bkg3VmRTVTZRN2FDeDBBWlIzYXpOWko4cmtzWkhKZUJLQS1OcldjUTRjcTJqbU5pSGpSOWNXd1VHTk5LaVdjM3RMZlY1M3hfQXNxYmFxNzRFOEF2UG1qT2J5QlB0NGVCT2VNcEZicWNmRHPSAYQCQVVfeXFMTmc1Yk5jZ29kMFM0VWcwRGh0TkJoa2FMOTNueXdiaVhCTlAtUFg4N3BVNjltUXYtRElCSWVKbG9YMGh5V2dfcDFZNzlxNjh2a0xJS0QxRHFPdU4tdXh4OUJuZExhZnlEc2RNWE8xc3dlS3Y2WFA4V1Z6anBhckNscDNJYWFsOFctUVF6S3d3QXd2RlJ2ZzluLWc3czJ6RXQxWVI5bEZXNmo2bGlERjYxSXpUQUw1REY4TnR3SHE5aFZWeUlfbmpad1p2bUhvSXhKQks2T3JiU1JnQ21aM2RpRHdlV1hzQU1vU1VEc2FaMFp5Sml4X1lGVTJXU3FrVk92aXVSRm8?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
-      {
         "title": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” - Infobae",
         "summary": "Sheput pide no “arañarse” por dichos de Keiko Fujimori y niega cierre del Congreso: “Es teoría conspiracionista” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVRLVTlDaWR6SDhKV2hsdHdRRjN2N2tKSHVxUml3V2tRNTFqdWlRcjdzOEpZaTRLTUpZb19YSE1FOXB4QU00R2gzQ0tucmJENmcwSGY4SXBpUEY5NVZpaElISDdGQWRCMkFCTUF3ODNrZFZkbTQ1d0g2b050bVZfZ0MtNzhaN1paeXM5NmpwaHZvX3NDWVRONXp5UXF6cWMzMFVsQ3dCU0E2WkxQUms1MWR2LWpRaWN0VWRWVUVfTzF3aUQ1V19SenU2ZS1fZVlsTHpKc2lLZnVmQ05VNkVvYWR30gH8AUFVX3lxTFBCWDVFRGVZcWZPcUhsVHlHb1E1aXM4R1FlSUNObkFDRkV4aDFXYjVmSE8tUDVVdUJTMkF6bVo2aTdDQ0YxQzlxaFd6TzFjc0RXMmVVelNMNUJKdGJxWXFQcDNWb1pDTGhFc2JsQ0plQkc5X1RJbWVvd3hFWFZQNjVrcFZ6c09kcTVFVldEM2d6Yjd6cXBaWHlMWmU5NnAxR3Q0bFBZbGwzNEpHcGp2WkhaTkM4eXlhVDR6M2tlUmFYN2VRWW1vNXdVTWo5UGE0V0NURjVWcXdhZVZpYVJWZUUtZkRfQ3pYeGJSVVVjY3hzR1dmX0g0SjVNUFFjeg?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" - La República",
+        "summary": "Keiko Fujimori advierte al Congreso ante posible negación de facultades: \"Están poniendo a prueba nuestra paciencia\" &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUW9CRGQxUjE5aDVCU0Y1UHBkb1NXdkk2ZWJBLWNvOG5fNEtZLUt3elZRSk1pemJzVXJLcVpFZXNrMjlIckV5WEJLZEdtWTBncnozbVFFbnVvcWYtUldGbjV4bURESEVRcDIyeE5BRG5EV1MtZkZYcFVWek9EbmJyRE40S1dDMTlYSGU3ek9RaWRPQnR6bkg3VmRTVTZRN2FDeDBBWlIzYXpOWko4cmtzWkhKZUJLQS1OcldjUTRjcTJqbU5pSGpSOWNXd1VHTk5LaVdjM3RMZlY1M3hfQXNxYmFxNzRFOEF2UG1qT2J5QlB0NGVCT2VNcEZicWNmRHPSAYQCQVVfeXFMTmc1Yk5jZ29kMFM0VWcwRGh0TkJoa2FMOTNueXdiaVhCTlAtUFg4N3BVNjltUXYtRElCSWVKbG9YMGh5V2dfcDFZNzlxNjh2a0xJS0QxRHFPdU4tdXh4OUJuZExhZnlEc2RNWE8xc3dlS3Y2WFA4V1Z6anBhckNscDNJYWFsOFctUVF6S3d3QXd2RlJ2ZzluLWc3czJ6RXQxWVI5bEZXNmo2bGlERjYxSXpUQUw1REY4TnR3SHE5aFZWeUlfbmpad1p2bUhvSXhKQks2T3JiU1JnQ21aM2RpRHdlV1hzQU1vU1VEc2FaMFp5Sml4X1lGVTJXU3FrVk92aXVSRm8?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       },
       {
@@ -62,13 +69,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHhlZV9iZ1lHSE01dEJyTlJIVEtva3NsVEpYYlBscDRYZzhXOGY1a1lJZHVWM3pvZ3pDMHdvQkVDdlpQOHl5Q1JYUFFJbFJpWWhmYVYtZDBDMm9XLVl0T2tEcDl1QnlYbkY5Y19NZUVyNUhaYzNXRzF4RTkwQzN2c0kwV2pVN3paR0Y3bVI1dDhvalVIWHRudl9vSGJ5OXh2Q0daNXFHSDBEdzVPRGZMRG9TQ3FJV0tkZW1fcU84dkdtOGkxRHVGRDZn0gHkAUFVX3lxTE5sZ3gyYUswNkFqR3Zra1JxLUxEcUtiYmxpSnByNVV3NElzeXdFTmFSY3NhbWpLS2drV3ZQd0tMeEp3cWoyZUVyMVZtbFdzZnhuVjNzMUxwSmhmZFlmTkJ0MExibmhTX21kYzc5N2Ixd0huR1hfRW9uWWtqRTBXVTBJOWRPNFhUcU9TM2Rkb3ZpdlhMLU9FYkFiekpTczNOWkZ6S0JxR3BmWno5b2k1RHRlUUowczBZUWtGTHJ2TDFkRGw1dFBwQzBHcU9wZHE2YjBuOFRjQ2N0Q2JLOEZzTHVacjczQg?oc=5",
         "publishedAt": "2026-09-12T07:00:00.000Z"
-      },
-      {
-        "title": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas - Exitosa Noticias",
-        "summary": "Gobierno solicita al Congreso autorización para que Keiko Fujimori asista a la Asamblea General de las Naciones Unidas &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXVFeHN5ODA4dEFpY0hYcjZDdVNhbm9TVmhLSUFvMXJ1MUlCR0hpanB6SzcyWXhFMkl3NjFBa2FPdG9rRDd4LTlfVG9LZ1BQZjJNTm03OS1XUkRMR3B1c0EtQmVLcHZVNW1TRWdZOVhxM1Z5Y0NKZFdpX1RrRVV2WEJsdkJqSDgyTWNFYW5sWXBtVC11S210cXh3VXN0NXVEQ2N5UXlscXlDcGZ6T2o3NHk4aXZjeXlnWnA1U09tN3Z2clA4cXl4V0VDWkQtZDZhWkFJOEdFd3R4QQ?oc=5",
-        "publishedAt": "2026-09-11T07:00:00.000Z"
       }
     ],
     "economia": [
@@ -77,7 +77,7 @@
         "summary": "¿Se puede retirar la CTS 2026 en Perú? Sí, pero en 2027 cambiará el libre acceso &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUJmaVpmNjA4SldESjRrMS1oR0ZFdnhMek94cHl6czZ6bW40YzgzWnBPMGlaelRLZk9SNUZtRjlzcjNET1JBNTdraGJtS2RnSVN3RHlTdXQ2S2ktcWIyNW9aNzFGQnFRYUZXRm84WHlHUHpHR0lzNTVMQlhwQWJZazhHV01KZzhrN0xnNXBkcHZKMm52REJCWGpsbVY2NGJBOHRTUTdpdTYyWEhJRmZWeGxJY0Uxd25udGfSAdQBQVVfeXFMTzZSU3JMVGdGUDJfQ0ZSYXItRXFCU3JRNVI1QTUtX29WQ2c1TG00WU1LeW96MUt1UjEwMUF1Y0hWdkZINFlCM19GZUFjN2NmZDhEeHJldHpzVjlXbjN3N0RDWVoydm12a3lDYzhHUGt4amlDMGFBVm9VSUFvb09WaFk2cTZpOTJPckdBd1puNG9NVVNjcWpaN1hwbEpXX0dpYl9kSzFKMlV4QzhScDE0VlFrQ2ljRDNSNXhMTnhaWS1TXzNIVXZDZ1B4MXNtS0dBNDNVNng?oc=5",
-        "publishedAt": "2026-10-31T18:15:45.000Z"
+        "publishedAt": "2026-10-31T19:11:00.000Z"
       },
       {
         "title": "¿Por qué subió el precio del dólar en octubre en Perú? Y lo que le espera para noviembre - Infobae",
@@ -101,18 +101,11 @@
         "publishedAt": "2026-10-30T13:52:31.000Z"
       },
       {
-        "title": "MEF proyecta que economía peruana crecerá 3,8 % anual hasta 2030 - Rumbo Minero",
-        "summary": "MEF proyecta que economía peruana crecerá 3,8 % anual hasta 2030 &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdi1ETDgwbkl0azNqVmVZOHlSOURqRDVSYWlUa3RLM2FOdl9PSGRlX1V3TlBZWmdzSmJoRHhBSnJNU213UEtOaFNlUFRtYko4dE9aVjJZWTg1OV93ZDR2cWg3NUJ6ek1EUDlOZWRSdW1vYVM5SGZ2U1BIUmxiSTR0d01FLUJnQlNUaUtMWlBuUHRIcmpaM3lnQngzWE5zbkxtZjEyeDVDa2pVSXE5RnZYODdMQQ?oc=5",
-        "publishedAt": "2026-10-30T11:10:23.000Z"
-      },
-      {
-        "title": "Precio del dólar ya superó los S/3,46 en Perú: Así cerró el tipo de cambio hoy 29 de octubre - Infobae",
-        "summary": "Precio del dólar ya superó los S/3,46 en Perú: Así cerró el tipo de cambio hoy 29 de octubre &nbsp;&nbsp; Infobae",
+        "title": "Julio Velarde logra la máxima nota mundial de banqueros centrales por segundo año: evaluación es de Global Finance - Infobae",
+        "summary": "Julio Velarde logra la máxima nota mundial de banqueros centrales por segundo año: evaluación es de Global Finance &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSllnNm1lMGxDYl9QQmlWV3doQVpVTHk2c2RlNldocVRHTl9Jel95aVpUWFE0Q1AwaFlRNWpCVFhsXzVwS0FyeE1XVzRhWXJMSXhGMGZDSHdRVWo5dXd5dWhGUHA4eVdNb0N4OUZidWQxS1lqcHRLUUNhcFZCakFRYWFrblpuNm43cG1ZVkpKWUlPNS1xWFpmN2Y4eDYtczQ00gG7AUFVX3lxTE51YzNlbVlHZEt5dGd2Z0EyalU3dnNWWHJGV01yYkxOSERGT0ZNY2ludGlMS3JvYzhDdGhSWTNEZFhOc3BpQWR2d0dNVUVWMGZvRU94TXJHUXNTZEk2Vlp0V3pRM1F3RE5RVzZ4NERsbjdJUEM5ckcxMFFTXzc3YWl0N1lKeGd2U1c1dlhlVk9MZjNPNzZVcnc5aDlFbF8xOWh6TFpUT3FfSENOZXM2OEJaQUxfNmRiZ0JRX0E?oc=5",
-        "publishedAt": "2026-10-29T20:07:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOEtxYlNvZi1NbldMZGQtT3huWjczTlZZQ3lGdzF2MFdSSmVXMEFUUGhzOUdEWHM0eXk2R1NjcndxOXB3SWowYmlVdEc1SXRXZE9Bb0x2a1JSd3JYZloyLVVQYnFnRU1YVlNfalNCZUo2Y3U4aGFVZ09wZEc1N0pSWkkyTWswdWkyVE51dWY4RUlyRnFqWUFDSDZLaENJWERQVWdEZXVpbVVDSXVxSFcyS28yTlQ4eWxJejNvcjVFV0dQYnRkRUZUZ0ZIZW5ocmdoMGZOYzkwT2o2NUo2ZVR1U0pJV2dCcEcxb1HSAYQCQVVfeXFMUEtIY3V4YXpkazVwRU00QzJ5TUx5NFBETUZMS2pmUHRNTGNIZ2VtREdqNUdJM01idmQ1NVM1RW9MejJRSFV6Y3NqOG1NZTg2QWdETWVmWjhiRlRKNG40VGVaWkVocV9Qa0xsdTRNbW1PQ29DcTI3SXdRSGROa1ZjS1EwU3ZvN1lvcm53TkxFQnF3djlnRElyRVVfZ2NOcU9pQ0N3STN1am9TOVNTYXpkMlYzaUVjMklKSDZvLVNHLVZISXBLWnVIWXpnUVNIUU9aTmhnSkNmYnA5a21kQjBDa085RjFNT0N4VmVYWHozY0JzRXViQTJwZUJBaHpfaHZ2VUVLSnM?oc=5",
+        "publishedAt": "2026-10-29T21:07:00.000Z"
       },
       {
         "title": "Nuevo sueldo mínimo de S/1.230 ya se paga y Sunat aprobó nueva versión de planilla electrónica - Infobae",
@@ -127,6 +120,13 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY2NRU1ZGT1Z5TDV4X1NqYl9qOElacWdfSi14ZkZYRzZUcmRvdEhnSGt2RG51OE1CRjFlQTVkdHNXXzIyLUgxX2dHbU5vNXE5bVgzeHZLM1M4U1dtNjI3cUJzdVpFalR6b3ZkNTV3V0l2WlFvRXRJZHZxWlJSYzFvbGhnR3A1Q1lGY01kREltMmhoX0VWczg0ZWcyVHVsWjBGTFdZNTZIWks4VTlvMEYxbl9mWDZJNk1fOVN1NzV6SWVaUWpZV0U0YUx5SlJzTDJGRWdUWGtVUWdKdWE5S2ZDNjhNU0fSAf8BQVVfeXFMUG1lX2NuRFA5TTFxcVJLN09BQ2pkekJONGNvWHUxZ0txc3VIZWh4VmRUcWRvQ0lJaW5WdTRVZWkwRjhVNzc0TU92eTk2c0ViYmVoWEZIeFBreGRWMXh5b3huaXpiZUVkbTB3OV93TkFXeUMzSUNwTDROWDdINFdVSzdaVm9tQ0hjelZBakNnR0tZZkVKQXpBQUJSQktlVHJvVzlkNWI4WVZ5MlZ4Nk9CQXdoOFJmWkhGOW9HZ0RjQ2dXSzZOVzllSTE0VE5zejhGS3FBeVg0NGhILUg1dFVRS05IUVpJT1AtOVFVLVFzU2gyQ0JWUEw3MHU2NTZGZ1hz?oc=5",
         "publishedAt": "2026-10-29T17:44:00.000Z"
+      },
+      {
+        "title": "Pensión 65 sube a S/700 este noviembre: ¿Cuándo se pagará el nuevo monto? - Infobae",
+        "summary": "Pensión 65 sube a S/700 este noviembre: ¿Cuándo se pagará el nuevo monto? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFVnaFVsUFF3NWRfUGdMX0ZLVk9tQXRaVFlfSXd2SWh5UV8tdmVKNnZ6SnNvVG5aNTdub0RqVms2NkJ1ZEcxVWNYS3RhYjA5dng3a2VTQ0JZMHZsZmZwUFpUeVdmWi1tV2wwVHhXVlhZUkVFTmcxYnRGdmlGRTBFQnctOFhnckJMaEh2eTZSZllxbzBXRnFrUWtrNENITkxwWUwwXzVDN25wblgzWHRJ0gHKAUFVX3lxTE5BZDhoX2Uzb1NZeG9Yc1NkaTlaM0kxQUtwSFRma01JN3RFaEFHM0xGUHlkSnFUZEctZ0pTOVRwYzZfenJ6UTU0X3ZROXBBVmloWlJjN09ZZzJGYUF0NTgwRThQUFlBRk9NTmwyUXI0MlFYTFB1U1laWFcyaWgyQmdKT1NWMlQ0V1ZLaFJrb01Pck1iYWdaektrbkJ1SklabjY5cU9iQU9CVnlEYTJlclhNaXY5Zlp4RmQ2TE5KSWFrRWtZZTVZckhJM3c?oc=5",
+        "publishedAt": "2026-10-29T13:03:00.000Z"
       }
     ],
     "sociedad": [
@@ -135,7 +135,7 @@
         "summary": "Keiko Fujimori agradece invitación de Nayib Bukele y destaca agenda sobre seguridad, salud y educación &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUdqY3h2WlZWdWJ0TXc5d2JveHZDOFF4SjRGclA5YUJBcmp4c3l4WkRkMUF5TlFCOG5UUWJPOHN4RXdGdEZVSWJiWjJSRXdxVUZzdVZLSVRrV2NwVmN2UkQ5X091eXFGam44TTZ0WmNmazJFVWJaODItWDVBMWdnNG9xZjJqQ2NrTDZHQzVrMnoxVks4NU1lOWYtX1N0SFBraW96WEJIb0Nxb1ZqMUREZnRFVER1b3NiZDI1WWcyemNRRmZvSEtpWFNnMEFCYkpGUnVXOXRzV2szSTNwQmNlRUhFNNIB9wFBVV95cUxQSUpjZ3A3XzB1Q01jcFo4NGViaEl5WnVadkpTZE1DRUNmMHQ3NGV1WlY5eEpDak05R3o4YjhiSmdwNXd3LVNJQmljVkZxa0hRM3BvcUN2SnBCYk9vYzhNZEUzckpxMkVpYWZTU1d0bUdJbVFZbEsyQnF3TUtaMTd2U29rcEwxWUVPSldCOTEtb0c2T1Q0Wll2OUhuN3ZNYy1MMFZNTUVUTEZRd3BkUzc3NlhqSDV1bHFOd082ZGl4ZjNQODY2T1RtSjZjZndra2pWWFllR2xDMTlTWlQ0UDFFQ05XZDAwSTkxcDRpbVVKRVFvZmViYTlB?oc=5",
-        "publishedAt": "2026-11-01T05:07:49.000Z"
+        "publishedAt": "2026-11-01T05:11:46.000Z"
       },
       {
         "title": "Gobierno presentó la Proforma Presupuestaria 2027: esto se destinará para salud y educación - Ecuavisa",
@@ -143,13 +143,6 @@
         "source": "Ecuavisa",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlV1T2p6ZzRmbUttbThYcjNZbXR6cjZLdHF4dGZNZ0RETHZlTnBvT1dUVHR5QklKT2xOUjUydUhha3RBOTQ0ZGxzLV9ucGlxcGtYaVZYRk1HVTBqTHFmTmpIZHllcVFmaWtPbkNJcW1FU0lGYkQ1djdvNW0xdWFRSVUtTEJ1WlVzaXB2ZzRSVDQtNlFaV1JsckJ6ME51UWxq0gGmAUFVX3lxTE1aeUV3QTFfcWhSQjFmTFRvdjdmVTNkZVJaaWVMamR6UUx1bk5OT1VQZ1Axamx3S1F3TEpjY2pqa29pVTU2WFNKVDdhaURhangxcC1DNVF5QWpIT3h5SXhqQkJUd2Y2dzZLb0ZLbXVGU0xtUl9yX2xBd2lZSDl1M0FOUGVJb0NyUHlwYjNFZ1dWQ3FGUDY3RTFuYXQxQWRlUDV0dU9GS3c?oc=5",
         "publishedAt": "2026-10-30T23:53:17.000Z"
-      },
-      {
-        "title": "De promesas estatales a derechos exigibles: el avance de la protección judicial de los derechos sociales - Diario Constitucional",
-        "summary": "De promesas estatales a derechos exigibles: el avance de la protección judicial de los derechos sociales &nbsp;&nbsp; Diario Constitucional",
-        "source": "Diario Constitucional",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUXJiSllIeGZiODMxdmNxRDh1UHFvd05nOWVTSk5la3ZtbFdJa3o4czlDazBpRnJ6SmhzaHp2akVRTUJES2xIdGdsOUR6eVdyNWdsRGVjNjVpU1hRZ0ZlS2lIVkw5YmRGZTlzdC0tbHNORk1hQXpFSjc2cDNNVkcyUGMzUEp2czJHeDZhVWRJaUJaM0ZBeU04T1doaEpTR0VUS2FuYk1WeDVKUnI5QVo5UjQ3MUVENkZyeHpjR3o5clZxVnh6RU9YR0FTVl9yQVEyR3FWWjNpcndGcldLaU4wblBaaW5lZw?oc=5",
-        "publishedAt": "2026-10-30T21:17:04.000Z"
       },
       {
         "title": "El Salvador y Perú acuerdan cooperar en seguridad, salud, educación y comercio - La Prensa Gráfica",
@@ -185,6 +178,13 @@
         "source": "Noticias SIN",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTNmb0RDRzM4bWJ2aXlEc2tmOXEzWV9vczNSaUxTamFMSk80SmpkdmtBa0R4Y2R1MjVlRVNSakZfbW1vRWxFTnljcWdJbE45OGJickRGRXJKdUd6ZHEwUHo1aVFuODFtUkxZYlFuX29CQ2VNbTh2aHlvODFnR3Z1WTA0ZW5XZUlzV0ZvX0U2aDFvaDlhMy1faUYyUVpCUVlxY0dwQlBMZk5POS1zcmZKLVUyZTE4Tkh6M3A2NTFBM2hxY3l10gHMAUFVX3lxTE5Cak5mUzRvbk9FZ05yZ1dmNGhyRlduU09hU2hucWEtc0E2X0U3cm1lbDBsSFV6bjZBYUdZVVc2UW56c2k0QTJtWDZteDF6cUFtQXB0QmNLdXBaYl96TDJsRTRIWUNoZHktWmxiTWo2bDY3ZTBRS1F6SzBoV2E4TUpNT2pJOG9uMUdnUzhuMzVYV25hd1FzV0xDb29EVzFNbzlnM2tqcHZqbTVWaWtXUzQxMWNRQWp0Z0pjUzZhdzIzMlRkQTVWVTdheFhaTw?oc=5",
         "publishedAt": "2026-10-30T02:29:48.000Z"
+      },
+      {
+        "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
+        "summary": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVA5dUxEdV9TY0lnTFJkOHZWalV5RTJvMkVvcnBUZTh4cV9JYmhLbkU3RDZHallxMnlndEFVSmJZcnkzN1h6MlNUQm5zWl9IR0FfZ3dxZm1NX0IzZHRTTHdZS1VjQm55d2JwZnZJZHd1bm0yczcxdUZYV0c0RDhkTlFqMnY2NFRkeUtlbG9ZMU1wb09oTF9yOW8wU0RTa0lNeEw3WnpITXdSMGViaHRpSFlZNEMyMmhZbVR4aGJlSlYxZTd3NVV3R3R4UDZZWlVjNEE1bUg4a9IB3AFBVV95cUxPMXY1VVpCRUx5MHBpcHRUa0xsaC1XUFZYeURlMlpGd0k5SWNCLVdhbnlZbFR6d0V6MGRlcGFPN0dBSU1IWTY5Ml9lc0xnWHNiWEE2NnRDSDY0azk0dUdZb3J2cGNzYVFCOG5Ucy1ObnhBcS0tNjZZSVJiNkNkZHA2YS0wLXU2RnJPT0tOblpWeXZENFdJMkhGSFNIMGp3VVhwR2Q0RWVYRllJVlNLa0c0SGVsdThtdTVoREhCYmMtTXhKWTdQY0hva1hDaTR4ZnlqX09LV1FmMXlsOER3?oc=5",
+        "publishedAt": "2026-09-24T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -380,7 +380,7 @@
         "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
         "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwycw?oc=5",
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
@@ -439,7 +439,7 @@
         "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
-        "publishedAt": "2026-10-06T07:00:00.000Z"
+        "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
         "title": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje - Trome.com",
@@ -447,13 +447,6 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeDhpck52bTJ5alVWN3U0V1dsVHppWHFQRV82NmlxVTJhZG5WRVgya1RLWGtPSTBXVWpPbGY3ZFNVdksyZ0VvSG14OHFkWmlWc3MwaW9KTVREdFVDZUdYdmNJSXZ0cmY5NkRGZk5KTGVGWlVQdGt2VVY5dk80RG1qcTRYdlBHdFNhbFdaYS1NRmhYQVl6OUt3V3daUzdabWNXcDY2R1pkS3l6OUJTS3ZMZlBrRHBKZ0tKU1Ewc2R0N3FoS1VVU1FTYklVTVZTMW42VjVEbW9MSzE0T1ZJdDctMUVMcVpEUDVHU0NZcUdXSWVKc1g5eUHSAYoCQVVfeXFMTzIyU2Rna3hnazdJN3NlTmc2SU8yM0h6ZV8xaDgtbUx1UWc1aXE5SVA3VXJZVktVQ0ZGckhHREQ0OHVKR0szRnVyM2RpcmhQbGFESzRpcEZiVXM4M2d1b0daeWVmcmNReWpOUFhlcDR6MzR4NTkwOXJDdEdQRmk1NEx4UG91YVJKVGU2YWlDX0FCbUJoUnlUc242cjJkR3d2bk5zbEg3ZU1wd0RlQTJMT3ZZNE5kSlppV09PMWVoRk5pQm9sXzlVbFBKLWRCUWY4SW9FUk5oUGQxcW1ZTHhiUTA4WjdPalo2R201LU91NHA2bm9oR0IyanY4SHFvUFl3b2RpYS1fQVlWTmc?oc=5",
         "publishedAt": "2026-10-02T07:00:00.000Z"
-      },
-      {
-        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
-        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
@@ -475,6 +468,13 @@
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -498,13 +498,6 @@
         "source": "Peru Travel",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSk5pdnNleE1JY1dxaVBVSHAxZlBBdE90czduZmhEdkdYdEVmbE5tWHpOb19WTnNiaUhuUDdDaHhmN01QLVZaZ3ZWVXByNG9zSTZLX2ZBRGE0YVpKczhxS1p6bGZmWTFxdmZONktEUTdEUzdKUHpGU2ZkSndFN0FnRW1JMm9xdHl5YXF1TklJRms0elliSzdQUERreW1ycWo4QXpZ?oc=5",
         "publishedAt": "2026-10-28T17:14:52.000Z"
-      },
-      {
-        "title": "Papa León XIV en Perú: eventos del santo padre serán gratuitos y tendrán entradas digitales - TVPerú",
-        "summary": "Papa León XIV en Perú: eventos del santo padre serán gratuitos y tendrán entradas digitales &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdjZjX0VKQ2k4YkhpYVAxMENUV19mX2VxaXF1SGVBVWt6Qjd3VkVHalRLaDFnVXVJWE9kNnBvQUlwUVZaaDBsTk42UHcweDI1MUdycWpkZWptSURuc0JKS1N1c2xEMFl2Q01iaTgtUU12a0tmRnROUkZpcDdjUUxFQkdETzZhZzAzcDNwakgzNWVsN2p2emNlZFpVR1RmdVpzVHlTUFJwd2Q0dVJrMktUSjg3eGN6NVl5OUNkNnBncThTdUt5ektObjFsTmhQcE0?oc=5",
-        "publishedAt": "2026-10-26T17:47:14.000Z"
       },
       {
         "title": "Conciertos en Lima 2026: lista de artistas confirmados, fechas, lugares y dónde comprar entradas - La República",
@@ -533,6 +526,13 @@
         "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWt0a1JBTGNRUHdwTDJiR1lkeU9sa0pJSVNrLVhLSGEwZjQ0bUllVXkxdGNCV1h0SFV6b3ZIY0pPWF9wbkZ0UFI0OUJ0V18zdm9qeDB4OTZnN2p2VkIwRE03WENuMFJTdEJmVGhrdWd2eUhwTUpOeVdCSjlQVmxlejlxbEczUHlLRGFlYi1ZaDdpbWR4SGFqMQ?oc=5",
         "publishedAt": "2026-10-16T07:00:00.000Z"
+      },
+      {
+        "title": "BTS en Lima: estas son las fechas y horarios de sus próximos tres conciertos - TVPerú",
+        "summary": "BTS en Lima: estas son las fechas y horarios de sus próximos tres conciertos &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTI5aFpYRnR2OXlNdl9GZVNZMjRINExoaGE5MnU5SWhocGJvNlR6bkNTR1EycHNNSGU2c19WbGJDVXBKeFVjUDI4eHVSM0g3Wlhqdk5HZTl1US1qeVVLT0tITGRwMFhDU1pudjFBMVNlZUhOMDZ3Z0RLazNzZS1zTUl3VmtVRkNiNnVlbnBIN1BEdFp5WVh3d3JMa2xSNUlJM2d4cjY3N3U0OVIwb2REY1ZQcGxfMjRCVGdB?oc=5",
+        "publishedAt": "2026-10-06T07:00:00.000Z"
       }
     ]
   },
