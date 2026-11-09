@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T00:15:08.264Z",
+  "generatedAt": "2026-11-09T07:23:18.484Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -73,6 +73,27 @@
     ],
     "economia": [
       {
+        "title": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027 - Gestión",
+        "summary": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027 &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1d0dEtaYW1nNTVtV2RJSWFkMVNWZU9hbWlLaE1NaUl6RlpKNGphb2RkV0YwRk9SaWUtRXZDNTB3alM3LTNGUkx3SE81d25KQ1pIcmV6bFNaU25CQnZEZ3duTG9zbjZmTjBPRm1lU0E5VWZFSER2VkQwdkZQQ19zS1I3RDBNZ1V3U21yUU5iM0tzZ1JFbXRzUWlPcjktSUloWFFYMnUtYkFYSThhQzFvaERjY0owcFIteEFabW1GckZ0NnVXOGZsdVJqekx1QQ?oc=5",
+        "publishedAt": "2026-11-09T03:45:00.000Z"
+      },
+      {
+        "title": "El Niño amenaza a Perú y Chile: ¿qué economía sufrirá más por el impacto climático? - Expreso",
+        "summary": "El Niño amenaza a Perú y Chile: ¿qué economía sufrirá más por el impacto climático? &nbsp;&nbsp; Expreso",
+        "source": "Expreso",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZWtZRlY5SEU4dkFHS19oWExNSk5INUlMLUdhMHAweGhVZUl0bW9ib3AyWmszVmxPUk1oV2tWS0N1SlVpaEFZQUIwQ3A0SURoYmI5NWJ3ZW04Z2NhN3pPVVJQamJZTGFuWnlBbUZJX2xObE85VmhjbnEtS2F4UmNuU0p2cTh2b1Y3ZTA2WTl1ZzZ5TFBDbldmX2o5ekpod3BUV01oV3ZBTTVlUElkcWtJbG5RRGlqVDVNUW5TVi04anNjM3lYcHpBaUk1LWlCTmw2dUlDV3Y4ZUdQRzVrNEZuZ2V1TUtjM3pFQ0g5UG9tVFRjazduNy1jSTBNdHpYT0gyaC1mck1yTnI5cHFwaU5aUg?oc=5",
+        "publishedAt": "2026-11-09T02:35:17.000Z"
+      },
+      {
+        "title": "🚨 El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica - Facebook",
+        "summary": "🚨 El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd2xESnFtRGdyTFVpYlZ3eDZfWVBtUlhTajdsWko4T0xuN3Y1UEo5YWRVQllqZXA2RkpEWDNLb3Rjcjg0b0RJemM2MGgyaHJiMnBjQUlyVDR1eUJrVHROcVNRdVNWX0xnMmhZNFlBZFVVM0VrNElSUWZVM2Q0dWhDQmZHZVV1OE50bnRPTzAyQTF0ODU2dXUzYlFZemktQWtHX29hclN0OGVUN180WGhiaUtwZUZlVFBXQWRkSktrbDJKYmxoZTBTMm5TdEhzLTlzZE1RUmJPOFkxS29PTXJjNk5NNm5yMVdFVmhvUGRacnc?oc=5",
+        "publishedAt": "2026-11-09T02:34:27.000Z"
+      },
+      {
         "title": "Perú a poco de convertirse en la cuarta economía más grande de Sudamérica, dejando atrás a Chile: PBI alcanzaría los USD 413.597 millones en 2027 - Infobae",
         "summary": "Perú a poco de convertirse en la cuarta economía más grande de Sudamérica, dejando atrás a Chile: PBI alcanzaría los USD 413.597 millones en 2027 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -87,25 +108,11 @@
         "publishedAt": "2026-11-08T21:45:52.000Z"
       },
       {
-        "title": "🚨 El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica - Facebook",
-        "summary": "🚨 El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd2xESnFtRGdyTFVpYlZ3eDZfWVBtUlhTajdsWko4T0xuN3Y1UEo5YWRVQllqZXA2RkpEWDNLb3Rjcjg0b0RJemM2MGgyaHJiMnBjQUlyVDR1eUJrVHROcVNRdVNWX0xnMmhZNFlBZFVVM0VrNElSUWZVM2Q0dWhDQmZHZVV1OE50bnRPTzAyQTF0ODU2dXUzYlFZemktQWtHX29hclN0OGVUN180WGhiaUtwZUZlVFBXQWRkSktrbDJKYmxoZTBTMm5TdEhzLTlzZE1RUmJPOFkxS29PTXJjNk5NNm5yMVdFVmhvUGRacnc?oc=5",
-        "publishedAt": "2026-11-08T20:33:52.000Z"
-      },
-      {
         "title": "En el 2027 Perú superaría el PBI de Chile y sería la cuarta economía más grande de la región. - Gato Encerrado",
         "summary": "En el 2027 Perú superaría el PBI de Chile y sería la cuarta economía más grande de la región. &nbsp;&nbsp; Gato Encerrado",
         "source": "Gato Encerrado",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQemhXcWxNanZfYnlFWUZsSTJLeFgyRXAyRlNKMzNCQXp5TDFMclZIazMtX091SXo2UW1HSjVuSlBZMXRMZHNsUjkyX0UyUVdoYkFUUFlEZ3hlcEEwcW1GLV9xeWRPcU5xanVhajFGTlNXdE9rM05yZk8tU1BpM2lJdS1IOE9NX3BmQnZKbnNWbVFqWlRVN1Fmc2ZfMVdIZXgxaTBvcjVvTEJIMG5oOXI4S29FVUtCczZUTk1VZ3Jmang?oc=5",
         "publishedAt": "2026-11-08T19:19:22.000Z"
-      },
-      {
-        "title": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027 - Gestión",
-        "summary": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027 &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1d0dEtaYW1nNTVtV2RJSWFkMVNWZU9hbWlLaE1NaUl6RlpKNGphb2RkV0YwRk9SaWUtRXZDNTB3alM3LTNGUkx3SE81d25KQ1pIcmV6bFNaU25CQnZEZ3duTG9zbjZmTjBPRm1lU0E5VWZFSER2VkQwdkZQQ19zS1I3RDBNZ1V3U21yUU5iM0tzZ1JFbXRzUWlPcjktSUloWFFYMnUtYkFYSThhQzFvaERjY0owcFIteEFabW1GckZ0NnVXOGZsdVJqekx1QQ?oc=5",
-        "publishedAt": "2026-11-08T17:45:00.000Z"
       },
       {
         "title": "El Niño amenaza crecimiento de Perú y genera riesgos para la economía chilena - Prensa Digital",
@@ -120,22 +127,15 @@
         "source": "El Mostrador",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTVVVOTVrdFQyc2JZUm5MRkV4ZWJETGhPc196MzFvc19zWVZqUXBOS19GRlZvVUhmdlZLdFlacVQyZTR6aHlQSVh0WGdhVDlVSWxITmRoOW85V0V6bGpZSm1rRDduSjE4ZlhLZGdlbDVxYUs3OGsxcU1KUzN3V0M0ZUtUVTR6TllOQUFVelk4a1M1RDVYUVRsQkFzbzN4NDBxM2w0Wk1Bd0VsX2NPR1RGekJnR1dtWDFKWXhzVVI5Tlh5QVBDc2h0YmZQN05rSkZmQnRKUHl3?oc=5",
         "publishedAt": "2026-11-08T15:30:45.000Z"
-      },
-      {
-        "title": "El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica - Expreso",
-        "summary": "El FMI proyecta que Perú superaría a Chile en 2027 y se convertiría en la cuarta economía más sólida de Sudamérica &nbsp;&nbsp; Expreso",
-        "source": "Expreso",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPakk2V2dNZGQ0b3gyaWRyUHFyTGFJSjBiY0lVd0NQSXhfNDV0TGJvMGxIOE1ROGhpMlRSMFh2N3VuNlQ4djF1WnNLeTduX2Q0b1lhQmVXbnNwcDFFR1BOeVZ4VzR6UFEyNEZXaGszVnB5NkVDM3ROdm1jX25QODBzc0tPeGVFenhyM3R0TERnS2V1QlBiS2hQdjlKMkdpdVBRZWFPMlJDdmNnQUV1QXFVN3BPRUNEcVM3Y2RHdFhmU2l1RzJNVEVodFNIV1VHRVJSbGxjMXZiTnZtSDdZWTEtOGhzSzg5dUlVZE84Uk1nbmZnblNObjZIblV4a3lXVFcybFVPX0V5Wk9lNkxN?oc=5",
-        "publishedAt": "2026-11-08T14:30:46.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "Detienen a mujer señalada por presunto intento de robo en comercio de Cuautlancingo - Reto Diario",
-        "summary": "Detienen a mujer señalada por presunto intento de robo en comercio de Cuautlancingo &nbsp;&nbsp; Reto Diario",
+        "title": "Detienen en Cuautlancingo a hombre señalado por agredir a una persona en su domicilio - Reto Diario",
+        "summary": "Detienen en Cuautlancingo a hombre señalado por agredir a una persona en su domicilio &nbsp;&nbsp; Reto Diario",
         "source": "Reto Diario",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVk2S1VRZm1za0x1bDVEVTYtT0JmaERaeW9LWXBacEExRDNJb1N1SnF0THVZcU9UdGFpal85QXBuYnZvRUdjQml5MDFhdEhMQzJ5MlZpNVUtRDd1NHBrejJRS3RMZXJBSFlxSkN3MG5zNzJGb3BZNWI3UmprX2ZfRDlhTXVudlozVWtVV3hINkRBb0ptbnVNSzFoOWIyREljcWRiYldBR1JTNFR0TlplSkpTcUZpcUEyR2JueW5SRUlZNEoyNEE?oc=5",
-        "publishedAt": "2026-11-07T19:33:26.000Z"
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONm80cjRpQTA1Q1pidmkycC1EU014elNScnYzaW1pdHRtZVdGRUkxdDFXc0pBV3JIVFR4VU4tREE1N3U0TU0xbzlDNG1ieUFGSTJBeWdUVjNhN1pGQS0yd01GX18xc1NhVjZzdTR0eGwtWENhZXR6YVdtM0ZON1hpaVNMc2ZOT0hHNC1FOXVMMWhWTVNmdC1GcFhHWWRNMUNFUGRWaGdadnlncmtaZVJNT3FCcGIyU3pZQU90S2p3a05wMWJDbms0?oc=5",
+        "publishedAt": "2026-11-08T19:49:19.000Z"
       },
       {
         "title": "Efemérides hoy 7 de noviembre: Perú conmemora el Día Internacional contra la Violencia, el Acoso y el ciberacoso en la Escuela - Infobae",
@@ -150,6 +150,13 @@
         "source": "Caracol Radio",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlN0bWsxX3JyRU1JWmlpRll0OVhhVUVQUjBxQ3RiZUVuZmRaeWpvQXdYZzJzVWRMdHEzZVBxek9FNk9NQ3lzTmJ4RGhFMVh2bEprQXRaTlp2djRWSUh0TWRFS3d0QXBmNG9teVN5NkF5eTl3d2p5Q3l2aWxhOEkyZ1JSQ19ILVVjUDBYLVU5MV8zZ2NydDlXTHVDWTNpblB4TmpQdV9zTExValZxNDcyUWplR3VLSHNWbmfSAc4BQVVfeXFMTkdZam5VQzBrTHJUUVhpaGt1Q1hvb201MXhIWDlReVFlbjZiVzhwQ1ozVS1sWVNPUFZEYmFtaXlYWERSdS04RG9hdUJyekpETGRicDZlcGM1ZjBGdTh3QkttbVF3TDZIV2prdUwtMmlsNS1mRzlrZ25fUmhFcTJqLVA3dUhZNU1oaWRlb3NOMmhwN1M4OVJZaFlxR0JkcW8wT0xPUFV2ZGxBeDhrRjNlZzA1c2V4c2JiZjdWS0ZJbExxNmJ5c2JwdUdjSmlaYXc?oc=5",
         "publishedAt": "2026-11-06T16:17:42.000Z"
+      },
+      {
+        "title": "¿Habrá clases virtuales por lluvias en Lima? DRELM pide evaluar condiciones de seguridad en colegios públicos ante riesgo de inundaciones - La República",
+        "summary": "¿Habrá clases virtuales por lluvias en Lima? DRELM pide evaluar condiciones de seguridad en colegios públicos ante riesgo de inundaciones &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQ2Z6Zl9ZQmYzWkE4VjREN2FKMjJ5MUEzTk1OVEh3VTl4VTBtcFIxN2hoWVBma00td2dicmdQZkFqcXJnM19mclRRZUxIZTZMX2MzelF6WGxGVzRDeF9GTFp1eFcwV1VKY1oySTZTZU4wNE14MkNtamtLd0hTb09zd2kxYzBOLXVCa3Nudy0yZ3hoVHpza0RVdnJyRE5CMERuZ2wtMnUxVGQ0elFzU1VLQllRdGFSdnYyZHpPWmpRMnZoa21aN1ItZDNqdF9SeHFrZm4zbWhfbl85QlNDTXFQUno2WGZ4T0tBRnVWSjhfT0RsNHhJZWk4MXZlSHhBUUhfZFFYeW52dnVDVzE2djFDTUJR0gGXAkFVX3lxTE9ReG43ZTgxZGdsVFg3VkFSbk5VRmFPU3Vya21LYWNRNmpIVFI0ODFQeVpndHh3V0RhME9XWlNTVEpPMzZoamhQcjM1Mk43VWhWZU1YYkpoN0Rnb29yNUJsM1d1c1RyMk92NWhidVBuaGFsSGduUkhZa0h6LUpRZ3NyTXhXSnJhQlZsalNIUnM0Y1Jad1BpZ0NqSjJiQ3pFbWxNa1lDOTVRX0xGMnVnWk80bDM3ZFZGbkl2REZKZUYxNmdGam9DbTBnZGc1WmtKWWZReFRyVExWMW0zSWVxTkh0NmJKU0NDbS1yaEtGVDZaTVVvVjJCRlN4azlvUDctQ2M4UXQ1T24zQ3Q3TWdEQTlIcERKXzZqTQ?oc=5",
+        "publishedAt": "2026-11-06T00:26:26.000Z"
       },
       {
         "title": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente - Infobae",
@@ -178,13 +185,6 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1o5c2NlVnJ6NHNsZ3A1TUNRMDJMcXllRW1JMU9fX3d1cXhTVFh6M3JidVNnVHNQQUJRMWpNTkp4RHY1U1U5dDF3RmtQRGY2bW9Ub3RNVERISG1wd1NjYThnVHpvaHFxc0hTS2JPdVpOU1lRVkZaY3ZIa3ByTi1HY18yZ0s2QXpYcEZFczR4eG1pRnhyWjJ3Nmp2Y1liVGItSWNQSll2UVZiZUViUHZHOTV2TXhmdXY2RkhGdU82NVFSeFJQYVdUajBRcXpINmtH?oc=5",
         "publishedAt": "2026-08-31T07:00:00.000Z"
-      },
-      {
-        "title": "TUO del Código de Ejecución Penal (Decreto Supremo 003-2021-JUS) [actualizado 2026] - LP | Pasión por el Derecho",
-        "summary": "TUO del Código de Ejecución Penal (Decreto Supremo 003-2021-JUS) [actualizado 2026] &nbsp;&nbsp; LP | Pasión por el Derecho",
-        "source": "LP | Pasión por el Derecho",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUtGUDA1VU9FZzdpYWN3WXBRVEFuemtPQUhWTW5GMFBpb2F2dFhxOU95WTc0WU94VDgxSWc5S3liYV9RLUl3aWhyWGJ6eTM3V2w1TEtYNWJ2eDZEMTN6RS1iX0tKOFUzbEJhRlhKeEZSczhpeUJIdHhkVjdQSGFTc3d1MDlNZGIxaGg0MlMxcUFUUQ?oc=5",
-        "publishedAt": "2026-07-02T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -208,13 +208,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczV0aHBxeXJTcnQ2eUR5UWh5LUVNaU9UUUd1eGFETGpiUTF4cXBCXzZGVWFSM2hWR0c4a2tTMTNhZVVvWTJOWTNyQTB0VFdFWE50WmtxQXpIaFhHd1VrdERmeGl1eFlEZm94ZWNwMGVLNWJ5TXNreHFwWU8tWEZONVctOVRQc2VGeVJkNGdHcFJXSFZBLXIwalotRVFuWmJSYjBVSDJLVkp2emw1ZzlCNEpadzVoSExUM0RYSXJWZlgxNXp5a255LUN4QXJ5V25ISUpuUS1ORElpaTNxb1B1dFp5UTdRZ9IBgAJBVV95cUxQbzBRUy1EZnc5ZnhzandnWFd5T0oyODQ4akMteWVWcnJqaFNYZHpTTG5fZUxFU0tFUTR6c04zNEIzRThldVllMGFjVlFybzdFeHZsam1KR1Y5TkZIV2lxcGFsLVpVa1loWk9qdy14N3p0Ql9oRnhBSUU4MExjYzVTR2FhYTVJQWV4aGJlQl84NExEVUV0SThfUTZpb1FCQ0duUUJ3QXZWd1QxcDNzRERBR0tpMnhfTE5VQzV5dWhPbFJMTWpiZ2EtbENla0dKb1Z5U1FydmZUeUdLYnVVRG1sNTl3TEZtN0MtM0VmcHJUOW1sSlFLdGlKSlJfT0JuOFY0?oc=5",
         "publishedAt": "2026-07-21T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores “pendientes” en Perú: 8 de cada 10 ven oportunidades, pero solo 2 las toman - Gestión",
-        "summary": "Emprendedores “pendientes” en Perú: 8 de cada 10 ven oportunidades, pero solo 2 las toman &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcm5pS3p0OWdmZmViSENoQU5MNjFoRkpjN0hwZmlKWTJ0TUdwNEhKUEdBMVBTRkRjemFQNFBHZDFNVmFfc0xJTkkxZHBjdkFZUUxFcE9oQXo0bFd2UXZKVHhDZ2xzWXpmSjVPQzl5ZkFVd2hDQjA0d1hqUERlVHBuSnk1cFg2dUNCMWJSeVZkVDVWWnBCUDk1bVZRb2lrQm9LdjZ5Q3pwUUZkXy1KdXVNb3pxZ3FqSld3NGVIREQyZw?oc=5",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       },
       {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
@@ -243,6 +236,13 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnduV1lWS0NqTEg5X0NZRnNwcHRGT3VJY0pjdjdHVDVjYlRVM092RXZYUjktV3R0aW9tQ3Zwd25acmRkZUNiMlhKUHREazFCYkcwU3RCd01nZ0FvUGtlbGplbkQ0aGEzNjhHQ0RMdUFNRWE2VU5UZ1VQMVVuTFdKNUlXYjhGZ190WGlWSWFxVk10ZVRuYnNCVlE0QklLWUNwTmhjUXVsbUNvY1hmNVRYU2ZnaEk2MXp5S3EzcnV4WjJvZw?oc=5",
         "publishedAt": "2026-06-03T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -254,11 +254,11 @@
         "publishedAt": "2026-11-06T17:07:58.000Z"
       },
       {
-        "title": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país - Agencia Órbita",
-        "summary": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país &nbsp;&nbsp; Agencia Órbita",
-        "source": "Agencia Órbita",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenlPU3dWYTF6XzM3RTFBRWg0TFpvM2xZY0ROeGJpOUVjcXMxaC1ERDEzOEM2ay11OEs5YTNueTZQbFp0SVJ1Y25PODc5NEdvTmZXbkpVcWRiQlF2UE1LUU1pZ2VQaC1fSE92dmJmTlhYaDRzSVQwcVExa0I3VDA1c29pcVBHWDVfMks2c05sU1N5LVhSbFdjZEJwY1hNczZ0eF9iYV9EWlpIUmVUUHVxalJpaTlHak5sN2xpbUpGVkJudXNFVGxJZ1Riem1GS0luSFE?oc=5",
-        "publishedAt": "2026-11-03T19:29:16.000Z"
+        "title": "Noruega y Perú exploran inversiones y tecnología para la minería - Rumbo Minero",
+        "summary": "Noruega y Perú exploran inversiones y tecnología para la minería &nbsp;&nbsp; Rumbo Minero",
+        "source": "Rumbo Minero",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0ZKM3Zyc29QUGx6Q2dKVDJja3RsQlgyUUp2ZlJBdWRfVUJ0aE9mZnJ5eFhMSUU5NWU4WUYzaEp2NGp3blgxVm53TlVWRENSVVNzalZCSHlKTEMzcS0weVBhOU4tS1NOeENVUGtBcFlrYTNQYXhrcmY1cTdlN1FMNU41WFpXWTV5d091MENfWXV1U09oTU9YMzVpdEh3RlNucDBrRkFtS29jN3paamNKeHlkQjVOZw?oc=5",
+        "publishedAt": "2026-10-25T07:00:00.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano — gob.pe",
@@ -305,13 +305,6 @@
     ],
     "ia": [
       {
-        "title": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA - Gestión",
-        "summary": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSkJvbVM5bWlYN2xKSUxuMXJfaG45SVZQT2FnOElraENnMzV4dVBYZ2RYNnVBTm1VUHc0ZEUzTlpXb0NYbzhBRzJkSzZxMU01NnljTlhHM0NTOG1rQ3JMWTNKalhRQ2hYMmd5TkpCdVNha0RQSm9mNWpCSGhDYVRqTXBGQTJyYWYtN2JtbjQxbk5UZFcwQkdiUTZHa1BzaGRPNEkyb1lkSTJBcWx4Wk8tZ2J3QW9FQU5rYkJSVmctUllnQ3BYN3NvTGt6bzBCMHRTa2ZCeFk0dVBlR3Vu?oc=5",
-        "publishedAt": "2026-11-08T22:45:00.000Z"
-      },
-      {
         "title": "León XIV en Argentina: celebran “valentía” del papa sobre IA en vísperas de visita al país - El Comercio Perú",
         "summary": "León XIV en Argentina: celebran “valentía” del papa sobre IA en vísperas de visita al país &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -324,20 +317,6 @@
         "source": "Mercado Negro",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzNJYklqYUgzaURYTFNJMmlaSGxoY3pXMjFyeDBzeDhuYlR6TzNBMjdVRktVOWlxdG5DNXJTX29YVnNEdVlzN3RwUzFfd0ZSSncyb1FSeEQ5ci1JaC10TEVNRy04clItbXlJYk5BZ1pfeHN0YklLRW56aGREaHhNT1JWVzA2OFpJN0xxU2c3d2FkVUNzVnBHb1VuTHM4QjZNVnpFUFBvandiaXdNNzFiX2JCTnkwNjlFWHJHSnRVU1Y4ZG9ZZHhDTUhWSUF1WVRDOUpUOUJUeVY?oc=5",
         "publishedAt": "2026-11-05T21:52:13.000Z"
-      },
-      {
-        "title": "Inteligencia artificial y mapas en la nube: cómo la tecnología podría ayudar frente a desastres del fenómeno El Niño - RPP Noticias",
-        "summary": "Inteligencia artificial y mapas en la nube: cómo la tecnología podría ayudar frente a desastres del fenómeno El Niño &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2IyNUxraHVzU09jVGp4WnNaUURmdUluaVgya2szVjV0UVFRVE9rRnlHelVyUmRYQmlqbGJxN05IR3VBcURhLVBtd0pIekY1Zmp6QmZfdVNjdjhOeVRpaTcyN2IxRnpEUFo1QnhCLXVBVVd5ZVlKTm9iYmJnOV9Nbk5LOElQUWJ6NHZrb0paNWo2c2ZQUUxtOGdpeFVmbzhGVlg4VlByQVhkTmZVYzRVYlU3d2NDZkpFVndCbE1wRnRLYkMzVjNFQ0ZZVW5ra2ZEZmlyckVMSzU2QkNZZmlIRWt1Wmt3RzVIU3Fsa25JVFNGV3JxTzY0VlNR?oc=5",
-        "publishedAt": "2026-11-05T00:49:56.000Z"
-      },
-      {
-        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
-        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
-        "publishedAt": "2026-11-04T17:00:18.000Z"
       },
       {
         "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
@@ -359,6 +338,27 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
         "publishedAt": "2026-10-12T07:00:00.000Z"
+      },
+      {
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
+      },
+      {
+        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
+        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
+      },
+      {
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -421,11 +421,11 @@
     ],
     "farandula": [
       {
-        "title": "¡Confirmado! Don Omar anuncia fecha y lugar de su concierto en Lima para el 2027: “¡Qué bonito anunciar nuestro regreso a Latinoamérica!” - La República",
-        "summary": "¡Confirmado! Don Omar anuncia fecha y lugar de su concierto en Lima para el 2027: “¡Qué bonito anunciar nuestro regreso a Latinoamérica!” &nbsp;&nbsp; La República",
+        "title": "Conciertos en Lima noviembre 2026: fechas, artistas, precios y dónde comprar entradas - La República",
+        "summary": "Conciertos en Lima noviembre 2026: fechas, artistas, precios y dónde comprar entradas &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc0V6N0ZkZ21ic1pfQTFnbjdQVE5lMW95bjg4Q3NOSE14WTFlWHcxeFhaYmlKOE85Z2ZGNjBCMUJIaDE5b0VBbFZ5R0NleVFzMXo4dkFfdXAwNjduZ2tCbjN2ZnBjemU3ejBETUhiZUNYbVFiQW9PU25lMVRTY1VPdlNvM3YycUVwOUpMYlFXQWtKTkF3dEM0QVN6UWRjQUtlUGhIemUwYmpudlF0bjdaUWlJSm5pUksySjFyaTB0dWxaVUVYVnpQaUs4YUNEdEhabXM3NlZTZFFTaXZheWVGS2dvYjVUbEZzVXdnNUxCZm45TWZKZjlKVmlaTWJJS3ZsVGpDMU5OTUNBV0VyNGRMb3dxYWJRMEplSDFR0gGgAkFVX3lxTE5kbDV0WkY1X2RvUUtvVXo5dzQtUmNwM3I4VnpqODd6b3pQV1gwaGdaMENVVkNDWDlSS2l1eVpnVWRnby1zUDdLalVnVFBxaElzaGhHeDBMbTc3Tm5INmZEN2lnNlJyUF8tUVN1SmJaUjlWenBVcUp0RTNFcWpKR1hoQVgzN1hEMHNOREozTVB1OENHNlA0RzhsNnlLYU0zLTBmbENvb2VEUkI1Q2ZzWHZGakczUll0X00zYmZJUExGejlQVHdqLXU4UkhmNS1UUXEyb3hOcEpkT0llYWZVVUVJYjJTbnJTUlc5Rzl6WHVMcjZMMGp6bTdSajYzLXpzcG02WFBKdXI4c2dOUXExUVdOMDRkdVBrZFJlbnhPQ2FlRQ?oc=5",
-        "publishedAt": "2026-11-08T22:04:22.000Z"
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPR1dWQV9EekN2TVZOLWZpTW1ycnpUYldmaXZxclJROEVjR0tqQWt2cTN1UnZWRUl5VUhRNnktTXN2cDNncUQ1UU82UzlESWVEdm1idlBWQ3JLcHVRdnBGUGpKWXkwQkwxWndhb21wZXR3eEdlNGUtUGs0a3NhMlFGQURKdE0zOWF3QzJPNUJtNjR4NGUxVEFiVnlRZWZtTmQ2cV9KWGhfNWdPX05nNDZQM0RNSUhaX0NDUU1aOTQtUC1SZDhhY1oxQkR0M0ZRdUxVRmZSRE9tR25NVTFXX1dPRGoyWnVqTmk5Z0FWZmlhOUVXTE5oTFowelBSRFRtM0xmeGc5RkZR0gGLAkFVX3lxTFBCLXRKcHp1dzFtWW9BbU1EQ3h0bVd6UjdFSnY5YnJTcDhEVEJHekVrYXRWeUhwRHVzWGN6alNyUlpWUmdYekRkS0NkV0JTUU9KLVJWOFBvTWdEcGxNS25Qd3FIRUJhVUxEa0lPNmRoZUEzWGMzOHF6bnJheVFra2lGbVpBM1hHOEFSVng2UHp6MlY2V2s0NHhac1I0LVd2U2c4Mk9rRmZLU0FNTWkzTDg3bVJ1QkcxSzB0OVhwSFFTaDR4MFZNUU9yUDdLcThTWkY4aVRUYXZ6clFlM2s4RHdCbXZadHBhbHgyRmQwV1ZWaWlxTXNONzJSMzMzWDAyLWpkU3dlSmlWMjEyZw?oc=5",
+        "publishedAt": "2026-11-06T16:08:01.000Z"
       },
       {
         "title": "Conciertos por Halloween 2026 en Lima: guía de eventos, precios de entradas y artistas confirmados - La República",
@@ -479,18 +479,18 @@
     ],
     "cultura": [
       {
+        "title": "Municipalidad de Lima clausura temporalmente el Estadio San Marcos tras detectar irregularidades en concierto - Perú 21",
+        "summary": "Municipalidad de Lima clausura temporalmente el Estadio San Marcos tras detectar irregularidades en concierto &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjNvZndBWjhlc0xtMWIzZjVIZUx1TW9YYXNZVUNYUEZSMmhrNmhmbjFrUWIxU1NWeVBLTWEzZFBxbXJxb0dvNmh6Rkxua3AtaW1wQW9pTGNaUk9lMnY3X09YSnc5a2NhT29PNllZbzRnNjVZTTlwbEZpM2k2S19rWEs5RlpIa2NobE5xMXpVZFFQNEpvdVNCbTYzNGt3MjVsdVF2R1FlWWV2ZTUyZXE5QmpYdTBrSnR6YVg1bHlzNkNOM0laS2VnWFVzclZqQQ?oc=5",
+        "publishedAt": "2026-11-08T21:21:51.000Z"
+      },
+      {
         "title": "Senamhi reporta cifra histórica de llovizna acumulada en Lima Sur ante evento de El Niño - Infobae",
         "summary": "Senamhi reporta cifra histórica de llovizna acumulada en Lima Sur ante evento de El Niño &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEpLLWFaT1RQMWVOcFEySTRKOUNzMUZSREhHRDYxUVJxYzg2akFqVVFJSnl0aHRnS2ZDNlpPUEItVXBFekRVSGpIZDdDcUMybEZicmZoazE5SjdDN2RZd1FBV0F3eUZ1NU9NLThXMG02MVJHUVYzZ2Q3eFh4UldBdlc5dkZFaVktOFl5VG92RmJWcThjNEVCTk5UcUFUdGRJOEVxUjJTS3FnYXRkdGZmOGFFMExzNnQxMFFRZGdXNGtJSngxemsxQ3J3TkY2UGlVSlpreEJn?oc=5",
         "publishedAt": "2026-11-07T06:53:04.000Z"
-      },
-      {
-        "title": "No solo agua y alimentos: nueva ley del Congreso también permitiría el ingreso de bebidas alcohólicas a conciertos - Infobae",
-        "summary": "No solo agua y alimentos: nueva ley del Congreso también permitiría el ingreso de bebidas alcohólicas a conciertos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVk1DS3NmNEVWdm85ZmJHaDFOZVFwTjVRdlpKWjQyemp3MVMzR1A0WHF3ZXJZQUNYWW1fNVRFekZlcnhPdURRZWZ6V3ZiYmlIZE1DaXlKMHREYjljNUE4aHhsZUNuc2NydUtsUFBDVXBDN1VrWTIzc3Rsdng3UG9rN0hTOGs4dDNpeF96alBpU2Y0S3gzd0NxWjR4VWpFUFRDUk9LNHNVbWU1MTJEeVVvdHkxaHZTTlZSS3VELWNEYWRzUWJXSVhYOGJickxSTTk5aUtIZjY4LTl4MTVjY2YxbGRtaXRkeWRLWmfSAYQCQVVfeXFMTWVDalBWU0F2bllnWlJOTVphTlRWakpicGJ1ZzZvS1k2aGFLNzRsaW5URU1oNkhva0tLTTFRWVdCazZUOHVUZjJBMHZkWjFYeFVHQUV0b3U1RGZWQUlRZXMyRExvZXc3UkFlRmY5Q0NvcENnUVJMaDdSQWNrcDE3X29BQW9ncHJadGNYd0xGX254Ylc3WUEzRlZUYnZYTUdJdW5HZExzRTZMbmVheDdCTXJXemFkY2ZsQlZyV1h5c3MzTjA0MWFKTFFZRFhQQkRLa2NlaWg1WEZRNU1BLUJNUW1Ka3RFMkdoeW5rVVpFRjdidFNrdXkwNVk4VkVram8tVnRPY3A?oc=5",
-        "publishedAt": "2026-11-05T22:07:00.000Z"
       },
       {
         "title": "Una visita al mundo del kung fu Shaolin en Lima - chnm.pe",
@@ -505,13 +505,6 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmhPTkJuR3ZIU1pQMU9tTEV0OTZacThlZVRUTmVxMWhBcjltZXlOYjBiOEVUODVHTXV0V0NVZjJURHlRTXJOclFkaklWclRrNjRqbkpFS2tJb184Qzk1Qk1JVjN0eENWWXp1TGVkc2NzUk9mV0Z4RFRMMUx4akdVbC1DLVhPRy1tRjRRdUdPbWNRSmVIMXlXS3ZQQjducEppSjY5ajZzdGFReGxZM0wwaUhRbXl4TGpzQ0pOQ2x2WW5jR1nSAd4BQVVfeXFMUGpWVjZyVXdBTTZsc1pReFgzUkVVQUUyWkdtNjRieEhoUi1MSGlnWG1xQUtXaHBJVGxhdnh3Qk85eFNvdDNjVWJJa29nbkNtRkprNWVmMHB2V0NlTEYtdWhEVVFCQUF0ZXRkM1R2U0RTdFBnWkt5cDgxeVc0U3JScFZfVjgyZ29MajJncDN4UU14djVqdUVxSUtLNkFpWG80RzVmS19TeUlTT0xuRFJrRW83MkNZTC1wSFc0dUFGODEwSHNRd01QMWwyQmdxMHR4dkpma2hQd1BSSmk1RUNB?oc=5",
         "publishedAt": "2026-11-05T18:02:00.000Z"
-      },
-      {
-        "title": "Perú será sede de The World’s 50 Best Restaurants por primera vez - El Dia.com.do",
-        "summary": "Perú será sede de The World’s 50 Best Restaurants por primera vez &nbsp;&nbsp; El Dia.com.do",
-        "source": "El Dia.com.do",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZVzhTOHRGOXlxbTR4V3JoaEZYaHhtV2V6dWFFakxiQkkyMThrU2lHQTkxako5TlFicDFqUk15b2s4amRXTUtDXzY0S091ZExSUjgxOV93bjN5aGs2TGM5X3lWR0JyNHRQZzhkdkNTWVJjcWNlbUROTVd3?oc=5",
-        "publishedAt": "2026-11-05T14:10:36.000Z"
       },
       {
         "title": "The World 50 Best Restaurants 2026 en Lima: Tres restaurantes peruanos entre los mejores del mundo - Perú 21",
@@ -533,6 +526,13 @@
         "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVpRFk0NGJFekRIb01OR3E0ZlM3ZVFlWmcyZmdKVThzdUlSejRReF93bV9YVGtCRzVjOTMybjZCWDZCT1RkWFROUmxWZkhnbk9uRGMzajNmU2RFMFd1clJuVGpOTGFlXzctXzJ0aGxkNlc4aV83X2t0aUlMeWh3SG45c0hFVS1RWUs0YzR4aUhOS0NYcnFQdEZ5UmphZkx4SHJoYmZGanpJdkdDTVFEaUxPZFl1RTQwYW5JcFNJMmp3UGFQd3ViLVhjd1RBaXExSEFjdDNB?oc=5",
         "publishedAt": "2026-10-19T07:00:00.000Z"
+      },
+      {
+        "title": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! - Blog Joinnus",
+        "summary": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWt0a1JBTGNRUHdwTDJiR1lkeU9sa0pJSVNrLVhLSGEwZjQ0bUllVXkxdGNCV1h0SFV6b3ZIY0pPWF9wbkZ0UFI0OUJ0V18zdm9qeDB4OTZnN2p2VkIwRE03WENuMFJTdEJmVGhrdWd2eUhwTUpOeVdCSjlQVmxlejlxbEczUHlLRGFlYi1ZaDdpbWR4SGFqMQ?oc=5",
+        "publishedAt": "2026-10-16T07:00:00.000Z"
       }
     ]
   },
