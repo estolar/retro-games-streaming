@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T21:13:35.743Z",
+  "generatedAt": "2026-11-13T02:15:27.787Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -14,13 +14,6 @@
   ],
   "topics": {
     "politica": [
-      {
-        "title": "Papa León XIV llega a Palacio de Gobierno: Keiko Fujimori y sus ministros lo reciben en su visita al Perú - La República",
-        "summary": "Papa León XIV llega a Palacio de Gobierno: Keiko Fujimori y sus ministros lo reciben en su visita al Perú &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWk1YVERwNC1IbzB6Zk9jWG11d2o1allHdTN0LU1mWWtQOHRVY1lsdUo5SUNyaDF0VGQtSXJzZTl3a1gtZDFpdG1pWXQtVHpTazFaRG9wWTBkNU52YkhKSHVxbF9xUGotZTVrX2hNbWdzNmdGTG9vNHJDV0VOamhIeVFiRnZ3V3VCQnU4ODlsQnJ2UXkycXZQUWNLMWZwTnhieWhGRXVTc09wLW1Mam80b0VJMzJ6aThpVFRnb3l6VmVjckpfRWltU2pQdVhpWGRQcXR4b2t3T3VDM25MbW5MaFRxMFNfQ19jdzlBSG0xSTRhZ9IB9wFBVV95cUxPeVdxOWdxRVMzSlY0eHF4TzJDdUc1cm0xR0JqNHhNY051azIzdF82WExiVHJvQTlkN3ByTXBPU2pKRXlVZ1Q1N2lzXzhTUDF5a3g0eXFoMlNTaHpMLV9VaWNqMTczU0I0cm5ReG9xRXR4QldsQkM5X0wwbDVsMXJtdDFaSjBaaTlwN1B5Z244bE0yYngxaVgtczhlQzJnX1oxUnBkdWNOb1ZhUmMwVGtIU2QtVFBnblBTRVN5cS1QdXdHcXRhc0VzVFhDUkJKdjJVdW5uN09pR3B3cGJnM3FPb2E0Q21GVVo5RXZ1cG1GRGl1cFJDaE1J?oc=5",
-        "publishedAt": "2026-11-12T00:11:54.000Z"
-      },
       {
         "title": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno - La República",
         "summary": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno &nbsp;&nbsp; La República",
@@ -69,15 +62,43 @@
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXZabHY0NEZkQ1lxOFpuSDBMRFhrTW1WYW5LTHJrZkZDelRacVh1ejJWbzlCSXIySl9vb0paZFc3VHlZbzVId1ROZ2h5bDhvbEZFdW5tU3RKeWJucHVhUGxSMWdRTnc3aFgtcllENWRtTy1xSWcySUFXM2V2Wm5tdlZyZlVMcWkzOHhfRjdCaEZtWkdGSGVMQWtqQ0VtVGtibkRaN1Bvc2lJY2ZFbDJQZ2NOQXBZa0h0Ulg1UGFsT09qSEE3dWNwaml3Q3pmMEZPSUVZalFyZjhBMmt2V2k0QzZtQnY?oc=5",
         "publishedAt": "2026-08-28T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵 La presidenta Keiko Fujimori durante su estadía en Tacna abordó el tema de las facultades legislativas que presentará el Gobierno próximamente y ayudará a impulsar reformas pr",
+        "summary": "🔴🔵 La presidenta Keiko Fujimori durante su estadía en Tacna abordó el tema de las facultades legislativas que presentará el Gobierno próximamente y ayudará a impulsar reformas prioritarias. &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMTBIZmthbmdqV0gxZG1DWVB6X2VMajBWMENkZ0xrY2NjM1hqbzluQzg3V3gtU2F6eV9VTExpRkt1UUMyVDUzLVk0X0VaM3hvVkxNSmt3VTJacnRxMXBOUndTNkRDNkFXMkJaOUpyRENFVDdfN1JlVm5GdkowR3BpaEx3QXlFMlc1clEwbTJscXRXUGdmai1aSjJDZkM1VlBzZms3d3FrM0ptSjNpdG5GR1JSb0pqcnBpVjNfTzl1dXRFZEl6ZTRVWnBBM0VtTW9JdV82dzBsTW5CaDBFMEU4UUdzVk9UWnVFc05R?oc=5",
+        "publishedAt": "2026-08-28T07:00:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "La visita del papa León XIV al Perú impulsa la creatividad y la economía en el Perú - El Comercio Perú",
+        "summary": "La visita del papa León XIV al Perú impulsa la creatividad y la economía en el Perú &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXVteHFPcDBkdGRRQUlRTFdCWnpJVjJRaC1CYU1aZVhKclFrOVJBaURVa3NvMEU3TFZ2UEdHS1ZiSFNiNmdVVVlJU3hVcnU0eWRHVlhuZUU0M0thZ3llbER4Rkc2Zlc0V3c3ZTlVVDQ4MEFLMzNtY0F5bDhOV0VmWU9zb2t5VkdpbDJJNXZKckN0NjBRVXNpRFJfbVlSZWZZSDJNTDNzMkFOVXJLT1RMdUNJcG5GUkZnYWJzeVcxOGlON0NFckNLaEo0VDA?oc=5",
+        "publishedAt": "2026-11-12T22:13:18.000Z"
+      },
+      {
+        "title": "Entel Perú podría cambiar de dueño y empresa que opera Tigo estaría interesada - Trome.com",
+        "summary": "Entel Perú podría cambiar de dueño y empresa que opera Tigo estaría interesada &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUFxYTlLclIwLXVXMVpEZmkwYVIyU3VjdVRQbXdtbXFzT3V3ZDFjdlpRZ25VVnZKTUNFc1pxX293MnVYMXJtVWtKQUphNVhwdE9USldkOVVDV1ZVSnZDeGQzcE94WjZTNDdWOW5Hb0tpcFVzbUNPNTBNQ0hzd2hjbmlZanQtVndpU2ZXd2hWQUpRX2J5cHAwMEVQWTlyTmJfRlHSAbYBQVVfeXFMUFZaOEhDMHVVM2NrNWc1ODJoaF9wcThnZm5YRkFhdEVHV1F0Zlh2RFFCTy1yME9aLThsNlJVcUYxNUM3cG1LblpjV2k3ckZhWGNxdjdWdGZ5Z1JaU2lZd0t2WklldHhQaGF4d0xDRm8zUV9ud2R1ekRld0dPX05xMmFtcV9lV1k5aDhHWEpBSmVTTDJYVS00WG53c1lzYUJ2UENQZUVEY1RlS1dkcXM3cXc1Z2hGbkE?oc=5",
+        "publishedAt": "2026-11-12T21:28:22.000Z"
+      },
       {
         "title": "Retiro AFP de S/22.000: Pescadores piden debate y aprobación pronta en carta al Congreso - Infobae",
         "summary": "Retiro AFP de S/22.000: Pescadores piden debate y aprobación pronta en carta al Congreso &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXhKTUhQUVltdjZoOWtBYjhpbkJMcHVLSjhwSkw0UnoxVU1fUHhwdW5nVEZTVFVMeEhOaWVMVmdocGh6c1dMYXFoXzZPZVlXcGxBSlpxUjN4eW1yUlUwTTRXXzJXbTFPa1JNc0piRnNDeTZleVNvaXBjM3hzREtva3EwR1FfejgzOGJlRlJ6Umc4N01TeGxzZEJyS2tqaVVWTUZjclN0aWt1WWdvQkh2bWs1X3JQT0JEN1V0ZGZmME9OTzlP0gHfAUFVX3lxTE0waXJ2ZThWNEVuZ3RvZExfLWxyRmRkVkMwZnkzZFBzdXRrTmFlNDRhbnJQVVVXeGtrTUJhU3kzOXpmS1ZubUd4NkhpajlHLU40eEpPOUZJWWF2T3dIZGdvVkFjV3ZCS3FIUm5iQ0hXTGQyUmwxdkpoejZYVlM4SUNIWGp4cXVlcWh0OFFvLW5VemFpMXNQY2kzMC1jNEJaRzBaSURrNVozWDFFa1RYNF9qanZLd1VCM3otSWJPR1NVWmI1Z3JDSkdjWm5FaURiZU1XUGJ5QTJwV2dKSWxzTDg?oc=5",
         "publishedAt": "2026-11-12T18:31:00.000Z"
+      },
+      {
+        "title": "Cómo avanza el proyecto del noveno retiro AFP al día de hoy, 12 de noviembre: todo lo que debes saber - Infobae",
+        "summary": "Cómo avanza el proyecto del noveno retiro AFP al día de hoy, 12 de noviembre: todo lo que debes saber &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0V5QllDb253enZkMWt1V3dpbm5FVEpTSy1BQVhvNV9aXzFvNjUyTmQ2ekVtUGp0VEtCUW83bTUxSTNIM293bUJSY0RpNmVuYUFwT2FaRG1iZ3QwVmIwYTg1dFJXckpQVXlBZmM4VVpnQnV2YWEta0ROdThwTmUxNEd5R3hIS29ENVc4czQ3d05Nc3FvM2o5eGYtZ2djaXhYTjNMZDdtTmlaYkV0ZThGMWpMOGhGTnBMVWQ0V2R2enRWazNIRjM2MjVB0gHkAUFVX3lxTE9LQU05TUx3N0VKLUdjMHh2Y1FSX2tLUDJUMVZENXlGbUgyV3pEZm1Yd01EYmFrSGRob0h3a09wczZuSE5lQk5KTU5FTWNPWnpieEdPT3V4TlNPTVNUcGNGbzQxN0FMMlZGdzVPbHlwdi0zRTJNNXhXRy1STzMxSElwaEJCWmJXUFhwc21USDR2MDAzeWNuejVrRFdRVTIyQWdLTjJGSWhPUzNVNGhydm1SemdKcUJxcERHaFJSN1YwN2xuTklxV0FOSVhmdmNoaDJCdWRjSUpVZ05EQ2lxTEhfSk9ndw?oc=5",
+        "publishedAt": "2026-11-12T13:29:00.000Z"
       },
       {
         "title": "Perú tiene recursos para ser protagonista de economía mundial en próximas décadas - Agencia Andina",
@@ -101,35 +122,21 @@
         "publishedAt": "2026-11-11T19:09:44.000Z"
       },
       {
-        "title": "CAPECO: Perú necesita un nuevo modelo de gestión del agua para cerrar brechas y enfrentar el Fenómeno El Niño - Diario Altavoz",
-        "summary": "CAPECO: Perú necesita un nuevo modelo de gestión del agua para cerrar brechas y enfrentar el Fenómeno El Niño &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeHlNZU9UREV3TGg0YjZRQnpINFhwQnZFSzRZY1N5c3l3aEIwaHBUXzVPZVV3d0JQZnUySDNlaFh3elBVWm9hYzlCcFU1cmhyY0NQOWx0WDBrd29Nb3VnZzdPVDE4eXhqZmtLV0MtLTVzWnhaS3JDai1IU2EyODlnNDRjbXFOOWstdDl6NU5TN1dMYzZDWTREYnB3a2lDOUVOVWtYNWtUNEhRaGNjREl1M3ZhS1V6YkFyZzMxZ1BhdUZ5eFJndWxEODU2SEticy1GSXJz?oc=5",
-        "publishedAt": "2026-11-11T17:48:29.000Z"
-      },
-      {
-        "title": "Cómo reconocer una casa de apuestas legal en Perú - Revista Economía",
-        "summary": "Cómo reconocer una casa de apuestas legal en Perú &nbsp;&nbsp; Revista Economía",
-        "source": "Revista Economía",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEdwZ1ZpQ3d3aUo5SGdHd0hwQUxNLUhuOUQ0MUlaV1A2YmtFRWFnbzgzcFd6bGpmMnBwNzlEbWFTblZsSWN0ZmNJTHA3Y1VTd1lJYnNabUk3ZDVTM2FEU0twYWQ1UTJmYkRwMm95TTRGdTJUM1VCLXZkS1A0cmdlSUhOZE9sYlh1WEE?oc=5",
-        "publishedAt": "2026-11-11T14:27:51.000Z"
-      },
-      {
         "title": "Brasil pide a Perú ratificar acuerdo económico firmado en 2016 para impulsar inversiones y comercio - Rumbo Minero",
         "summary": "Brasil pide a Perú ratificar acuerdo económico firmado en 2016 para impulsar inversiones y comercio &nbsp;&nbsp; Rumbo Minero",
         "source": "Rumbo Minero",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcVJoQ0tyMk9mVkEycXNyT1JucFhSMTBtamhLYUdyQnZOUFJreDB4dGNEWGI2MlFEejA2dUVtMUZ3aEtsVGxlc3pTeHpjWUczZGtnVGlZU0JCSzI4LURUYXBVTFpSV1U5MmVWRWhMN1JLMGVBMFBqZzEwS2xOZFBtOFdtVFpDeWJQVUpGYng1M2VENlVWMzNEbFpRSjRPZ2JEd2hkT25pajRZbTBTOFlJekxwcmZ4RzlrZ29fcXdaLUotM0ZLLW5tTjYzOW5IVnJNSFRxMWJSdV9kdnNVaGR1dUZ4aHdGdw?oc=5",
         "publishedAt": "2026-11-11T13:05:47.000Z"
-      },
-      {
-        "title": "Perú paga el diésel más caro de América Latina y el transporte de carga busca dónde recortar - Diario Altavoz",
-        "summary": "Perú paga el diésel más caro de América Latina y el transporte de carga busca dónde recortar &nbsp;&nbsp; Diario Altavoz",
-        "source": "Diario Altavoz",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3dBX2hlNTl5c3MwQkRodUhVTlhQNEVlbHRydFlJbU1EM0lSbDBHVHdEbGRkZFV1THMwaUZ4WEdOUGRmeS1qQnZKcDI5MWloM1VpRVN3WXJGTmNCYmh1dEZTd2d1TFFyMkl5aWhVLUZJM2VEaTZoMnMxWWotUksxbkMwbTlTcE5pNXF6YXU5YjZYaWxTQk5Ra2NmUEs3SkprbDhPbW9waWwzNjNScXotdFlZSVJJcnR3Umo4MWZ3?oc=5",
-        "publishedAt": "2026-11-11T12:36:52.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú - Magacín 247",
+        "summary": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú &nbsp;&nbsp; Magacín 247",
+        "source": "Magacín 247",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpfV2xNOTNZTGVpZk91cTVwRUhZLVJabmJ5dHp0dUpoTVZrcDZzeE5mdndJMi1sNGJnQlRPSFFlYUVETTI1d19iQWxHVkl6V21wZW85WEdGaThQSDBkSFJQd2VlV05JaFY3VWpGaV9aeUtYeEVuN01mbXZSXzU5dXpwazJzS3htenBLY2dELTVTSGZ6QWgxYWFpUGFIUjZZVFFqXzZOcTloU2s?oc=5",
+        "publishedAt": "2026-11-13T01:00:32.000Z"
+      },
       {
         "title": "Tortoriello puso a la salud pública como prioridad y advirtió sobre la falta de presupuesto en Río Negro - Neuquen Post",
         "summary": "Tortoriello puso a la salud pública como prioridad y advirtió sobre la falta de presupuesto en Río Negro &nbsp;&nbsp; Neuquen Post",
@@ -152,20 +159,6 @@
         "publishedAt": "2026-11-11T21:53:39.000Z"
       },
       {
-        "title": "Gobierno de Baja California destaca inversión histórica de 200 mil mdp con respaldo federal - Yahoo",
-        "summary": "Gobierno de Baja California destaca inversión histórica de 200 mil mdp con respaldo federal &nbsp;&nbsp; Yahoo",
-        "source": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNhNnBTM0ZTVWFpR2czMVZLaFdOUGJoRS1fTWtaeUtTOFVMbkF2bUROY24xX1FlR1hDaTlnNndOSHhlQWYtX1R6amk4SWF1MFVTUHllTFNpZFJwNTE3bVZSb0dvcmlpQVdDTUd4ZEU4Yy1jOUxSZjR0aFRxdHRRZHZqaHlmYkJZbzBnMUJjc2NVY293QWpVVnFMVQ?oc=5",
-        "publishedAt": "2026-11-11T05:15:00.000Z"
-      },
-      {
-        "title": "CAF y Brasil revisan ejecución de US$ 820 millones en financiamientos - CAF -banco de desarrollo de América Latina",
-        "summary": "CAF y Brasil revisan ejecución de US$ 820 millones en financiamientos &nbsp;&nbsp; CAF -banco de desarrollo de América Latina",
-        "source": "CAF -banco de desarrollo de América Latina",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDRreTl2Q08xYjN2NkZNMWVZWmVycEphN2dLMGNZQUZpR2dzMW1ldUNwa3U3UzI2NmJ1NGxCaTRBQjlBNzZ3bkFCZUVrTFZCbzNPTWNkcVA0NEFRSUUtR1JwV283dndQNDFYbjNfbHd4MklyeUpYLU41OGNlOGtVRTMya2NGVktSUnlpaWNyOExXWmFTTFVjZ0RDbnVEMGFySTdRb08zdkx1bTRtZlIxU3IyQXJCUEpRWG1XM0J3eXBxeW90UDhn?oc=5",
-        "publishedAt": "2026-11-10T20:51:17.000Z"
-      },
-      {
         "title": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV - Universidad César Vallejo",
         "summary": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV &nbsp;&nbsp; Universidad César Vallejo",
         "source": "Universidad César Vallejo",
@@ -185,15 +178,22 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1o5c2NlVnJ6NHNsZ3A1TUNRMDJMcXllRW1JMU9fX3d1cXhTVFh6M3JidVNnVHNQQUJRMWpNTkp4RHY1U1U5dDF3RmtQRGY2bW9Ub3RNVERISG1wd1NjYThnVHpvaHFxc0hTS2JPdVpOU1lRVkZaY3ZIa3ByTi1HY18yZ0s2QXpYcEZFczR4eG1pRnhyWjJ3Nmp2Y1liVGItSWNQSll2UVZiZUViUHZHOTV2TXhmdXY2RkhGdU82NVFSeFJQYVdUajBRcXpINmtH?oc=5",
         "publishedAt": "2026-08-31T07:00:00.000Z"
+      },
+      {
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
       {
-        "title": "El día después de la primera venta: cómo pasar de gestionar un emprendimiento a liderar una empresa en expansión - Infobae",
-        "summary": "El día después de la primera venta: cómo pasar de gestionar un emprendimiento a liderar una empresa en expansión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa3dCWXc4MFp3WjI0NUhWazhEOGN2X3g5Y0dnWGpjdzhLWmdQa1RHN0tVeEFpWmdveDJrUWx3REVCMWxUMkd4Qy1ESDFhVGgxNVdiWUtJUnZ3N3NtWVI3UHRVMzQ2UzhiNmwyZDdDblRaaEYwRzBDbTlsOUlsUXYyYk0yLXVFdGoyUlJFQ2ZQYVVFeHplQXNBNExiMk9PM2VqVmpQbU9NSUpyNDdNd3hxQnR6NlpBZ1p4eDJqSC1YbzF5bGVFQVNqOGU0eFFfclduUjVmekNBNlhDTlE2N0xTUG5mQWZKUFHSAYICQVVfeXFMUERLeFQ1WkZQTDNFcE5UQ3pBNU9WVDJZVjdXbHNqbVdMUXlGVGRlUDY4V2VIWFk2ZVdZbkVnRFhfQW1XczRSdGxtOUp5NHJLWjZnOW5oTi1pMUROQlk5ZE9wR2FJbU9rMmIwNFFsRmdhaktjWlo3N21ZUGhSRlhGRlpJeFh1UEVfN3lBbHA3cWhtdHZTblJTbXgxQTZkdjF5c2JKQWNxaUc0Y1pFeHR3VGpjYXlGcUVCanlXNnl0MGhmM3ZkYXk5ZkpVTzMyZGpvcjBMX2dFb0ZpZmtTRmpqY3lrWUtMRlpnNjZ2T0k4MUdOOHFmUmpUcVVfd0dSSkVjNHd3?oc=5",
-        "publishedAt": "2026-11-09T15:44:00.000Z"
+        "title": "Caja Arequipa premia a los 18 emprendedores del concurso nacional Orgullo Emprendedor 2026 - Business Empresarial",
+        "summary": "Caja Arequipa premia a los 18 emprendedores del concurso nacional Orgullo Emprendedor 2026 &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3I0V1ZTdEJRX3pYeFlsbzh1c09RZ3Q3UHZfRWZYc3dydVdBYTRQbFNfdVNyQjZUc2lBMnc1bHZ6SWZwRUpiVlgwR3MtellRV3lhT0JUbDR4dEFxY3VEZENJQ3o2bm9mTWgwMmRXc05vTHJXV3d0ZXI0QzkyN005YWp2RnhBdnJ0MC1XbVJ0VXhfckRlRmtyZ0laZkpSU2twZHFmRGViTUQzV0RfWXc0TFNGaWNpU2dHLWcwbGFsTWVILW83Y1JDM2pB?oc=5",
+        "publishedAt": "2026-11-12T13:44:09.000Z"
       },
       {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
@@ -247,11 +247,11 @@
     ],
     "ideas": [
       {
-        "title": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media - LatinSpots.com",
-        "summary": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media &nbsp;&nbsp; LatinSpots.com",
+        "title": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium - LatinSpots.com",
+        "summary": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium &nbsp;&nbsp; LatinSpots.com",
         "source": "LatinSpots.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHZ4WUItQUdQTkVOamlKeDJNNVdyYjd2NE9HUDBwcUhJSnpEbVFaRXZHdWNYZGVOQjVjNkV2N0VUdEJYLTZDNkFOenpfVWczazBIZzZXajhSc0NvT3E4SXVZdEs4T2p6WTBKMm1jR1kxVS1GM181Tk4wT3g3R3JfR1hLVnBqeWZNTElTN0U3Q3lTbm9CUXB6V2F4QThPLVFNdHVBOWtzQmdYby1XOGVPVDZDUzNsVDZEVWR3MkFjblhHX2ZMU0E?oc=5",
-        "publishedAt": "2026-11-11T00:25:08.000Z"
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUktTENMRXEtVGdIT0dvY2hoTUZjazFmTjkzamJUZXNURGl0c2NsRWlDRHJxbGhkV09DaVRKc2hibl9pWFE1RklLdzgtZWwyekpIbnR0UmFvVUp6WUpadFYxdlpjbkt5c193ai1lSWNEbWhDbGRqSHRGVGdzbDNCQmRGc09Lb2x6UGhTOE53akNDdDdCTTUyTld4WlZUaXh5?oc=5",
+        "publishedAt": "2026-11-13T00:44:43.000Z"
       },
       {
         "title": "SOS POS de Circus Grey para BCP Perú gana el segundo Premio WOW! de FIAP - produ",
@@ -435,6 +435,13 @@
         "publishedAt": "2026-10-08T07:00:00.000Z"
       },
       {
+        "title": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” - Trome.com",
+        "summary": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcTdFUGJ5a284a2hXdEJwYlFhZkpYOFcyR3VKS2ZsNnM3R2x2QXlmZEcta0J5alhrdFpRY3JLYk5pSjh2ZzJjQW5FRlFWalZ2SF8yM0tYVWVDN01xaUoyQk9iVlhZdmRyY3RELXhWOVk4Q3NSOTZvM3NxbFBldnk1Mnh1T2hpQkFDb3ZOU0ttbWtTRFZZaWtxWEx6aGFobzRjajVESm9kaWhRNjFZMlloSzI5LUN1MXRrV0dfanJ5aUhTYWVvMm14ZVQzSlVKNVdXYWNndks3eEJGeEtPRVR4YmtHR0RkdXBYNUE0ZHZoWEl3UDRfYmFKNjJZX3I3X3ZiQzRtdDdPanh3enPSAZ8CQVVfeXFMTXNYSlpzVzh0bHFscE9XdlZzcERQaDZKUTN6THUtR1pqdTdrS3pNOEV0cU1CYm5XVXRmMnhYTVEwNjBUZFBCTGVtX0pHNGdJd2NwemtTTmJrbmEzclBHaUlqcW1pNDJSX1B6a2d6V1ZiV3d1ejR3aWFZdm85WWhkekpNY05keUUyNVhnUnAySk4yX0Z0MXg5TmNvME9ubFUya1E5SzNtLVM4R180WExoNDk1b2ctd1JCRmhldU5TcHFIeldNM3cyU1VPeVpDVzZzN0tKZkJmdC1mR3pZV2lpUTJqV0lEXzNqN2ZhdGNCLThEWklPOFlSbTVnM3JBSnJKNlpGdXFFcUdFUmtqX2stSlVWdWQ1NFVwWHRqSlVpY3c?oc=5",
+        "publishedAt": "2026-10-07T07:00:00.000Z"
+      },
+      {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -449,18 +456,11 @@
         "publishedAt": "2026-10-06T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
-        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
+        "title": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos - La República",
+        "summary": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
-      {
-        "title": "Robbie Williams se declara fascinado por Perú antes de sus conciertos en Lima: “¡Uno de los lugares más místicos del planeta!” - Infobae",
-        "summary": "Robbie Williams se declara fascinado por Perú antes de sus conciertos en Lima: “¡Uno de los lugares más místicos del planeta!” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZU5ubU5PX3Z6eGJLa1NzZUY2TkdKSDBuMmM2OFh2cnVMd0pPb1hxWk5ucWIwd0JGVWJsR3h4X2tCWVlsazJiYmtkV29TT0VEN2d1blhQQWlQdmtLbEE0QTZseWg3eXNyY2wzd3l3RTJaU2FwRnpZY0dDSXJjS3Z4MEhsMWtyazdwZExPZ2NZYXBaSFgxTHZGVjc1dlVBOGZwYU5NZzhHUW5wQmVWUkFrSWhhWmdrb1FmcGpMMHlhQkNfdXpWY3BWVW1xcUtRYUFtazA4SENJUVJlbDBEQkRnNy0wamEyeFBiZjBpMEYwTVBBU2hh0gGPAkFVX3lxTE9SZVl5bTBIdUc0ZklmZlZjWnh1RjFGNS1NZHN6X0d1akh0UWRNUnBsSkcyTURpVjFKVlJjT082MVJhVDNqdmMwQkV3UDlXa09waGV0MWdfN2lHRE5YUUl6N3Y5elhvZnZIcU8tczZWMTAtTEF6cl91Y3RHU19UOV9JTF8yZ29xdUtWVlZhTXFhUU5Kb1lmU3VVdU5KQzB6ZFd1UTFoM21zM2R3dlN1eGZLakxraG04Q0hCVXo2dFduTExuNWFxTExaSzE5bTl5NTlfQTRsNmRiZ0Y0bThpTG1TRTJuYWVLRHNUb3UyTkoxZk9wWkdRZzFfVURuSXdnQ2lPWFhQMm8teGprUXdrd1E?oc=5",
-        "publishedAt": "2026-09-10T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzdTLU5fYmNmQ0VxVlc2T04tQktMcTBRYW1tVUVkb0Jpdlc5UWJZeC1vYWk3RHV0MWtTeEhSZDRkbFdhaVd1UWRFWGQzUjFHeFp1dU1vVDFaU0kyckd1RGN1VFB5a0ZkZ3h2SkR5RnNmWjJOejR5cy1FUGctNWg2UmJEenppOTQwcS1YVkNhUjZHcHRiX2FQSUhxOHo0cWI2OUp4Zk82cldHTk9zdzFEUl9iZW9jM2YtUHhzNXlRMUV4U2ZIRUllMmlaQUQxLVdJeUpibjZZVEd4MWF2RWxDLXd0UzlJTnBleGoyQXdXZXRRYVZ0VWfSAfsBQVVfeXFMT0VJZHMydEp3Q2d5LWlCeGI5Mi1yanVDY3B2LWdsYjduYUdQbWphNkVzMTM2di03aFNkWGpsODZGYlJXN2t1czd6d3dsSDBSZFBRdWxQZDhNWDFIWndXY1ZoTllPRG5aMGdZS1VmVGVTbklZaUhubE9kRVRUOGVQWjNWV1ZISVdoMXdQZjZXblhCbUJFLV9aZEhCLU1wc210VFFlemtmc3lSdkxVdFU4UUg5QjM2b2dZSE9SaEM0cndTUGE0NGFNbXJoa0VwclQtY0oxbG85alpNcnFNQk9EbVJHMWdjQkNPVFI4RVRoVk4tbTNWMnZpbEJhbWs?oc=5",
+        "publishedAt": "2026-10-06T07:00:00.000Z"
       },
       {
         "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
